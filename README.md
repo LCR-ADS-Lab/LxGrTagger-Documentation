@@ -8,7 +8,7 @@ A *wh* clause that is a verb complement.
 
 **verb_+_wh** is tagged on the main verb of the complement clause.
 
-*I don't know <ins>how they do it.</ins>
+*I don't know <ins>how they do it.</ins>*
 
 Examples (with *key words* italized and **key phrases/*clauses* bolded**)
 
