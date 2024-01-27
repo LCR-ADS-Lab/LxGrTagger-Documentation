@@ -7,9 +7,9 @@ The tagging scheme is organized into hierarchical structures:
 - Structural type: The highest level of linguistic structure categorization.
     - Syntactic function: Classifies elements based on their function within the structural type.
         - **Complexity Feature**: The focus of tagging, which includes:
-        1. Descriptions: Detailed explanations of the complexity features.
-        2. Tag Placement: Guidelines on where to apply tags within the structure.
-        3. **Examples**: Examples, where the target complexity feature is <ins>underlined</ins> and the tagging location is highlighted in **bold**.
+            1. Descriptions: Detailed explanations of the complexity features.
+            2. Tag Placement: Guidelines on where to apply tags within the structure.
+            3. **Examples**: Examples, where the target complexity feature is <ins>underlined</ins> and the tagging location is highlighted in **bold**.
 
 ## Documentation overview
 
