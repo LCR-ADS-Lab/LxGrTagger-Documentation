@@ -9,7 +9,7 @@ The tagging scheme is organized into hierarchical structures:
         - **Complexity Feature**: The focus of tagging, which includes:
             1. Descriptions: Detailed explanations of the complexity features.
             2. Tag Placement: Guidelines on where to apply tags within the structure.
-            3. **Examples**: Examples, where the target complexity feature is <ins>underlined</ins> and the tagging location is highlighted in **bold**.
+            3. Examples: Examples, where the target complexity feature is <ins>underlined</ins> and the tagging location is highlighted in **bold**.
 
 ## Documentation overview
 
@@ -54,12 +54,12 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
     - *wh*-clauses can be either dependent (1) interrogative clauses or (2) nominal relative clauses.
     - Common *wh*-words: what, who, where, when, why, 'how', and whether
     - Types:
-        - **Interrogative Clauses**: Used with verbs like *ask* and *wonder* to present indirect questions.
-            - e.g., *I wonder <ins>what that could be about</ins>.*
-        - **Nominal Relative Clauses**: Can be paraphrased by a general head noun modified by the *wh*-clause (e.g., </ins>Whoever solves this problem</ins> will be successful => </ins>The person who solves this problem</ins> will be successful.)
-            - e.g., *<ins>What baffles me</ins> is how few of them can spell.* 
+        - Interrogative clauses: Used with verbs like *ask* and *wonder* to present indirect questions.
+            - e.g., *I wonder <ins>what that could **be** about</ins>.*
+        - Nominal relative clauses: Can be paraphrased by a general head noun modified by the *wh*-clause (e.g., </ins>Whoever solves this problem</ins> will be successful => </ins>The person who solves this problem</ins> will be successful.)
+            - e.g., *<ins>What **baffles** me</ins> is how few of them can spell.* 
 2. Tag
-    -  `verb_+_wh`` is tagged on the **main verb** of the complement clause.
+    -  `verb_+_wh` is tagged on the **main verb** of the complement clause.
 3. Examples
     - *I don't know <ins>how they **do** it.</ins>*
 
