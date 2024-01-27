@@ -1,36 +1,44 @@
 # LxGrTagger Annotation Guidelines
 
-## Structure
+## Tagging scheme organization
 
-- Category?: A high-level classification of linguistic features? 
-    - need to check the naming convention
+The tagging scheme is organized into hierarchical structures:
 
-- **Tag**: A specific annotation for LxGrTagger
-    - Description (details about the linguistic features)
-    - Tag (details about the tagging point? or tagging anchor?)
+- Structural type: The highest level of linguistic structure categorization.
+    - Syntactic function: Classifies elements based on their function within the structural type.
+        - **Complexity Feature**: The focus of tagging, which includes:
+        1. Descriptions: Detailed explanations of the complexity features.
+        2. Tag Placement: Guidelines on where to apply tags within the structure.
+        3. **Examples**: Examples, where the target complexity feature is <ins>underlined</ins> and the tagging location is highlighted in **bold**.
 
-## Overview
-- Category [1](#category-1-finite-dependent-clauses-complement-clauses): Finite Dependent Clauses 
-    - Tag [1](#tag-1-verb-wh-complement-clause-verb_wh). Verb + *wh*-complement clause (`verb_+_wh`)
-    - Tag [2](#tag-2-adjective-that-complement-clause-adj_that_comp) Adjective + that complement clause (`adj_that_comp`)
-- Category [2](#category-2-non-finite-dependent-clauses): Non-finite Dependent Clauses 
-- Category [3](#category-3-dependent-phrases-non-clausal): Dependent Phrases (non-clausal)
+## Documentation overview
+
+- structual type 1: [finite dependent clauses](#structual-type-1-finite-dependent-clauses)
+    - syntactic function 1: clause constituent adverbial
+        - complexity feature 1: ...
+    - syntactic function 2: [clause constituent verb complement](#syntactic-function-2-clause-constituent-verb-complement)
+        - complexity feature 1: verb + *that* complement clause
+        - complexity feature 2: [verb + *wh*-complement clause](#complexity-feature-2-verb--wh-complement-clause-verb__wh) (Note: This is where we start from.)
+    - syntactic function 3
+    - syntactic function 4
+    - syntactic function 5: [other phrase constituent_adjective complement](#syntactic-function-5-other-phrase-constituent_adjective-complement)
+        - complexity feature 1: [adjective + *that* complement clause](#complexity-feature-1-adjective--that-complement-clause) (Note: Where we go next.)
+- structural type 2    
 
 ----
 
-### Category 1: Finite Dependent Clauses / Complement clauses
+## Documentation
 
-- Finite dependent clauses (Biber et al., 2007, p. 193)
-    - A **finite** dependent clause includes a verb phrase that is characterized by a specific tense or modality.
-         
-- Complement clauses (Biber et al., 2007, p. 658)
-    - Complement clauses are dependent clauses that complete the meaning of a verb or adjective in a higher (main) clause.
-    - Define complement? 
-    - There are four types of complement clauses: (1) *that*-clause, (2) *wh*-cluase, (3) *to*-infinitive clause, and (4) *ing*-clause.
+### Structual type 1: finite dependent clauses
+A **finite** dependent clause includes a verb phrase that is characterized by a specific tense or modality (Biber et al., 2007, p. 193).
 
-- Examples:
+#### Syntactic function 1: clause constituent adverbial
 
-| Sentence | Finite Dependent | Complement |
+#### Syntactic function 2: clause constituent verb complement
+- Complement clauses are dependent clauses that complete the meaning of a verb or adjective in a higher (main) clause (Biber et al., 2007, p. 658).
+- There are four types of complement clauses: (1) *that*-clause, (2) *wh*-cluase, (3) *to*-infinitive clause, and (4) *ing*-clause.
+
+| Sentence | Finite dependent | Complement |
 |-----------------|---------------------------|-----------------|
 | <ins>That the team won the championship</ins> was unexpected. | ✓ | ✓ |
 | She finished her work <ins>before the deadline arrived</ins>. | ✓ |   |
@@ -39,33 +47,28 @@
 | She enjoys <ins>running in the morning</ins>.                 |   | ✓ |
 | The idea <ins>to be implemented</ins> involves several steps. |   | ✓ |
 
+##### Complexity feature 1: verb + *that*-complement clause
 
-The following tags are included in this category:
-- [1] [Tag 1](#tag-1-verb-wh-complement-clause-verb_wh). Verb + *wh*-complement clause (`verb_+_wh`)
+##### Complexity feature 2: verb + *wh*-complement clause (`verb_+_wh`)
+1. Descriptions (Biber et al., 2007, p. 683)
+    - *wh*-clauses can be either dependent (1) interrogative clauses or (2) nominal relative clauses.
+    - Common *wh*-words: what, who, where, when, why, 'how', and whether
+    - Types:
+        - **Interrogative Clauses**: Used with verbs like *ask* and *wonder* to present indirect questions.
+            - e.g., *I wonder <ins>what that could be about</ins>.*
+        - **Nominal Relative Clauses**: Can be paraphrased by a general head noun modified by the *wh*-clause (e.g., </ins>Whoever solves this problem</ins> will be successful => </ins>The person who solves this problem</ins> will be successful.)
+            - e.g., *<ins>What baffles me</ins> is how few of them can spell.* 
+2. Tag
+    -  `verb_+_wh`` is tagged on the **main verb** of the complement clause.
+3. Examples
+    - *I don't know <ins>how they **do** it.</ins>*
 
+#### Syntactic function 5: other phrase constituent_adjective complement
 
-### Tag 1. Verb + *wh*-complement clause (`verb_+_wh`)
-
-#### Descriptions 
-- Refer to Biber et al. (2007), p. 683
-- *wh*-clauses can be either dependent (1) interrogative clauses or (2) nominal relative clauses.
-- Common *wh*-words: what, who, where, when, why, 'how', and whether
-- Types:
-  - **Interrogative Clauses**: Used with verbs like *ask* and *wonder* to present indirect questions.
-    - Example: I wonder <ins>what that could be about</ins>.
-  - **Nominal Relative Clauses**: Can be paraphrased by a general head noun modified by the *wh*-clause (e.g., </ins>Whoever solves this problem</ins> will be successful => </ins>The person who solves this problem</ins> will be successful.)
-    - Example: <ins>What baffles me</ins> is how few of them can spell. 
-
-
-#### Tag
-- **verb_+_wh** is tagged on the **main verb** of the complement clause.
-
-Examples:
-- *I don't know <ins>how they **do** it.</ins>*
-
-
-### Tag 2. Adjective + that complement clause (adj_that_comp)
-
+##### Complexity feature 1: adjective + *that* complement clause
+1. Description
+2. Tag
+3. Example
 
 
 
