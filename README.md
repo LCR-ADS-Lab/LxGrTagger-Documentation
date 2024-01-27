@@ -23,7 +23,8 @@ The tagging scheme is organized into hierarchical structures:
     - syntactic function 4
     - syntactic function 5: [other phrase constituent_adjective complement](#syntactic-function-5-other-phrase-constituent_adjective-complement)
         - complexity feature 1: [adjective + *that* complement clause](#complexity-feature-1-adjective--that-complement-clause) (Note: Where we go next.)
-- structural type 2    
+- structural type 2: [non-finite dependent clauses](#structual-type-2-non-finite-dependent-clauses)
+- structural type 3: [dependent phrases (non-clausal)](#structual-type-3-dependent-phrases-non-clausal)
 
 ----
 
@@ -74,10 +75,10 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 
 
 
-### Category 2: Non-finite Dependent Clauses
+### Structual type 2: non-finite dependent clauses
 *to be added soon*
 
-### Category 3: Dependent Phrases (non-clausal)
+### Structual type 3: dependent phrases (non-clausal)
 *to be added soon*
 
 
