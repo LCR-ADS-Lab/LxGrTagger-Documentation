@@ -68,12 +68,6 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
     - *He described <ins>what he **saw** at the event.</ins>*
     - *No one knows <ins>how long the journey will **take**.</ins>*
 
-
-4. Questions
-    - What if the main verb is passive?
-        - e.g., *they knew <ins>what were going to be asked</ins>*
-    - Do we use `verb_+_wh` tag or `vb+wh+vcomp` tag for the annotation?
-
 #### Syntactic function 5: other phrase constituent_adjective complement
 - An adjective complement serves to complete the meaning of an adjective
 
@@ -86,9 +80,6 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
     - *We’re happy <ins>that the hunger strike has **ended**.</ins>*
     - *I'm glad <ins>that I **found** you again.</ins>*
     - *It's nice <ins>that people **say** it to you.</ins>*
-
-4. Questions
-    - Do we use `adj_that_comp` or `jj+that+jcomp`?
 
 ### Structual type 2: non-finite dependent clauses
 *to be added soon*
