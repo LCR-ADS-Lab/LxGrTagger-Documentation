@@ -19,10 +19,11 @@ The tagging scheme is organized into hierarchical structures:
     - syntactic function 2: [clause constituent verb complement](#syntactic-function-2-clause-constituent-verb-complement)
         - complexity feature 1: verb + *that* complement clause
         - complexity feature 2: [verb + *wh*-complement clause](#complexity-feature-2-verb--wh-complement-clause-verb__wh) (Note: This is where we start from.)
-    - syntactic function 3
-    - syntactic function 4
+    - syntactic function 3: noun phrase (NP) constituent_NP modifier
+    - syntactic function 4: noun phrase constituent_NP complement
     - syntactic function 5: [other phrase constituent_adjective complement](#syntactic-function-5-other-phrase-constituent_adjective-complement)
-        - complexity feature 1: [adjective + *that* complement clause](#complexity-feature-1-adjective--that-complement-clause) (Note: Where we go next.)
+        - complexity feature 1: [adjective + *that*-complement clause](#complexity-feature-1-adjective--that-complement-clause) (Note: Where we go next.)
+    - syntactic function 6: other phrase constituent_prepositional complement
 - structural type 2: [non-finite dependent clauses](#structual-type-2-non-finite-dependent-clauses)
 - structural type 3: [dependent phrases (non-clausal)](#structual-type-3-dependent-phrases-non-clausal)
 
@@ -57,23 +58,37 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
     - Types:
         - Interrogative clauses: Used with verbs like *ask* and *wonder* to present indirect questions.
             - e.g., *I wonder <ins>what that could **be** about</ins>.*
-        - Nominal relative clauses: Can be paraphrased by a general head noun modified by the *wh*-clause (e.g., </ins>Whoever solves this problem</ins> will be successful => </ins>The person who solves this problem</ins> will be successful.)
+        - Nominal relative clauses: Can be paraphrased by a general head noun modified by the *wh*-clause (e.g., *<ins>Whoever solves this problem</ins> will be successful.* => *The person who solves this problem will be successful.*)
             - e.g., *<ins>What **baffles** me</ins> is how few of them can spell.* 
 2. Tag
-    -  `verb_+_wh` is tagged on the **main verb** of the complement clause.
+    -  `verb_+_wh` is tagged on the **main verb** of the *wh*-complement clause.
 3. Examples
     - *I don't know <ins>how they **do** it.</ins>*
+    - *She showed me <ins>where we should **plant** the tree.</ins>*
+    - *He described <ins>what he **saw** at the event.</ins>*
+    - *No one knows <ins>how long the journey will **take**.</ins>*
+
+
+4. Questions
+    - What if the main verb is passive?
+        - e.g., *they knew <ins>what were going to be asked</ins>*
+    - Do we use `verb_+_wh` tag or `vb+wh+vcomp` tag for the annotation?
 
 #### Syntactic function 5: other phrase constituent_adjective complement
+- An adjective complement serves to complete the meaning of an adjective
 
-##### Complexity feature 1: adjective + *that* complement clause
-1. Description
+##### Complexity feature 1: adjective + *that*-complement clause
+1. Descriptions
+    - Adjectives link with *that*-complement clauses express (1) levels of certainty (e.g., *certain*, *confident*, *evident*), (2) emotional states (e.g., *annoyed*, *glad*, *sad*), or (3) judgment on events (e.g., *appropriate*, *good*, *important*) (Biber et al., 2007, p. 671).
 2. Tag
-3. Example
+    - `adj_that_comp` is tagged on the **main verb** of the *that*-complement clause.
+3. Examples
+    - *We’re happy <ins>that the hunger strike has **ended**.</ins>*
+    - *I'm glad <ins>that I **found** you again.</ins>*
+    - *It's nice <ins>that people **say** it to you.</ins>*
 
-
-
-
+4. Questions
+    - Do we use `adj_that_comp` or `jj+that+jcomp`?
 
 ### Structual type 2: non-finite dependent clauses
 *to be added soon*
