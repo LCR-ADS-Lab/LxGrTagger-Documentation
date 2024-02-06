@@ -78,7 +78,7 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 ##### Complexity feature 1: adjective + *that*-complement clause
 1. Descriptions
     - Adjectives link with *that*-complement clauses express (1) levels of certainty (e.g., *certain*, *confident*, *evident*), (2) emotional states (e.g., *annoyed*, *glad*, *sad*), or (3) judgment on events (e.g., *appropriate*, *good*, *important*) (Biber et al., 2007, p. 671).
-    - We counted the examples with *that* is obmitted in the *that*-complement as it is frequent that *that* is omitted in *that*-clauses (pp.660-669).
+    - We counted the examples with omitted *that* as *that* is frequently omitted in nominal *that*-clauses (pp.660-669).
         -  *I'm amazed <ins>you **know** him.</ins>* (dataset)
 2. Tag
     - `adj_that_comp` is tagged on the **main verb** of the *that*-complement clause.
