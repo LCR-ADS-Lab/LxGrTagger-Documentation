@@ -6,9 +6,9 @@ The tagging scheme is organized into hierarchical structures:
 
 - Structural type: The highest level of linguistic structure categorization.
     - Syntactic function: Classifies elements based on their function within the structural type.
-        - **Complexity Feature**: The focus of tagging, which includes:
+        - **Complexity feature**: The focus of tagging, which includes:
             1. Descriptions: Detailed explanations of the complexity features.
-            2. Tag Placement: Guidelines on where to apply tags within the structure.
+            2. Tag: Guidelines on where to apply tags within the structure.
             3. Examples: Examples, where the target complexity feature is <ins>underlined</ins> and the tagging location is highlighted in **bold**.
 
 ## Documentation overview
@@ -62,11 +62,15 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
             - e.g., *<ins>What **baffles** me</ins> is how few of them can spell.* 
 2. Tag
     -  `verb_+_wh` is tagged on the **main verb** of the *wh*-complement clause.
+    -  [passive] We tagged on the **passive**, not on the *be*-verb.
+       -  *they knew <ins>what they were going to be **asked**.</ins>*
 3. Examples
     - *I don't know <ins>how they **do** it.</ins>*
     - *She showed me <ins>where we should **plant** the tree.</ins>*
     - *He described <ins>what he **saw** at the event.</ins>*
     - *No one knows <ins>how long the journey will **take**.</ins>*
+    - *What I don't understand," she said, "is <ins>why they don't **let** me know anything.</ins>"* (p.193)
+    - *that's <ins>how I **did** it.</ins>* (dataset)
 
 #### Syntactic function 5: other phrase constituent_adjective complement
 - An adjective complement serves to complete the meaning of an adjective
@@ -74,6 +78,8 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 ##### Complexity feature 1: adjective + *that*-complement clause
 1. Descriptions
     - Adjectives link with *that*-complement clauses express (1) levels of certainty (e.g., *certain*, *confident*, *evident*), (2) emotional states (e.g., *annoyed*, *glad*, *sad*), or (3) judgment on events (e.g., *appropriate*, *good*, *important*) (Biber et al., 2007, p. 671).
+    - We counted the examples with *that* is obmitted in the *that*-complement as it is frequent that *that* is omitted in *that*-clauses (pp.660-669).
+        -  *I'm amazed <ins>you **know** him.</ins>* (dataset)
 2. Tag
     - `adj_that_comp` is tagged on the **main verb** of the *that*-complement clause.
 3. Examples
