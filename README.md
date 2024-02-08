@@ -49,7 +49,16 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 | She enjoys <ins>running in the morning</ins>.                 |   | ✓ |
 | The idea <ins>to be implemented</ins> involves several steps. |   | ✓ |
 
-##### Complexity feature 1: verb + *that*-complement clause
+##### Complexity feature 1: verb + *that*-complement clause (`V_that_comp`; `V_that_0`)
+
+1. Descriptions
+
+2. Tag
+    - `V_that_comp` or `V_that_0` (with ZERO complementizer) is tagged on the **main verb** of the *that*-complement clause.
+
+3. Examples
+    - *I would hope <ins>that we can **have** more control over them.</ins>* (Kris' table)
+    - (with ZERO complementizer) *yeah, I think <ins>I probably could.</ins>* (HS: included but no place to tag because we have no main verb?) (Kris' table)
 
 ##### Complexity feature 2: verb + *wh*-complement clause (`verb_+_wh`)
 1. Descriptions (Biber et al., 2007, p. 683)
@@ -76,7 +85,7 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 
 *to be added soon*
 
-#### Syntactic function 4: noun phrase constituent_NP complement
+#### Syntactic function 4: noun phrase constituent_NP complement (`N_that_comp`)
 1. Descriptions (p.676)
     - Pre-predicate vs. Extraposed *that*-clauses:
         - Identifies two primary structures for *that*-clauses: (1) pre-predicate subject *that*-clauses and (2) extraposed *that*-clauses. In both cases, the *that*-clause is the logical subject of the sentence.
@@ -93,7 +102,7 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
             - (2) *to*-infinitive clauses: *These figures lead to an [expectation] <ins>that the main application area would **be** in the office environments.</ins>*" (From academic context)*
 
 2. Tag
-    - `N_that_comp` is tagged on the **main verb** of the *that*-complement clause (Note: needs to check)
+    - `N_that_comp` is tagged on the **main verb** of the *that*-complement clause.
 3. Examples
     - *The fact <ins>that no tracer particles were **found**</ins> indicates that these areas are not a pathway…* (Kris' table)
     - *<ins>That he is **ranked** only No 4 in the world at the moment</ins> is due to the eccentricity of the system.*
