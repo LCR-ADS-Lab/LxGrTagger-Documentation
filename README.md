@@ -20,12 +20,14 @@ The tagging scheme is organized into hierarchical structures:
         - complexity feature 1: [verb + *that* complement clause](#complexity-feature-1-verb--that-complement-clause) (Week 5)
         - complexity feature 2: [verb + *wh*-complement clause](#complexity-feature-2-verb--wh-complement-clause-verb__wh) (Week 3)
     - syntactic function 3: [noun phrase (NP) constituent_NP modifier](#syntactic-function-3-noun-phrase-np-constituent_np-modifier)
-    - syntactic function 4: [noun phrase constituent_NP complement](#syntactic-function-4-noun-phrase-constituent_np-complement) (Week 5)
+    - syntactic function 4: [noun phrase constituent_NP complement](#syntactic-function-4-noun-phrase-constituent-np-complement)
+        - complexity feature 1: [noun + *that*-complement clause](#complexity-feature-1-noun--that-complement-clause-n_that_comp) (Week 5)
     - syntactic function 5: [other phrase constituent_adjective complement](#syntactic-function-5-other-phrase-constituent_adjective-complement)
         - complexity feature 1: [adjective + *that*-complement clause](#complexity-feature-1-adjective--that-complement-clause) (Week 3)
     - syntactic function 6: other phrase constituent_prepositional complement
 - structural type 2: [non-finite dependent clauses](#structual-type-2-non-finite-dependent-clauses)
 - structural type 3: [dependent phrases (non-clausal)](#structual-type-3-dependent-phrases-non-clausal)
+
 
 ----
 
@@ -51,7 +53,7 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 
 ##### Complexity feature 1: verb + *that*-complement clause (`V_that_comp`; `V_that_0`)
 
-1. Descriptions (Biber et al., 2007, p. 661
+1. Descriptions (Biber et al., 2007, p. 661)
     - Post-predicate *that*-clauses controlled by verbs come in 3 main domains
         - **Mental verbs:** Related to cognition, include emotive/affective content (e.g *hope*)
         - **Speech act verbs:** Directly indicate speech occuring (e.g *say*)
@@ -61,6 +63,16 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
         - **Mental:** believe, feel, find, guess, know, see, think, assume, conclude
         - **Speech act:** say, admit, agree, announce, argue, bet, insist
         - **Other communication:** show, suggest, ensure, indicate, prove
+
+    - Pre-predicate vs. Extraposed *that*-clauses (p.676):
+        - Identifies two primary structures for *that*-clauses: (1) pre-predicate subject *that*-clauses and (2) extraposed *that*-clauses. In both cases, the *that*-clause is the logical subject of the sentence.
+            - (1) Pre-predicate: *<ins>That Saints **managed** to cause an upset with nothing more than direct running and honest endeavour</ins> bodes well for Great Britain.*
+            - (2) Extraposed: *Maybe it annoys them <ins>that you don't **fit** their image of a fairy princess.</ins>* = *<ins>That you don't **fit** their image of a fairy princess</ins> annoys them.*
+
+    - Related Construction with NP Complement: It features a NP complement beginning with "the fact that". (HS: needs to check)
+        - e.g., *<ins>The fact that the medical technicians **were** available</ins> does not make the government's conduct any less offensive.*
+        - In this structure, the *that*-clause is a complement to the NP "the fact", but typically shares a similar meaning with a pre-predicate *that*-clause (i.e., "the fact" can be omitted.)
+
 3. Tag
     - `V_that_comp` or `V_that_0` (with ZERO complementizer) is tagged on the **main verb** of the *that*-complement clause.
 4. Examples
@@ -94,31 +106,37 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 
 *to be added soon*
 
-#### Syntactic function 4: noun phrase constituent_NP complement (`N_that_comp`)
-1. Descriptions (p.676)
-    - Pre-predicate vs. Extraposed *that*-clauses:
-        - Identifies two primary structures for *that*-clauses: (1) pre-predicate subject *that*-clauses and (2) extraposed *that*-clauses. In both cases, the *that*-clause is the logical subject of the sentence.
-            - (1) Pre-predicate: *<ins>That Saints **managed** to cause an upset with nothing more than direct running and honest endeavour</ins> bodes well for Great Britain.*
-            - (2) Extraposed: *Maybe it annoys them <ins>that you don't **fit** their image of a fairy princess.</ins>* = *<ins>That you don't **fit** their image of a fairy princess</ins> annoys them.*
-    - Related Construction with NP Complement: It features a NP complement beginning with "the fact that".
-        - e.g., *<ins>The fact that the medical technicians **were** available</ins> does not make the government's conduct any less offensive.*
-        - In this structure, the *that*-clause is a complement to the NP "the fact", but typically shares a similar meaning with a pre-predicate *that*-clause (i.e., "the fact" can be omitted.)
-    - NP complement clause (pp.644-645) (Reference; Not include this case)
+##### Complexity feature 1: ...
+
+
+#### Syntactic function 4: noun phrase constituent: NP complement 
+
+*to be added soon*
+
+##### Complexity feature 1: Noun + *that*-complement clause (`N_that_comp`)
+
+
+1. Descriptions 
+    - NP complement clause (pp.644-645)
         - There are two types of noun complement clauses: (1) *that*-clauses and (2) *to*-infinitive clauses.
             - (1) *that*-clauses*: *There were also [rumors] <ins>that Ford had now taken its stake up to the maximum 15 percent allowed.</ins>*
-                - This does not count into the target tag here, because this not a complement for the verb, but a complement for the preceding noun (i.e., "adding some descriptive information about that noun", p.645).
-                - In noun complement *that*-clauses, the complementizer "that" cannot be omitted.
-            - (2) *to*-infinitive clauses: *These figures lead to an [expectation] <ins>that the main application area would **be** in the office environments.</ins>*" (From academic context)*
+                - Here, the *that*-clause is NOT a complement for the verb, but a complement for the preceding noun (i.e., "adding some descriptive information about that noun", p.645).
+                - In noun complement *that*-clauses, the complementizer "that" CANNOT be omitted.
+
+            -  (2) *to*-infinitive clauses: *You've been given [permission] <ins>to wear them.</ins>* (Note: this is NOT included in the tag, just for reference)
+
+    - Nominal postmodifiers are different from NP complement clauses (p. 644)
+        - *Peter reached out for the well-thumbed report <ins>that **lay** behind him on the cupboard top.</ins>* (Nominal postmodifier; NOT included)
+        - *Other semiconductor stocks eased folluwing an industry trade group's [report] <ins>that its leading indicator **fell** in September.</ins>* (NP complement clause; included)
 
 2. Tag
     - `N_that_comp` is tagged on the **main verb** of the *that*-complement clause.
 3. Examples
     - *The fact <ins>that no tracer particles were **found**</ins> indicates that these areas are not a pathway…* (Kris' table)
-    - *<ins>That he is **ranked** only No 4 in the world at the moment</ins> is due to the eccentricity of the system.*
     - *The observation <ins>that the species has **adapted** to urban environments</ins> challenges traditional views on wildlife habitat preferences.*
-    - *<ins>That she **won** the award</ins> despite fierce competition speaks volumes about her talent.*
     - *The conclusion <ins>that global temperatures are **rising**</ins> faster than previously estimated is alarming.*
-    - *<ins>That the project was **completed** under budget</ins> demonstrates efficient management and planning.*
+    
+
 
 #### Syntactic function 5: other phrase constituent_adjective complement
 - An adjective complement serves to complete the meaning of an adjective
