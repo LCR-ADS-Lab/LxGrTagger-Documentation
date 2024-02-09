@@ -51,12 +51,21 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 
 ##### Complexity feature 1: verb + *that*-complement clause (`V_that_comp`; `V_that_0`)
 
-1. Descriptions
-
-2. Tag
+1. Descriptions (Biber et al., 2007, p. 661
+    - Post-predicate *that*-clauses controlled by verbs come in 3 main domains
+        - **Mental verbs:** Related to cognition, include emotive/affective content (e.g *hope*)
+        - **Speech act verbs:** Directly indicate speech occuring (e.g *say*)
+        - **Other communication verbs:** Do not *necessarily* involve speech (e.g *show*)
+    - Note the lack of an intermediary NP or *to* NP between verb & *that*-clause
+    - Common verbs:
+        - **Mental:** believe, feel, find, guess, know, see, think, assume, conclude
+        - **Speech act:** say, admit, agree, announce, argue, bet, insist
+        - **Other communication:** show, suggest, ensure, indicate, prove
+3. Tag
     - `V_that_comp` or `V_that_0` (with ZERO complementizer) is tagged on the **main verb** of the *that*-complement clause.
-
-3. Examples
+4. Examples
+    - *I didn't agree <ins>that he should be **compelled** to do singing.</ins>* (Biber et al, p. 661)
+    - *I suggested <ins>that she **sit** down on the chair and wait</ins>* (*Ibid* 662)
     - *I would hope <ins>that we can **have** more control over them.</ins>* (Kris' table)
     - (with ZERO complementizer) *yeah, I think <ins>I probably could.</ins>* (HS: included but no place to tag because we have no main verb?) (Kris' table)
 
