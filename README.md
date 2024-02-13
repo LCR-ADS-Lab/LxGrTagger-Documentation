@@ -39,10 +39,11 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 #### Syntactic function 1: clause constituent adverbial
 
 #### Syntactic function 2: clause constituent verb complement
-- Complement clauses are dependent clauses that complete the meaning of a verb or adjective in a higher (main) clause (Biber et al., 2007, p. 658).
-- There are four types of complement clauses: (1) *that*-clause, (2) *wh*-cluase, (3) *to*-infinitive clause, and (4) *ing*-clause.
+- Verb complement clauses are dependent clauses that complete the meaning of a verb in a higher (main) clause (Biber et al., 2007, p. 658).
+- For more descriptions, see [here](MoreDescriptions.md#verb-complement).
+- There are four types of verb complement clauses: (1) *that*-clause, (2) *wh*-cluase, (3) *to*-infinitive clause, and (4) *ing*-clause.
 
-| Sentence | Finite dependent | Complement |
+| Sentence | Finite dependent | Verb complement |
 |-----------------|---------------------------|-----------------|
 | <ins>That the team won the championship</ins> was unexpected. | ✓ | ✓ |
 | She finished her work <ins>before the deadline arrived</ins>. | ✓ |   |
