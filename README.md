@@ -40,7 +40,7 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 
 #### Syntactic function 2: clause constituent verb complement
 - Verb complement clauses are dependent clauses that complete the meaning of a verb in a higher (main) clause (Biber et al., 2007, p. 658).
-- For more descriptions, see [here](MoreDescriptions.md#verb-complement).
+- For general explanation on verb complement, see [here](MoreDescriptions.md#1-verb-complement).
 - There are four types of verb complement clauses: (1) *that*-clause, (2) *wh*-cluase, (3) *to*-infinitive clause, and (4) *ing*-clause.
 
 | Sentence | Finite dependent | Verb complement |
@@ -65,22 +65,14 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
         - **Speech act:** say, admit, agree, announce, argue, bet, insist
         - **Other communication:** show, suggest, ensure, indicate, prove
 
-    - Pre-predicate vs. Extraposed *that*-clauses (p.676):
-        - Identifies two primary structures for *that*-clauses: (1) pre-predicate subject *that*-clauses and (2) extraposed *that*-clauses. In both cases, the *that*-clause is the logical subject of the sentence.
-            - (1) Pre-predicate: *<ins>That Saints **managed** to cause an upset with nothing more than direct running and honest endeavour</ins> bodes well for Great Britain.*
-            - (2) Extraposed: *Maybe it annoys them <ins>that you don't **fit** their image of a fairy princess.</ins>* = *<ins>That you don't **fit** their image of a fairy princess</ins> annoys them.*
-
-    - Related Construction with NP Complement: It features a NP complement beginning with "the fact that". (HS: needs to check)
-        - e.g., *<ins>The fact that the medical technicians **were** available</ins> does not make the government's conduct any less offensive.*
-        - In this structure, the *that*-clause is a complement to the NP "the fact", but typically shares a similar meaning with a pre-predicate *that*-clause (i.e., "the fact" can be omitted.)
-
 3. Tag
     - `V_that_comp` or `V_that_0` (with ZERO complementizer) is tagged on the **main verb** of the *that*-complement clause.
 4. Examples
     - *I didn't agree <ins>that he should be **compelled** to do singing.</ins>* (Biber et al, p. 661)
-    - *I suggested <ins>that she **sit** down on the chair and wait</ins>* (*Ibid* 662)
+    - *I suggested <ins>that she **sit** down on the chair and wait</ins>.* (*Ibid* 662)
     - *I would hope <ins>that we can **have** more control over them.</ins>* (Kris' table)
-    - (with ZERO complementizer) *yeah, I think <ins>I probably could.</ins>* (HS: included but no place to tag because we have no main verb?) (Kris' table)
+    - (with ZERO complementizer) *yeah, I think <ins>I probably could.</ins>* (HS: included but no place to tag because we don't have main verb?) (Kris' table)
+    - *I propose <ins>that Mary should be invited</ins>.* (Haegeman & Guéron, 1998, p.441)
 
 ##### Complexity feature 2: verb + *wh*-complement clause (`verb_+_wh`)
 1. Descriptions (Biber et al., 2007, p. 683)
@@ -107,14 +99,21 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 
 *to be added soon*
 
-##### Complexity feature 1: ...
-
-
-#### Syntactic function 4: noun phrase constituent: NP complement 
+##### Complexity feature 1: noun + finite relative clause (*that*- or *WH* or with deleted relative pronoun)
 
 *to be added soon*
 
-##### Complexity feature 1: Noun + *that*-complement clause (`N_that_comp`)
+#### Syntactic function 4: noun phrase constituent: NP complement 
+
+- When discussing 'complement' with verb complement, it was explained that complement clauses are dependent clauses that complete the meaning of a verb.
+- One point to differentiate accurately between (1) NP modifier and (2) NP complement is the exact meaning of NP complement.
+- The following is a brief explanation of NP-complementation (Haegeman & Guéron, 1998, pp.440-441):
+    - Verbs take a wide range of complements, including finite clauses, non-finite clauses, etc.
+    - Nouns can select finite clauses as their complements as demonstrated in the following examples (More examples, [here](MoreDescriptions.md#2-NP-complement):
+        - *I propose <ins>that Mary should be **invited**</ins>.* (verb-complement)
+        - *The proposal <ins>that Mary should be **invited**</ins> is preposterous.* (NP-complement)
+
+##### Complexity feature 1: noun + *that*-complement clause (`N_that_comp`)
 
 
 1. Descriptions 
@@ -127,7 +126,7 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
             -  (2) *to*-infinitive clauses: *You've been given [permission] <ins>to wear them.</ins>* (Note: this is NOT included in the tag, just for reference)
 
     - Nominal postmodifiers are different from NP complement clauses (p. 644)
-        - *Peter reached out for the well-thumbed report <ins>that **lay** behind him on the cupboard top.</ins>* (Nominal postmodifier; NOT included)
+        - *Peter reached out for the well-thumbed report <ins>that **lay** behind him on the cupboard top.</ins>* (Nominal postmodifier; NOT included >> should be "noun + finite relative clause")
         - *Other semiconductor stocks eased folluwing an industry trade group's [report] <ins>that its leading indicator **fell** in September.</ins>* (NP complement clause; included)
 
 2. Tag
@@ -164,4 +163,6 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 ----
 
 ### References
-Biber, D., Johansson, S., Leech, G., Conrad, S., & Finegan, E. (2007). Longman Grammar of Spoken and Written English (6th ed.). Longman.
+- Biber, D., Johansson, S., Leech, G., Conrad, S., & Finegan, E. (2007). *Longman Grammar of Spoken and Written English (6th ed.).* Longman.
+
+- Haegeman, L., & Guéron, J. (1998). *English grammar: A generative perspective (Vol. 12).* John Wiley & Sons.
