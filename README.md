@@ -113,10 +113,10 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 #### Syntactic function 4: noun phrase constituent: NP complement 
 
 - When discussing 'complement' with verb complement, it was explained that complement clauses are dependent clauses that complete the meaning of a verb.
-- One point to differentiate accurately between (1) NP modifier and (2) NP complement is the exact meaning of NP complement.
+- NP-**modifier** and NP-**complement** are often ambiguous (Biber et al., p.644).
 - The following is a brief explanation of NP-complementation (Haegeman & Guéron, 1998, pp.440-441):
     - Verbs take a wide range of complements, including finite clauses, non-finite clauses, etc.
-    - Nouns can select finite clauses as their complements as demonstrated in the following examples (More examples, [here](MoreDescriptions.md#2-NP-complement):
+    - Nouns can select finite clauses as their complements as demonstrated in the following examples (For more examples, see [here](MoreDescriptions.md#2-NP-complement)):
         - *I propose <ins>that Mary should be **invited**</ins>.* (verb-complement)
         - *The proposal <ins>that Mary should be **invited**</ins> is preposterous.* (NP-complement)
 
