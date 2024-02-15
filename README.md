@@ -8,7 +8,7 @@ The tagging scheme is organized into hierarchical structures:
     - Syntactic function: Classifies elements based on their function within the structural type.
         - **Complexity feature**: The focus of tagging, which includes:
             1. Descriptions: Detailed explanations of the complexity features.
-            2. Tag: Guidelines on where to apply tags within the structure.
+            2. Tag: Guidelines on where to apply the tag (`TAG NAME`) within the structure.
             3. Examples: Examples, where the target complexity feature is <ins>underlined</ins> and the tagging location is highlighted in **bold**.
 
 ## Documentation overview
@@ -17,13 +17,15 @@ The tagging scheme is organized into hierarchical structures:
     - syntactic function 1: clause constituent adverbial
         - complexity feature 1: ...
     - syntactic function 2: [clause constituent verb complement](#syntactic-function-2-clause-constituent-verb-complement)
-        - complexity feature 1: [verb + *that* complement clause](#complexity-feature-1-verb--that-complement-clause) (Week 5)
-        - complexity feature 2: [verb + *wh*-complement clause](#complexity-feature-2-verb--wh-complement-clause-verb__wh) (Week 3)
+        - complexity feature 1: [verb + *that* complement clause](#complexity-feature-1-verb--that-complement-clause-v_that_comp-v_that_0) (W5)
+        - complexity feature 2: [verb + *wh*-complement clause](#complexity-feature-2-verb--wh-complement-clause-verb__wh) (W3)
     - syntactic function 3: [noun phrase (NP) constituent_NP modifier](#syntactic-function-3-noun-phrase-np-constituent_np-modifier)
+        - complexity feature 1: [noun + finite relative clause](#complexity-feature-1-noun--finite-relative-clause-finite_rel) (W6)
     - syntactic function 4: [noun phrase constituent_NP complement](#syntactic-function-4-noun-phrase-constituent-np-complement)
-        - complexity feature 1: [noun + *that*-complement clause](#complexity-feature-1-noun--that-complement-clause-n_that_comp) (Week 5)
+        - complexity feature 1: [noun + *that*-complement clause](#complexity-feature-1-noun--that-complement-clause-n_that_comp) (W5)
     - syntactic function 5: [other phrase constituent_adjective complement](#syntactic-function-5-other-phrase-constituent_adjective-complement)
-        - complexity feature 1: [adjective + *that*-complement clause](#complexity-feature-1-adjective--that-complement-clause) (Week 3)
+        - complexity feature 1: [adjective + *that*-complement clause](#complexity-feature-1-adjective--that-complement-clause-adj_that_comp) (W3, 6)
+        - complexity feature 2: [extraposed adjective + *that*-complement clause](#complexity-feature-2-extraposed-adjective--that-complement-clause-xtraposjjthatcompcls) (W6)
     - syntactic function 6: other phrase constituent_prepositional complement
 - structural type 2: [non-finite dependent clauses](#structual-type-2-non-finite-dependent-clauses)
 - structural type 3: [dependent phrases (non-clausal)](#structual-type-3-dependent-phrases-non-clausal)
@@ -99,9 +101,14 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 
 *to be added soon*
 
-##### Complexity feature 1: noun + finite relative clause (*that*- or *WH* or with deleted relative pronoun)
+##### Complexity feature 1: noun + finite relative clause (`finite_rel`)
 
-*to be added soon*
+1. Descriptions
+    -  *to be added*
+2. Tag
+    - `finite_rel` is tagged on the **main verb** of the *that*- of *wh*- relative clause (also include the relative clause with deleted relative pronoun).
+3. Examples
+    -  *to be added*
 
 #### Syntactic function 4: noun phrase constituent: NP complement 
 
@@ -114,7 +121,6 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
         - *The proposal <ins>that Mary should be **invited**</ins> is preposterous.* (NP-complement)
 
 ##### Complexity feature 1: noun + *that*-complement clause (`N_that_comp`)
-
 
 1. Descriptions 
     - NP complement clause (pp.644-645)
@@ -135,13 +141,12 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
     - *The fact <ins>that no tracer particles were **found**</ins> indicates that these areas are not a pathway…* (Kris' table)
     - *The observation <ins>that the species has **adapted** to urban environments</ins> challenges traditional views on wildlife habitat preferences.*
     - *The conclusion <ins>that global temperatures are **rising**</ins> faster than previously estimated is alarming.*
-    
-
 
 #### Syntactic function 5: other phrase constituent_adjective complement
 - An adjective complement serves to complete the meaning of an adjective
 
-##### Complexity feature 1: adjective + *that*-complement clause
+##### Complexity feature 1: adjective + *that*-complement clause (`adj_that_comp`)
+
 1. Descriptions
     - Adjectives link with *that*-complement clauses express (1) levels of certainty (e.g., *certain*, *confident*, *evident*), (2) emotional states (e.g., *annoyed*, *glad*, *sad*), or (3) judgment on events (e.g., *appropriate*, *good*, *important*) (Biber et al., 2007, p. 671).
     - We counted the examples with omitted *that* as *that* is frequently omitted in nominal *that*-clauses (pp.660-669).
@@ -152,6 +157,15 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
     - *We’re happy <ins>that the hunger strike has **ended**.</ins>*
     - *I'm glad <ins>that I **found** you again.</ins>*
     - *It's nice <ins>that people **say** it to you.</ins>*
+
+##### Complexity feature 2: extraposed adjective + *that*-complement clause (`xtrapos+jj+that+compcls`)
+
+1. Descriptions
+    - *to be added*
+2. Tag
+    - `xtrapos+jj+that+compcls` is tagged on the **main verb** of the *that*-complement clause.
+3. Examples
+    - *to be added*
 
 ### Structual type 2: non-finite dependent clauses
 *to be added soon*
