@@ -109,17 +109,19 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
         -  **Relative pronoun:** which, who, whom, whose, that
         -  **Relative adverb:** where, when, why
         -  **Zero relativizer:** relativizer is _ommited_
+    - Nominal postmodifiers are different from NP complement clauses (p. 644)
+        - e.g *Peter reached out for the well-thumbed report <ins>that **lay** behind him on the cupboard top.</ins>* 
 2. Tag
     - `finite_rel` is tagged on the **main verb** of the *that*- of *wh*- relative clause (also include the relative clause with deleted relative pronoun).
 3. Examples
-    -  *The lowest pressure ratio <ins>which will **give** an acceptable performance</ins> is always chosen.* (Biber et al., p.608)
+    -  *The lowest pressure ratio <ins>which will **give** an acceptable performance</ins> is always chosen.* (Biber et al., 2007, p.608)
     -  *There are plenty of existing owners <ins>who **are** already keen to make the move.</ins>* (*Ibid* p.608)
     -  *There was a slight, furtive boy <ins>whom no one **knew**.</ins>* (*Ibid* p.608)
     -  *It was good for the fans, <ins>whose support so far this season has **been** fantastic.</ins>* (*Ibid* p.608)
-    -  *Well, that's the only way <ins>that this can be definatively **assessed**.</ins>*
+    -  *Well, that's the only way <ins>that this can be definitively **assessed**.</ins>*
     -  **Zero Relativizer:**
-        -  *The next thing <ins>[that] she **knows**</ins>, she's talking to Danny.* (*Ibid p.609)
-        -  *Gwen gave the little frowning smile <ins>[that] she **used** when she was putting something to someone.</ins>*
+        -  *The next thing <ins>[that] she **knows**</ins>, she's talking to Danny.* (*Ibid* p.609)
+        -  *Gwen gave the little frowning smile <ins>[that] she **used** when she was putting something to someone.</ins>* (*Ibid* p.609)
 
 #### Syntactic function 4: noun phrase constituent: NP complement 
 
@@ -141,9 +143,6 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
                 - In noun complement *that*-clauses, the complementizer "that" CANNOT be omitted.
 
             -  (2) *to*-infinitive clauses: *You've been given [permission] <ins>to wear them.</ins>* (Note: this is NOT included in the tag, just for reference)
-
-    - Nominal postmodifiers are different from NP complement clauses (p. 644)
-        - *Peter reached out for the well-thumbed report <ins>that **lay** behind him on the cupboard top.</ins>* (Nominal postmodifier; NOT included >> should be "noun + finite relative clause")
         - *Other semiconductor stocks eased folluwing an industry trade group's [report] <ins>that its leading indicator **fell** in September.</ins>* (NP complement clause; included)
 
 2. Tag
@@ -172,11 +171,27 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 ##### Complexity feature 2: extraposed adjective + *that*-complement clause (`xtrapos+jj+that+compcls`)
 
 1. Descriptions
-    - *to be added*
+    - Adjectival predicates with extraposed that-clauses mark a stance or attitude towards the proposition in the that-clause.
+        - In most cases, this predicate represents the attitude of the speaker/writer, although it is not overtly attributed to that person.
+    - Types of controlling adjectival predicates:
+        - **Certainty Adjectives** indicate the extent to which the speaker/writer regards the embedded proposition is *probable*:
+            - *accepted, apparent, certain, plain, inevitable, etc.*
+        - **Affective/Evaluative Adjectives** mark other assessments or attitudes twoards the proposition in the *that*-clause:
+            - *(un)acceptable, preferable, sensible, amazing, bad, funny, dreadful, odd, suprising, neat, etc.*
+            - Several evaluative adjectives can occur with an extraposed *that*-clause having a hypothetical sense. These constructions are marked by *should* or subjunctive verb forms.
+                - e.g: *It is preferable <ins>that the marked cells [should **be**] identical in their behaviour to the unmarked cells.</ins>* (Biber et al., 2007, p. 674)
+        - **Necessity or Importance Adjectives** reflect the writer's belief that a proposed course of action is essential or important:
+            - *advisable, critical, crucial, essential, fitting, obligatory, vital, etc.*
 2. Tag
     - `xtrapos+jj+that+compcls` is tagged on the **main verb** of the *that*-complement clause.
 3. Examples
-    - *to be added*
+    - *It has been clear for some time <ins>that the demands of the arms control process would increasingly **dominate** military planning.</ins>* (Biber et al., 2007, p. 673)
+    - *It is obvious <ins>that direct chilling of the udder **depends** as much on the thermal properties of the floor as on the air temperature.</ins>* (*Ibid* p. 673)
+    - *It's horrible <ins>that he **put up** with Claire's nagging.</ins>* (*Ibid* 673)
+    - *It is tragic <ins>that so many of his generation **died** as they did.</ins>* (*Ibid* 673)
+    - *It is sensible <ins>that the breeding animals [**receive**] the highest protection.</ins>* (*Ibid* 674)
+    - *It is important <ins>that it **be** well sealed from air leakage.</ins>* (*Ibid* 674)
+    - *It is vital <ins>that leaking water is **avoided**.</ins>* (*Ibid* 674)
 
 ### Structual type 2: non-finite dependent clauses
 *to be added soon*
