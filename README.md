@@ -14,8 +14,8 @@ The tagging scheme is organized into hierarchical structures:
 ## Documentation overview
 
 - structual type 1: [finite dependent clauses](#structual-type-1-finite-dependent-clauses)
-    - syntactic function 1: clause constituent adverbial
-        - complexity feature 1: ...
+    - syntactic function 1: [clause constituent adverbial](#syntactic-function-1-clause-constituent-adverbial)
+        - complexity feature 1: [multiple adverbial alcuses](#complexity-feature-1-multiple-adverbial-clause) (W7)
     - syntactic function 2: [clause constituent verb complement](#syntactic-function-2-clause-constituent-verb-complement)
         - complexity feature 1: [verb + *that* complement clause](#complexity-feature-1-verb--that-complement-clause-v_that_comp-v_that_0) (W5)
         - complexity feature 2: [verb + *wh*-complement clause](#complexity-feature-2-verb--wh-complement-clause-verb__wh) (W3)
@@ -26,7 +26,8 @@ The tagging scheme is organized into hierarchical structures:
     - syntactic function 5: [other phrase constituent_adjective complement](#syntactic-function-5-other-phrase-constituent_adjective-complement)
         - complexity feature 1: [adjective + *that*-complement clause](#complexity-feature-1-adjective--that-complement-clause-adj_that_comp) (W3, 6)
         - complexity feature 2: [extraposed adjective + *that*-complement clause](#complexity-feature-2-extraposed-adjective--that-complement-clause-xtraposjjthatcompcls) (W6)
-    - syntactic function 6: other phrase constituent_prepositional complement
+    - syntactic function 6: [other phrase constituent_prepositional complement](#syntactic-function-6-other-phrase-constituent_preposition-complement)
+        - complexity feature 1: [preposition + *wh*-complement clause](#complexity-feature-1-preposition--wh-complement-clause-prep__wh) (W8)        
 - structural type 2: [non-finite dependent clauses](#structual-type-2-non-finite-dependent-clauses)
 - structural type 3: [dependent phrases (non-clausal)](#structual-type-3-dependent-phrases-non-clausal)
 
@@ -39,6 +40,21 @@ The tagging scheme is organized into hierarchical structures:
 A **finite** dependent clause includes a verb phrase that is characterized by a specific tense or modality (Biber et al., 2007, p. 193).
 
 #### Syntactic function 1: clause constituent adverbial
+
+*to be added soon*
+
+##### Complexity feature 1: multiple adverbial clause 
+(`finite_advl_cls`)
+
+(NOTE-HS: originall the name of the feature is Causative, conditional, concessive clause)
+
+1. Descriptions
+    -  *to be added*
+2. Tag
+    - `finite_advl_cls` is tagged on the **main verb** of the *that*- of *wh*- relative clause (also include the relative clause with deleted relative pronoun).
+3. Examples
+    -  *to be added*
+
 
 #### Syntactic function 2: clause constituent verb complement
 - Verb complement clauses are dependent clauses that complete the meaning of a verb in a higher (main) clause (Biber et al., 2007, p. 658).
@@ -104,24 +120,11 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 ##### Complexity feature 1: noun + finite relative clause (`finite_rel`)
 
 1. Descriptions
-    -  A finite relative clause follows the head noun phrase, and are always missing a constituent (corresponds in meaning to the _head noun_)
-    -  _Relativizers_ are one of:
-        -  **Relative pronoun:** which, who, whom, whose, that
-        -  **Relative adverb:** where, when, why
-        -  **Zero relativizer:** relativizer is _ommited_
-    - Nominal postmodifiers are different from NP complement clauses (p. 644)
-        - e.g *Peter reached out for the well-thumbed report <ins>that **lay** behind him on the cupboard top.</ins>* 
+    -  *to be added*
 2. Tag
     - `finite_rel` is tagged on the **main verb** of the *that*- of *wh*- relative clause (also include the relative clause with deleted relative pronoun).
 3. Examples
-    -  *The lowest pressure ratio <ins>which will **give** an acceptable performance</ins> is always chosen.* (Biber et al., 2007, p.608)
-    -  *There are plenty of existing owners <ins>who **are** already keen to make the move.</ins>* (*Ibid* p.608)
-    -  *There was a slight, furtive boy <ins>whom no one **knew**.</ins>* (*Ibid* p.608)
-    -  *It was good for the fans, <ins>whose support so far this season has **been** fantastic.</ins>* (*Ibid* p.608)
-    -  *Well, that's the only way <ins>that this can be definitively **assessed**.</ins>*
-    -  **Zero Relativizer:**
-        -  *The next thing <ins>[that] she **knows**</ins>, she's talking to Danny.* (*Ibid* p.609)
-        -  *Gwen gave the little frowning smile <ins>[that] she **used** when she was putting something to someone.</ins>* (*Ibid* p.609)
+    -  *to be added*
 
 #### Syntactic function 4: noun phrase constituent: NP complement 
 
@@ -143,6 +146,9 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
                 - In noun complement *that*-clauses, the complementizer "that" CANNOT be omitted.
 
             -  (2) *to*-infinitive clauses: *You've been given [permission] <ins>to wear them.</ins>* (Note: this is NOT included in the tag, just for reference)
+
+    - Nominal postmodifiers are different from NP complement clauses (p. 644)
+        - *Peter reached out for the well-thumbed report <ins>that **lay** behind him on the cupboard top.</ins>* (Nominal postmodifier; NOT included >> should be "noun + finite relative clause")
         - *Other semiconductor stocks eased folluwing an industry trade group's [report] <ins>that its leading indicator **fell** in September.</ins>* (NP complement clause; included)
 
 2. Tag
@@ -171,27 +177,23 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 ##### Complexity feature 2: extraposed adjective + *that*-complement clause (`xtrapos+jj+that+compcls`)
 
 1. Descriptions
-    - Adjectival predicates with extraposed that-clauses mark a stance or attitude towards the proposition in the that-clause.
-        - In most cases, this predicate represents the attitude of the speaker/writer, although it is not overtly attributed to that person.
-    - Types of controlling adjectival predicates:
-        - **Certainty Adjectives** indicate the extent to which the speaker/writer regards the embedded proposition is *probable*:
-            - *accepted, apparent, certain, plain, inevitable, etc.*
-        - **Affective/Evaluative Adjectives** mark other assessments or attitudes twoards the proposition in the *that*-clause:
-            - *(un)acceptable, preferable, sensible, amazing, bad, funny, dreadful, odd, suprising, neat, etc.*
-            - Several evaluative adjectives can occur with an extraposed *that*-clause having a hypothetical sense. These constructions are marked by *should* or subjunctive verb forms.
-                - e.g: *It is preferable <ins>that the marked cells [should **be**] identical in their behaviour to the unmarked cells.</ins>* (Biber et al., 2007, p. 674)
-        - **Necessity or Importance Adjectives** reflect the writer's belief that a proposed course of action is essential or important:
-            - *advisable, critical, crucial, essential, fitting, obligatory, vital, etc.*
+    - *to be added*
 2. Tag
     - `xtrapos+jj+that+compcls` is tagged on the **main verb** of the *that*-complement clause.
 3. Examples
-    - *It has been clear for some time <ins>that the demands of the arms control process would increasingly **dominate** military planning.</ins>* (Biber et al., 2007, p. 673)
-    - *It is obvious <ins>that direct chilling of the udder **depends** as much on the thermal properties of the floor as on the air temperature.</ins>* (*Ibid* p. 673)
-    - *It's horrible <ins>that he **put up** with Claire's nagging.</ins>* (*Ibid* 673)
-    - *It is tragic <ins>that so many of his generation **died** as they did.</ins>* (*Ibid* 673)
-    - *It is sensible <ins>that the breeding animals [**receive**] the highest protection.</ins>* (*Ibid* 674)
-    - *It is important <ins>that it **be** well sealed from air leakage.</ins>* (*Ibid* 674)
-    - *It is vital <ins>that leaking water is **avoided**.</ins>* (*Ibid* 674)
+    - *to be added*
+
+#### Syntactic function 6: other phrase constituent_preposition complement
+- A preposition complement serves to complete the meaning of ...
+
+##### Complexity feature 1: preposition + *wh*-complement clause (`prep_+_wh`)
+
+1. Descriptions
+    - *to be added*
+2. Tag
+    - `prep_+_wh` is tagged on the **main verb** of the *that*-complement clause.
+3. Examples
+    - *to be added*
 
 ### Structual type 2: non-finite dependent clauses
 *to be added soon*
@@ -199,22 +201,7 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 ### Structual type 3: dependent phrases (non-clausal)
 *to be added soon*
 
-___
 
-## Preposition + *wh* compliment clause (`prep+wh`)
-
-1. Descriptions
-   -  *wh* compliment cluases can be compliments of preopositions and objects of prepositional verbs
-   -  *wh* compliments begin with who, what, when, how, where, why, which, etc.
-   -  Common prepositions are in, on, at, by, with, about, and through
-   -  Prepositional verbs are verbs that when combined with a preposition may take on new meaning.
-2. Tag
-   - `prep+wh` is tagged on the **main verb** of the *wh*-complement clause.
-4. Examples
-   -  *She was amazed at <ins>how exhausted she **was**.</ins>* (Biber et al., 2007, p. 684)
-   -  *She is interested in <ins>what you **believe**.</ins>*
-   -  *We are searching for <ins<whose idea it **was**.</ins>*
-   -  *He is investigating under <ins>whose authority the decision was **made**</ins>.*
 ----
 
 ### References
