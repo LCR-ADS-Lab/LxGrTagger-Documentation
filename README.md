@@ -197,9 +197,9 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 1. Descriptions
     - *to be added*
 2. Tag
-    - `prep_+_wh` is tagged on the **main verb** of the *that*-complement clause.
+    - `prep_+_wh` is tagged on the **main verb** of the *wh*-complement clause.
 3. Examples
-    - *to be added*
+    - *I’ll offer a suggestion <ins>for what we should **do**.</ins>*
 
 ### Structual type 2: non-finite dependent clauses
 *to be added soon*
