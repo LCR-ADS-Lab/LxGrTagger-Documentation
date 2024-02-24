@@ -43,18 +43,24 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 
 *to be added soon*
 
-##### Complexity feature 1: multiple adverbial clause 
-(`finite_advl_cls`)
+##### Complexity feature 1: multiple adverbial clause (`finite_advl_cls`)
 
-(NOTE-HS: originall the name of the feature is Causative, conditional, concessive clause)
+(NOTE-HS: The original name of the complexity feature was 'causative, conditional, concessive clause.' It has been changed to 'multiple adverbial clause' for convenient naming.)
 
-1. Descriptions
-    -  *to be added*
+1. Descriptions (Biber et al., p. 194)
+    - Adverbial clauses serve the role of adverbs of the main clause, generally describing additional circumstances. 
+    - Similar to adverbials in general, they are optional; flexibility in their positioning within the sentence (either the beginning, midding, or end)
+    - They are marked by a subordinator (e.g., *because*, *although*, *if*... see p.85) that showing the relationship to the main clause.
 2. Tag
-    - `finite_advl_cls` is tagged on the **main verb** of the *that*- of *wh*- relative clause (also include the relative clause with deleted relative pronoun).
+    - `finite_advl_cls` is tagged on the **main verb** of the adverbial clause.
 3. Examples
-    -  *to be added*
-
+    - *She won't narc on me, <ins>because she **prides** herself on being a gangster</ins>.*
+    - *Well, <ins>if I **stay** here,</ins> I'll have to leave early in the morning.*
+    - *He couldn't see the stage, <ins>although he **stood** on his tiptoes</ins>.*
+    - *<ins>Since we **had** some time to spare,</ins> we decided to visit the museum.*
+    - *<ins>While I **appreciate** classical music,</ins> I often listen to rock when I'm working out.*
+    - *They kept playing, <ins>until it **started** to rain</ins>.*
+    
 
 #### Syntactic function 2: clause constituent verb complement
 - Verb complement clauses are dependent clauses that complete the meaning of a verb in a higher (main) clause (Biber et al., 2007, p. 658).
