@@ -15,7 +15,7 @@ The tagging scheme is organized into hierarchical structures:
 
 - structual type 1: [finite dependent clauses](#structual-type-1-finite-dependent-clauses)
     - syntactic function 1: [clause constituent adverbial](#syntactic-function-1-clause-constituent-adverbial)
-        - complexity feature 1: [multiple adverbial alcuses](#complexity-feature-1-multiple-adverbial-clause) (W7)
+        - complexity feature 1: [multiple adverbial alcuses](#complexity-feature-1-multiple-adverbial-clause) (W8)
     - syntactic function 2: [clause constituent verb complement](#syntactic-function-2-clause-constituent-verb-complement)
         - complexity feature 1: [verb + *that* complement clause](#complexity-feature-1-verb--that-complement-clause-v_that_comp-v_that_0) (W5)
         - complexity feature 2: [verb + *wh*-complement clause](#complexity-feature-2-verb--wh-complement-clause-verb__wh) (W3)
