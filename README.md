@@ -126,12 +126,25 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 ##### Complexity feature 1: noun + finite relative clause (`finite_rel`)
 
 1. Descriptions
-    -  *to be added*
+    -  A finite relative clause follows the head noun phrase, and are always missing a constituent (corresponds in meaning to the _head noun_)
+    -  _Relativizers_ are one of:
+        -  **Relative pronoun:** which, who, whom, whose, that
+        -  **Relative adverb:** where, when, why
+        -  **Zero relativizer:** relativizer is _ommited_
+    - Nominal postmodifiers are different from NP complement clauses (p. 644)
+        - e.g *Peter reached out for the well-thumbed report <ins>that **lay** behind him on the cupboard top.</ins>* 
 2. Tag
     - `finite_rel` is tagged on the **main verb** of the *that*- of *wh*- relative clause (also include the relative clause with deleted relative pronoun).
 3. Examples
-    -  *to be added*
-
+    -  *The lowest pressure ratio <ins>which will **give** an acceptable performance</ins> is always chosen.* (Biber et al., 2007, p.608)
+    -  *There are plenty of existing owners <ins>who **are** already keen to make the move.</ins>* (*Ibid* p.608)
+    -  *There was a slight, furtive boy <ins>whom no one **knew**.</ins>* (*Ibid* p.608)
+    -  *It was good for the fans, <ins>whose support so far this season has **been** fantastic.</ins>* (*Ibid* p.608)
+    -  *Well, that's the only way <ins>that this can be definitively **assessed**.</ins>*
+    -  **Zero Relativizer:**
+        -  *The next thing <ins>[that] she **knows**</ins>, she's talking to Danny.* (*Ibid* p.609)
+        -  *Gwen gave the little frowning smile <ins>[that] she **used** when she was putting something to someone.</ins>* (*Ibid* p.609)
+       
 #### Syntactic function 4: noun phrase constituent: NP complement 
 
 - When discussing 'complement' with verb complement, it was explained that complement clauses are dependent clauses that complete the meaning of a verb.
