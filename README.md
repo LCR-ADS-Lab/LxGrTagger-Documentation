@@ -195,11 +195,17 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 ##### Complexity feature 1: preposition + *wh*-complement clause (`prep_+_wh`)
 
 1. Descriptions
-    - *to be added*
+   -  *wh* compliment cluases can be compliments of preopositions and objects of prepositional verbs
+   -  *wh* compliments begin with who, what, when, how, where, why, which, etc.
+   -  Common prepositions are in, on, at, by, with, about, and through
+   -  Prepositional verbs are verbs that when combined with a preposition may take on new meaning.
 2. Tag
-    - `prep_+_wh` is tagged on the **main verb** of the *wh*-complement clause.
-3. Examples
-    - *I’ll offer a suggestion <ins>for what we should **do**.</ins>*
+   - `prep+wh` is tagged on the **main verb** of the *wh*-complement clause.
+4. Examples
+   -  *She was amazed at <ins>how exhausted she **was**.</ins>* (Biber et al., 2007, p. 684)
+   -  *She is interested in <ins>what you **believe**.</ins>*
+   -  *We are searching for <ins<whose idea it **was**.</ins>*
+   -  *He is investigating under <ins>whose authority the decision was **made**</ins>.*
 
 ### Structual type 2: non-finite dependent clauses
 *to be added soon*
