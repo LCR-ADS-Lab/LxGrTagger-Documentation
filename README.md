@@ -195,8 +195,8 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 ##### Complexity feature 1: preposition + *wh*-complement clause (`prep_+_wh`)
 
 1. Descriptions
-   -  *wh* compliment cluases can be compliments of preopositions and objects of prepositional verbs
-   -  *wh* compliments begin with who, what, when, how, where, why, which, etc.
+   -  *wh*-compliment cluases can be compliments of preopositions and objects of prepositional verbs
+   -  *wh*-compliments begin with who, what, when, how, where, why, which, etc.
    -  Common prepositions are in, on, at, by, with, about, and through
    -  Prepositional verbs are verbs that when combined with a preposition may take on new meaning.
 2. Tag
