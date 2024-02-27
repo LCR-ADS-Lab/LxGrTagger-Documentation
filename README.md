@@ -183,11 +183,27 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 ##### Complexity feature 2: extraposed adjective + *that*-complement clause (`xtrapos+jj+that+compcls`)
 
 1. Descriptions
-    - *to be added*
+    - Adjectival predicates with extraposed that-clauses mark a stance or attitude towards the proposition in the that-clause.
+        - In most cases, this predicate represents the attitude of the speaker/writer, although it is not overtly attributed to that person.
+    - Types of controlling adjectival predicates:
+        - **Certainty Adjectives** indicate the extent to which the speaker/writer regards the embedded proposition is *probable*:
+            - *accepted, apparent, certain, plain, inevitable, etc.*
+        - **Affective/Evaluative Adjectives** mark other assessments or attitudes twoards the proposition in the *that*-clause:
+            - *(un)acceptable, preferable, sensible, amazing, bad, funny, dreadful, odd, suprising, neat, etc.*
+            - Several evaluative adjectives can occur with an extraposed *that*-clause having a hypothetical sense. These constructions are marked by *should* or subjunctive verb forms.
+                - e.g: *It is preferable <ins>that the marked cells [should **be**] identical in their behaviour to the unmarked cells.</ins>* (Biber et al., 2007, p. 674)
+        - **Necessity or Importance Adjectives** reflect the writer's belief that a proposed course of action is essential or important:
+            - *advisable, critical, crucial, essential, fitting, obligatory, vital, etc.*
 2. Tag
     - `xtrapos+jj+that+compcls` is tagged on the **main verb** of the *that*-complement clause.
 3. Examples
-    - *to be added*
+    - *It has been clear for some time <ins>that the demands of the arms control process would increasingly **dominate** military planning.</ins>* (Biber et al., 2007, p. 673)
+    - *It is obvious <ins>that direct chilling of the udder **depends** as much on the thermal properties of the floor as on the air temperature.</ins>* (*Ibid* p. 673)
+    - *It's horrible <ins>that he **put up** with Claire's nagging.</ins>* (*Ibid* 673)
+    - *It is tragic <ins>that so many of his generation **died** as they did.</ins>* (*Ibid* 673)
+    - *It is sensible <ins>that the breeding animals [**receive**] the highest protection.</ins>* (*Ibid* 674)
+    - *It is important <ins>that it **be** well sealed from air leakage.</ins>* (*Ibid* 674)
+    - *It is vital <ins>that leaking water is **avoided**.</ins>* (*Ibid* 674)
 
 #### Syntactic function 6: other phrase constituent_preposition complement
 - A preposition complement serves to complete the meaning of ...
