@@ -15,7 +15,7 @@ The tagging scheme is organized into hierarchical structures:
 
 - structual type 1: [finite dependent clauses](#structual-type-1-finite-dependent-clauses)
     - syntactic function 1: [clause constituent adverbial](#syntactic-function-1-clause-constituent-adverbial)
-        - complexity feature 1: [multiple adverbial alcuses](#complexity-feature-1-multiple-adverbial-clause) (W8)
+        - complexity feature 1: [multiple adverbial alcuses](#complexity-feature-1-multiple-adverbial-clause-finite_advl_cls) (W8)
     - syntactic function 2: [clause constituent verb complement](#syntactic-function-2-clause-constituent-verb-complement)
         - complexity feature 1: [verb + *that* complement clause](#complexity-feature-1-verb--that-complement-clause-v_that_comp-v_that_0) (W5)
         - complexity feature 2: [verb + *wh*-complement clause](#complexity-feature-2-verb--wh-complement-clause-verb__wh) (W3)
@@ -31,6 +31,13 @@ The tagging scheme is organized into hierarchical structures:
 - structural type 2: [non-finite dependent clauses](#structual-type-2-non-finite-dependent-clauses)
 - structural type 3: [dependent phrases (non-clausal)](#structual-type-3-dependent-phrases-non-clausal)
 
+
+## Notes
+
+- [passive] We tagged on the **passive**, not on the *be*-verb.
+    - *they knew <ins>what they were going to be **asked**.</ins>* (verb-*wh*-complement)
+- [coordination] We tagged on the first main verb, not on the following verbs.
+    - *a truckdriver <ins>who just **slammed** and kicked at everything</ins>* (noun-finite relative clause)
 
 ----
 
@@ -109,8 +116,6 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
             - e.g., *<ins>What **baffles** me</ins> is how few of them can spell.* 
 2. Tag
     -  `verb_+_wh` is tagged on the **main verb** of the *wh*-complement clause.
-    -  [passive] We tagged on the **passive**, not on the *be*-verb.
-       -  *they knew <ins>what they were going to be **asked**.</ins>*
 3. Examples
     - *I don't know <ins>how they **do** it.</ins>*
     - *She showed me <ins>where we should **plant** the tree.</ins>*
@@ -233,7 +238,7 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 4. Examples
    -  *She was amazed at <ins>how exhausted she **was**.</ins>* (Biber et al., 2007, p. 684)
    -  *She is interested in <ins>what you **believe**.</ins>*
-   -  *We are searching for <ins<whose idea it **was**.</ins>*
+   -  *We are searching for <ins>whose idea it **was**.</ins>*
    -  *He is investigating under <ins>whose authority the decision was **made**</ins>.*
 
 ### Structual type 2: non-finite dependent clauses
