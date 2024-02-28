@@ -55,9 +55,8 @@ The tagging scheme is organized into hierarchical structures:
 | *He agreed <ins>to help with the project</ins>.*                |   | ✓ | 
 | *She enjoys <ins>running in the morning</ins>.*                 |   | ✓ |
 | *The idea <ins>to be implemented</ins> involves several steps.* |   | ✓ |
-----
 
-
+ 
 ## Documentation
 
 ### Structual type 1: finite dependent clauses
