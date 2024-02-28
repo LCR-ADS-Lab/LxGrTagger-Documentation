@@ -17,18 +17,22 @@ The tagging scheme is organized into hierarchical structures:
     - syntactic function 1: [clause constituent adverbial](#syntactic-function-1-clause-constituent-adverbial)
         - complexity feature 1: [multiple adverbial alcuses](#complexity-feature-1-multiple-adverbial-clause-finite_advl_cls) (W8)
     - syntactic function 2: [clause constituent verb complement](#syntactic-function-2-clause-constituent-verb-complement)
-        - complexity feature 1: [verb + *that* complement clause](#complexity-feature-1-verb--that-complement-clause-v_that_comp-v_that_0) (W5)
-        - complexity feature 2: [verb + *wh*-complement clause](#complexity-feature-2-verb--wh-complement-clause-verb__wh) (W3)
+        - complexity feature 1: [verb + *that* complement clause](#complexity-feature-1-verb--that-complement-clause-v_that_comp-v_that_0) (W5) ✓
+        - complexity feature 2: [verb + *wh*-complement clause](#complexity-feature-2-verb--wh-complement-clause-verb__wh) (W3) ✓
     - syntactic function 3: [noun phrase (NP) constituent_NP modifier](#syntactic-function-3-noun-phrase-np-constituent_np-modifier)
-        - complexity feature 1: [noun + finite relative clause](#complexity-feature-1-noun--finite-relative-clause-finite_rel) (W6)
+        - complexity feature 1: [noun + finite relative clause](#complexity-feature-1-noun--finite-relative-clause-finite_rel) (W6) ✓
     - syntactic function 4: [noun phrase constituent_NP complement](#syntactic-function-4-noun-phrase-constituent-np-complement)
-        - complexity feature 1: [noun + *that*-complement clause](#complexity-feature-1-noun--that-complement-clause-n_that_comp) (W5)
+        - complexity feature 1: [noun + *that*-complement clause](#complexity-feature-1-noun--that-complement-clause-n_that_comp) (W5) ✓
     - syntactic function 5: [other phrase constituent_adjective complement](#syntactic-function-5-other-phrase-constituent_adjective-complement)
         - complexity feature 1: [adjective + *that*-complement clause](#complexity-feature-1-adjective--that-complement-clause-adj_that_comp) (W3, 6)
-        - complexity feature 2: [extraposed adjective + *that*-complement clause](#complexity-feature-2-extraposed-adjective--that-complement-clause-xtraposjjthatcompcls) (W6)
+        - complexity feature 2: [extraposed adjective + *that*-complement clause](#complexity-feature-2-extraposed-adjective--that-complement-clause-xtraposjjthatcompcls) (W6) ✓
     - syntactic function 6: [other phrase constituent_prepositional complement](#syntactic-function-6-other-phrase-constituent_preposition-complement)
         - complexity feature 1: [preposition + *wh*-complement clause](#complexity-feature-1-preposition--wh-complement-clause-prep__wh) (W8)        
 - structural type 2: [non-finite dependent clauses](#structual-type-2-non-finite-dependent-clauses)
+    - syntactic function 1: clause constituent adverbial
+        - complexity feature 1: [*to*-clause as purpose adverbial](#complexity-feature-1-to-clause-as-purpose-adverbial) (W9)
+        - complexity feature 2: [*ing*-clause as adverbial](#complexity-feature-2-ing-clause-as-adverbial)
+        - complexity feature 3: *ed*-clause as adverbial
 - structural type 3: [dependent phrases (non-clausal)](#structual-type-3-dependent-phrases-non-clausal)
 
 
@@ -39,7 +43,20 @@ The tagging scheme is organized into hierarchical structures:
 - [coordination] We tagged on the first main verb, not on the following verbs.
     - *a truckdriver <ins>who just **slammed** and kicked at everything</ins>* (noun-finite relative clause)
 
+## Quick categorizations overview
+
+*will be added more categories*
+
+| Sentence | Finite dependent | Verb complement |
+|-----------------|---------------------------|-----------------|
+| *<ins>That the team won the championship</ins> was unexpected.* | ✓ | ✓ |
+| *She finished her work <ins>before the deadline arrived</ins>.* | ✓ |   |
+| *I thought <ins>that it looked good</ins>.*                     | ✓ | ✓ | 
+| *He agreed <ins>to help with the project</ins>.*                |   | ✓ | 
+| *She enjoys <ins>running in the morning</ins>.*                 |   | ✓ |
+| *The idea <ins>to be implemented</ins> involves several steps.* |   | ✓ |
 ----
+
 
 ## Documentation
 
@@ -73,15 +90,6 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 - Verb complement clauses are dependent clauses that complete the meaning of a verb in a higher (main) clause (Biber et al., 2007, p. 658).
 - For general explanation on verb complement, see [here](MoreDescriptions.md#1-verb-complement).
 - There are four types of verb complement clauses: (1) *that*-clause, (2) *wh*-cluase, (3) *to*-infinitive clause, and (4) *ing*-clause.
-
-| Sentence | Finite dependent | Verb complement |
-|-----------------|---------------------------|-----------------|
-| <ins>That the team won the championship</ins> was unexpected. | ✓ | ✓ |
-| She finished her work <ins>before the deadline arrived</ins>. | ✓ |   |
-| I thought <ins>that it looked good</ins>.                     | ✓ | ✓ | 
-| He agreed <ins>to help with the project</ins>.                |   | ✓ | 
-| She enjoys <ins>running in the morning</ins>.                 |   | ✓ |
-| The idea <ins>to be implemented</ins> involves several steps. |   | ✓ |
 
 ##### Complexity feature 1: verb + *that*-complement clause (`V_that_comp`; `V_that_0`)
 
@@ -243,6 +251,31 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 
 ### Structual type 2: non-finite dependent clauses
 *to be added soon*
+
+#### Syntactic function 1: clause constituent adverbial
+*to be added soon*
+
+##### Complexity feature 1: *to*-clause as purpose adverbial
+
+1. Descriptions
+*to be added soon*
+2. Tag
+   - `to_advl_cls` is tagged on the **main verb** of the *to*-adverbial clause.
+4. Examples
+   -  *<ins>To **verify** this hypothesis</ins>, sections of fixed cells were examined.*
+
+##### Complexity feature 2: *ing*-clause as adverbial
+
+1. Descriptions
+*to be added soon*
+2. Tag
+   - `ing_advl_cls` is tagged on the **main verb** of the *ing*-adverbial clause.
+4. Examples
+   -  *<ins>**Considering** mammals’ level of physical development</ins>, the diversity of this species is astounding.*
+
+##### Complexity feature 3: *ed*-clause as adverbial
+*to be added soon*
+
 
 ### Structual type 3: dependent phrases (non-clausal)
 *to be added soon*
