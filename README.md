@@ -64,7 +64,7 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 
 #### Syntactic function 1: clause constituent adverbial
 
-*to be added soon*
+*description to be added soon*
 
 ##### Complexity feature 1: multiple adverbial clause (`finite_advl_cls`)
 
