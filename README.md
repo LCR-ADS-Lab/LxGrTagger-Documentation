@@ -257,11 +257,16 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 ##### Complexity feature 1: *to*-clause as purpose adverbial
 
 1. Descriptions
-*to be added soon*
-2. Tag
+   - *To*-clauses as purpose adverbials indicate the reason or intention behind the main action of a sentence.
+   - They are introduced by *to* or a deleted *to*
+       - *Surrey police say the film would help <ins>[to] **identify** participants at the weekend party</ins>*  
+3. Tag
    - `to_advl_cls` is tagged on the **main verb** of the *to*-adverbial clause.
 4. Examples
    -  *<ins>To **verify** this hypothesis</ins>, sections of fixed cells were examined.*
+   -  *We eat <ins>to **survive**</ins>*
+   -  *I have brought you all here today <ins>to **tell** you about my evil plan</ins>*
+   -  *Reforming is the process whereby straight-run gasoline is cracked <ins>in order to **raise** the octane number.</ins>* (Biber et al., 2007, p. 827)
 
 ##### Complexity feature 2: *ing*-clause as adverbial
 
