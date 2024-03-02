@@ -45,18 +45,20 @@ The tagging scheme is organized into hierarchical structures:
 
 ## Quick categorizations overview
 
-| Sentence                                                    | Structural type | Syntactic function                 |
-|-------------------------------------------------------------|-----------------|------------------------------------|
-| *She finished her work <ins>before the deadline arrived</ins>.*  | Finite          | Adverbial                          |
-| *<ins>That the team won the championship</ins> was unexpected.* | Finite          | Verb complement                    |
-| *I thought <ins>that it looked good</ins>.*                      | Finite          | Verb complement                    |
-| *The idea <ins>which needs be implemented</ins> involves several steps.*  | Finite      | NP complement      |
-| *The conclusion <ins>that global temperatures are rising</ins> faster than previously estimated is alarming.* | Finite      | NP complement      |
-| *We’re happy <ins>that the hunger strike has ended</ins>.*       | Finite          | Adjective complement               |
-| *It's horrible <ins>that he put up with Claire’s nagging</ins>.* | Finite          | Adjective complement               |
-| *She is interested in <ins>what you believe</ins>.*              | Finite          | PP complement               |
-| *To verify this hypothesis, sections of fixed cells were examined.* | Non-finite    | Adverbial                          |
-| *Running along the beach, she found a rare shell.*             | Non-finite      | Adverbial                          |
+## Expanded Categorizations Overview with Tag
+
+| Sentence                                                    | Structural type | Syntactic function        | Tag                          |
+|-------------------------------------------------------------|-----------------|---------------------------|--------------------------    |
+| *She finished her work <ins>before the deadline arrived</ins>.*  | Finite          | Adverbial               | finite_advl_cls           |
+| *<ins>That the team won the championship</ins> was unexpected.* | Finite          | Verb complement          | V_that_comp               |
+| *I wonder <ins>what that could be about</ins>.*                      | Finite          | Verb complement          | verb_+_wh            |
+| *The idea <ins>which needs be implemented</ins> involves several steps.*  | Finite      | NP complement           | finite_rel           |
+| *The conclusion <ins>that global temperatures are rising</ins> is alarming.* | Finite      | NP complement           | N_that_comp       |
+| *We’re happy <ins>that the hunger strike has ended</ins>.*       | Finite          | Adjective complement     | adj_that_comp            |
+| *It's horrible <ins>that he put up with Claire’s nagging</ins>.* | Finite          | Adjective complement     | xtrapos+jj+that+compcls  |
+| *She is interested in <ins>what you believe</ins>.*              | Finite          | PP complement            | prep_+_wh                |
+| *<ins>To verify this hypothesis</ins>, sections of fixed cells were examined.* | Non-finite    | Adverbial                | to_advl_cls              |
+| *<ins>Running along the beach</ins>, she found a rare shell.*             | Non-finite      | Adverbial                | ing_advl_cls             |
 
 
 ## Documentation
@@ -189,7 +191,7 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 3. Examples
     - *The fact <ins>that no tracer particles were **found**</ins> indicates that these areas are not a pathway…* (Kris' table)
     - *The observation <ins>that the species has **adapted** to urban environments</ins> challenges traditional views on wildlife habitat preferences.*
-    - *The conclusion <ins>that global temperatures are **rising**</ins> faster than previously estimated is alarming.*
+    - *The conclusion <ins>that global temperatures are **rising** faster than previously estimated</ins> is alarming.*
 
 #### Syntactic function 5: other phrase constituent_adjective complement
 - An adjective complement serves to complete the meaning of an adjective
