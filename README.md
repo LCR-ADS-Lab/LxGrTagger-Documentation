@@ -36,29 +36,28 @@ The tagging scheme is organized into hierarchical structures:
 - structural type 3: [dependent phrases (non-clausal)](#structual-type-3-dependent-phrases-non-clausal)
 
 
+## Quick examples overview
+
+| Examples                                                    | Structural type | Syntactic function        | Tag                          |
+|-------------------------------------------------------------|-----------------|---------------------------|--------------------------    |
+| *She finished her work <ins>before the deadline arrived</ins>.*  | Finite          | Adverbial               | [`finite_advl_cls`](#syntactic-function-1-clause-constituent-adverbial)          |
+| *<ins>That the team won the championship</ins> was unexpected.* | Finite          | Verb complement          | [`V_that_comp`](#complexity-feature-1-verb--that-complement-clause-v_that_comp-v_that_0)               |
+| *I wonder <ins>what that could be about</ins>.*                      | Finite          | Verb complement          | [`verb_+_wh`](#complexity-feature-2-verb--wh-complement-clause-verb__wh)          |
+| *The idea <ins>which needs be implemented</ins> involves several steps.*  | Finite      | NP complement           | [`finite_rel`](#complexity-feature-1-noun--finite-relative-clause-finite_rel)         |
+| *The conclusion <ins>that global temperatures are rising</ins> is alarming.* | Finite      | NP complement           | [`N_that_comp`](#complexity-feature-1-noun--that-complement-clause-n_that_comp)       |
+| *We’re happy <ins>that the hunger strike has ended</ins>.*       | Finite          | Adjective complement     | [`adj_that_comp`](#complexity-feature-1-adjective--that-complement-clause-adj_that_comp)            |
+| *It's horrible <ins>that he put up with Claire’s nagging</ins>.* | Finite          | Adjective complement     | [`xtrapos+jj+that+compcls`](#complexity-feature-2-extraposed-adjective--that-complement-clause-xtraposjjthatcompcls)  |
+| *She is interested in <ins>what you believe</ins>.*              | Finite          | PP complement            | [`prep_+_wh`](#complexity-feature-1-preposition--wh-complement-clause-prep__wh)                |
+| *<ins>To verify this hypothesis</ins>, sections of fixed cells were examined.* | Non-finite    | Adverbial                | [`to_advl_cls`](#complexity-feature-1-to-clause-as-purpose-adverbial)              |
+| *<ins>Running along the beach</ins>, she found a rare shell.*             | Non-finite      | Adverbial                | [`ing_advl_cls`](#complexity-feature-2-ing-clause-as-adverbial)             |
+
+
 ## Notes
 
 - [passive] We tagged on the **passive**, not on the *be*-verb.
     - *they knew <ins>what they were going to be **asked**.</ins>* (verb-*wh*-complement)
 - [coordination] We tagged on the first main verb, not on the following verbs.
     - *a truckdriver <ins>who just **slammed** and kicked at everything</ins>* (noun-finite relative clause)
-
-## Quick categorizations overview
-
-## Expanded Categorizations Overview with Tag
-
-| Sentence                                                    | Structural type | Syntactic function        | Tag                          |
-|-------------------------------------------------------------|-----------------|---------------------------|--------------------------    |
-| *She finished her work <ins>before the deadline arrived</ins>.*  | Finite          | Adverbial               | finite_advl_cls           |
-| *<ins>That the team won the championship</ins> was unexpected.* | Finite          | Verb complement          | V_that_comp               |
-| *I wonder <ins>what that could be about</ins>.*                      | Finite          | Verb complement          | verb_+_wh            |
-| *The idea <ins>which needs be implemented</ins> involves several steps.*  | Finite      | NP complement           | finite_rel           |
-| *The conclusion <ins>that global temperatures are rising</ins> is alarming.* | Finite      | NP complement           | N_that_comp       |
-| *We’re happy <ins>that the hunger strike has ended</ins>.*       | Finite          | Adjective complement     | adj_that_comp            |
-| *It's horrible <ins>that he put up with Claire’s nagging</ins>.* | Finite          | Adjective complement     | xtrapos+jj+that+compcls  |
-| *She is interested in <ins>what you believe</ins>.*              | Finite          | PP complement            | prep_+_wh                |
-| *<ins>To verify this hypothesis</ins>, sections of fixed cells were examined.* | Non-finite    | Adverbial                | to_advl_cls              |
-| *<ins>Running along the beach</ins>, she found a rare shell.*             | Non-finite      | Adverbial                | ing_advl_cls             |
 
 
 ## Documentation
