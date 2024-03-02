@@ -45,18 +45,20 @@ The tagging scheme is organized into hierarchical structures:
 
 ## Quick categorizations overview
 
-*will be added more categories*
+| Sentence                                                    | Structural type | Syntactic function                 |
+|-------------------------------------------------------------|-----------------|------------------------------------|
+| *She finished her work <ins>before the deadline arrived</ins>.*  | Finite          | Adverbial                          |
+| *<ins>That the team won the championship</ins> was unexpected.* | Finite          | Verb complement                    |
+| *I thought <ins>that it looked good</ins>.*                      | Finite          | Verb complement                    |
+| *The idea <ins>which needs be implemented</ins> involves several steps.*  | Finite      | NP complement      |
+| *The conclusion <ins>that global temperatures are rising</ins> faster than previously estimated is alarming.* | Finite      | NP complement      |
+| *We’re happy <ins>that the hunger strike has ended</ins>.*       | Finite          | Adjective complement               |
+| *It's horrible <ins>that he put up with Claire’s nagging</ins>.* | Finite          | Adjective complement               |
+| *She is interested in <ins>what you believe</ins>.*              | Finite          | PP complement               |
+| *To verify this hypothesis, sections of fixed cells were examined.* | Non-finite    | Adverbial                          |
+| *Running along the beach, she found a rare shell.*             | Non-finite      | Adverbial                          |
 
-| Sentence | Finite dependent | Verb complement |
-|-----------------|---------------------------|-----------------|
-| *<ins>That the team won the championship</ins> was unexpected.* | ✓ | ✓ |
-| *She finished her work <ins>before the deadline arrived</ins>.* | ✓ |   |
-| *I thought <ins>that it looked good</ins>.*                     | ✓ | ✓ | 
-| *He agreed <ins>to help with the project</ins>.*                |   | ✓ | 
-| *She enjoys <ins>running in the morning</ins>.*                 |   | ✓ |
-| *The idea <ins>to be implemented</ins> involves several steps.* |   | ✓ |
 
- 
 ## Documentation
 
 ### Structual type 1: finite dependent clauses
