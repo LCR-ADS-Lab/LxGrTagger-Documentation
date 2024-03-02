@@ -249,7 +249,13 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
    -  *He is investigating under <ins>whose authority the decision was **made**</ins>.*
 
 ### Structual type 2: non-finite dependent clauses
-*to be added soon*
+
+- Non-finite dependent clauses do not feature tense and modality markings. They typically omit an explicit subject and subordinator 
+
+- Semantically, they are compact and a lack of explicitness.
+
+- See more in Biber (2007, pp. 198-201)
+
 
 #### Syntactic function 1: clause constituent adverbial
 *to be added soon*
@@ -271,11 +277,20 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 ##### Complexity feature 2: *ing*-clause as adverbial
 
 1. Descriptions
-*to be added soon*
+    - An *ing*-clause when used as an adverbial to modify a verb, an adjective, or an entire sentence. This is often employed to add information about the time, manner, reason, condition, or circumstance of the action described by the main verb.
+    - (Dangling particles): Dangling participles occur when a participial phrase (an *ing*-clause or an ed-clause used adverbially) lacks a clear subject, leading to ambiguity or a mismatch between the intended subject and the grammatical subject of the main clause (p. 829). (HS: should we include this case?) 
+        -  *<ins>**Running** to catch the bus</ins>, the wallet fell out of my pocket.* (The wallet is not running; the implied subject is the person.)
+
+
 2. Tag
    - `ing_advl_cls` is tagged on the **main verb** of the *ing*-adverbial clause.
 4. Examples
    -  *<ins>**Considering** mammals’ level of physical development</ins>, the diversity of this species is astounding.*
+   - *<ins>**Running** along the beach</ins>, she found a rare shell.* (time)
+   - *<ins>**Feeling** hungry</ins>, he stopped at the nearest restaurant.* (reason)
+   - *<ins>**Providing** you finish your homework</ins>, you can watch TV.* (condition)
+   - *<ins>**Knowing** the risks involved</ins>, she still decided to go paragliding.* (concession)
+   - *<ins>**Speaking** softly</ins>, he conveyed the bad news.*
 
 ##### Complexity feature 3: *ed*-clause as adverbial
 *to be added soon*
