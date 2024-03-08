@@ -281,13 +281,11 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 
 1. Descriptions
     - An *ing*-clause when used as an adverbial to modify a verb, an adjective, or an entire sentence. This is often employed to add information about the time, manner, reason, condition, or circumstance of the action described by the main verb.
-    - (Dangling particles): Dangling participles occur when a participial phrase (an *ing*-clause or an ed-clause used adverbially) lacks a clear subject, leading to ambiguity or a mismatch between the intended subject and the grammatical subject of the main clause (p. 829). (HS: should we include this case?) 
-        -  *<ins>**Running** to catch the bus</ins>, the wallet fell out of my pocket.* (The wallet is not running; the implied subject is the person.)
-
+    - (Dangling particles): Dangling participles occur when a participial phrase (an *ing*-clause or an ed-clause used adverbially) lacks a clear subject, leading to ambiguity or a mismatch between the intended subject and the grammatical subject of the main clause (p. 829). (HS: should we include this case?)         -  *<ins>**Running** to catch the bus</ins>, the wallet fell out of my pocket.* (The wallet is not running; the implied subject is the person.)
 
 2. Tag
    - `ing_advl_cls` is tagged on the **main verb** of the *ing*-adverbial clause.
-4. Examples
+3. Examples
    -  *<ins>**Considering** mammals’ level of physical development</ins>, the diversity of this species is astounding.*
    - *<ins>**Running** along the beach</ins>, she found a rare shell.* (time)
    - *<ins>**Feeling** hungry</ins>, he stopped at the nearest restaurant.* (reason)
@@ -296,7 +294,15 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
    - *<ins>**Speaking** softly</ins>, he conveyed the bad news.*
 
 ##### Complexity feature 3: *ed*-clause as adverbial
-*to be added soon*
+1. Descriptions
+    - An *ed*-clause can be used as an adverbial to modify a verb, an adjective, or an entire sentence. This is often employed to add information about comparisons between, levels of expectation of, or some other modification of the action described by the main verb.
+2. Tag
+   - `ed_advl_cls` is tagged on the **main verb** of the *ed*-adverbial clause.
+3. Examples
+   - *<ins>When told by police how badly **injured** his victims were</ins> he said: "Good, I hope they die."*
+   - *We measured a seasonal total of 56.99 on precipitation in the two caged rain gauges, <ins>**compared** to 56.78 cm on the open plots</ins>*
+   - *I went on waiting, <ins>**tinged** with doubt</ins>*
+   - *<ins>As **expected**</ins>, the volume of retail sales rose 0.5 per cent in August*
 
 
 ### Structual type 3: dependent phrases (non-clausal)
