@@ -300,9 +300,9 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
    - `ed_advl_cls` is tagged on the **main verb** of the *ed*-adverbial clause.
 3. Examples
    - *<ins>When told by police how badly **injured** his victims were</ins> he said: "Good, I hope they die."*
-   - *We measured a seasonal total of 56.99 on precipitation in the two caged rain gauges, <ins>**compared** to 56.78 cm on the open plots</ins>*
-   - *I went on waiting, <ins>**tinged** with doubt</ins>*
-   - *<ins>As **expected**</ins>, the volume of retail sales rose 0.5 per cent in August*
+   - *We measured a seasonal total of 56.99 on precipitation in the two caged rain gauges, <ins>**compared** to 56.78 cm on the open plots.</ins>*
+   - *I went on waiting, <ins>**tinged** with doubt</ins>.*
+   - *<ins>As **expected**</ins>, the volume of retail sales rose 0.5 per cent in August.*
 
 
 ### Structual type 3: dependent phrases (non-clausal)
