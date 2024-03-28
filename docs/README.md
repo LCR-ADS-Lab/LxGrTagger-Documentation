@@ -4,7 +4,7 @@
 
 - We are currently developing tag descriptions and detailed annotation guidelines for complexity features for [LxGrTagger](https://github.com/kristopherkyle/LxGrTgr). The current version of the annotation guidelines has been contributed by Hakyung Sung and Gus Paddock (last updated: 2024-03-08).
 
-- In the process of constructing the guidelines, we primarily reference the *Longman Grammar of Spoken and Written English (6th ed.)* by Biber et al. (2007), paraphrasing the contents and specifying the referred pages. When citing other works, we include both the references and the specific page numbers.
+- In the process of constructing the guidelines, we primarily refer to the *Longman Grammar of Spoken and Written English (6th ed.)* by Biber et al. (2007), paraphrasing the contents and specifying the referred pages. When citing other works, we include both the references and the specific page numbers.
 
 ## Tagging scheme
 
