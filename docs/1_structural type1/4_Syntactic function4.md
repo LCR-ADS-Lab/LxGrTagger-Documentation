@@ -1,6 +1,6 @@
 # 1-4. noun phrase constituent: complement 
 
-**noun phrase (NP) complement**
+**Noun phrase (NP) complement**
 
 Earlier discussions on the [verb complement clauses](2.%20Syntactic%20function2.html#1-2-clause-constituent-verb-complement) have clarified that complement clauses serve as dependent clauses which fulfill the role of completing a verb's meaning within a sentence. An NP complement is essentially a complement associated with a noun rather than a verb. This notion of NP complementation, as detailed by Haegeman & Guéron (1998, pp.440-441), suggests that just as verbs can take a diverse array of complements ranging from finite to non-finite clauses, nouns too can select finite clauses to complement their meanings. Consider/compare following examples: 
 - *He considers <ins>that she deserves a promotion</ins>*. (verb-complement)
