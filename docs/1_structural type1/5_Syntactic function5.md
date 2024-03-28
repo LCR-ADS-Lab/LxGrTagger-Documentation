@@ -1,10 +1,10 @@
 # 1-5. other phrase constituent: adjective complement
 
-**adjective phrase**
-Adjective phrases feature an adjective as the core component, known as the *head*, and may include additional modifiers. These modifiers can be single words, extended phrases, or even full clauses. 
-Modifiers in an adjective phrase typically intensify or specify the quality of the adjective (e.g., *very fortunate*, *fortunate to meet her*- 'how fortunate'?). These accompanying elements, known as *complements*, often consist of prepositional phrases or clauses and serve to provide full meaning to the adjective (p. 101).
+**Adjective phrases**
 
-**adjective complement**
+Adjective phrases feature an adjective as the core component, known as the *head*, and may include additional modifiers. These modifiers can be single words, extended phrases, or even full clauses. Modifiers in an adjective phrase typically intensify or specify the quality of the adjective (e.g., *very fortunate*, *fortunate to meet her*; modifiers answer to the question of 'how fortunate'?). These accompanying elements, known as *complements*, often consist of prepositional phrases or clauses and serve to provide full meaning to the adjective (p. 101).
+
+**Adjective complement clauses**
 
 Building on the discussion in the [verb complement clauses](2_Syntactic%20function2.html#1-2-clause-constituent-verb-complement) section, complement clauses serve a role in completing the meaning of adjectival predicates within a main clause (p. 658). Both (1) adjective + *that*-complement clause and (2) extraposed adjective + *that*-complement clause are included, each conveying stance within three primary semantic domains: degrees of certainty (e.g., *certain*, *confident*, *evident*); affective psychological states (e.g., *annoyed*, *glad*, *sad*); and evaluations of situations, events, etc. (e.g., *appropriate*, *odd*, *good*, *important*, *advisable*). These structures, while similar, offer distinct ways of expressing adjectival predicates.
 
