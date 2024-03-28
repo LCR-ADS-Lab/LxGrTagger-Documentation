@@ -9,12 +9,13 @@ Finite adverbial clauses enrich sentences by providing detailed and complex info
 - Overt subject: Finite clauses have the advantage of an explicitly stated subject, allowing for different subjects in the adverbial and main clauses, enriching the information conveyed. In contrast, non-finite clauses often lack an explicit subject, usually assuming the subject of the main clause.
 
 - Tense/modality marking: Finite clauses enable diverse tense or modality marking within the adverbial clause, distinct from the main clause, crucial for expressing various semantic relationships. The use of different tenses or modalities in the adverbial and main clauses to illustrate time, purpose, concession, and reason. Hypothetical conditional clauses (e.g., *if*) utilize tense and modality differences to express hypothetical meanings.
+
 ## 1-1-1. multiple adverbial clause 
 
 1. Descriptions
     - Adverbial clauses serve the role of adverbs of the main clause, generally describing additional circumstances (p. 194). 
     - Similar to adverbials in general, they are optional; flexibility in their positioning within the sentence (either the beginning, midding, or end)
-    - They are marked by a subordinator (e.g., *because*, *although*, *if*... see p.85) that showing the relationship to the main clause.
+    - They are marked by a subordinator (e.g., *because*, *although*, *if*... see p. 85) that showing the relationship to the main clause.
 2. Tag
     - `finite_advl_cls` is tagged on the **main verb** of the adverbial clause.
 3. Examples
