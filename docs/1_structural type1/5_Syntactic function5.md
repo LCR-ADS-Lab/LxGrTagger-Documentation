@@ -1,8 +1,8 @@
 # 1-5. other phrase constituent: adjective complement
 
 **adjective phrase**
-Adjective phrases feature an adjective as the core component, known as the *head*, and may include additional modifiers. These modifiers can be single words, extended phrases, or even full clauses. 
-Modifiers in an adjective phrase typically intensify or specify the quality of the adjective (e.g., *very fortunate*, *fortunate to meet her*- 'how fortunate'?). These accompanying elements, known as *complements*, often consist of prepositional phrases or clauses and serve to provide full meaning to the adjective (p. 101).
+
+Adjective phrases feature an adjective as the core component, known as the *head*, and may include additional modifiers. These modifiers can be single words, extended phrases, or even full clauses. Modifiers in an adjective phrase typically intensify or specify the quality of the adjective (e.g., *very fortunate*, *fortunate to meet her*; modifiers answer to the question of 'how fortunate'?). These accompanying elements, known as *complements*, often consist of prepositional phrases or clauses and serve to provide full meaning to the adjective (p. 101).
 
 **adjective complement**
 
