@@ -25,12 +25,12 @@ NP modifiers serve to describe and modify a noun by supplying additional details
             -  (2) *to*-infinitive clauses: *You've been given [permission] <ins>to wear them.</ins>* (Note: this is NOT included in the tag, but for reference)
 
     - Noun phrase postmodifiers are different from noun phrase complement clauses (p. 644)
-        - *Peter reached out for the well-thumbed report <ins>that **lay** behind him on the cupboard top.</ins>* (NP postmodifier; NOT included in this tag, it should be [noun + finite relative clause](../3_Syntactic%20function3.html#1-3-1-noun--finite-relative-clause)
+        - *Peter reached out for the well-thumbed report <ins>that **lay** behind him on the cupboard top.</ins>* (NP postmodifier; NOT included in this tag, it should be [noun + finite relative clause](1_structural%20type1/3_Syntactic%20function3.html#1-3-1-noun--finite-relative-clause)).
         - *Other semiconductor stocks eased folluwing an industry trade group's [report] <ins>that its leading indicator **fell** in September.</ins>* (NP complement clause; included)
 
 2. Tag
     - `N_that_comp` is tagged on the **main verb** of the *that*-complement clause.
 3. Examples
-    - *The fact <ins>that no tracer particles were **found**</ins> indicates that these areas are not a pathway…* (Kris' table)
+    - *The fact <ins>that no tracer particles were **found**</ins> indicates that these areas are not a pathway…* (from a reference doc/table)
     - *The observation <ins>that the species has **adapted** to urban environments</ins> challenges traditional views on wildlife habitat preferences.*
     - *The conclusion <ins>that global temperatures are **rising** faster than previously estimated</ins> is alarming.*
