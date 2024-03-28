@@ -1,6 +1,6 @@
 # 1-6. other phrase constituent: preposition complement
 
-**prepositional phrase**
+**Prepositional phrases**
 
 Prepositional phrases are structures that combine a preposition with a complement, typically a noun phrase. This combination extends a noun phrase, creating a link that integrates it into the larger context of a sentence. Examples include *in the morning*, *to him*, *a street with no name*, and *in which she had to be expelled*. Prepositions can particularly be accompanied by nominal clauses (*wh*-complement clause, see below) and *ing*-clauses as complements (e.g., three days *after singing all night* - where the phrase provides a temporal context) (p. 103).
 
