@@ -25,7 +25,7 @@ NP modifiers serve to describe and modify a noun by supplying additional details
             -  (2) *to*-infinitive clauses: *You've been given [permission] <ins>to wear them.</ins>* (Note: this is NOT included in the tag, but for reference)
 
     - Noun phrase postmodifiers are different from noun phrase complement clauses (p. 644)
-        - *Peter reached out for the well-thumbed report <ins>that **lay** behind him on the cupboard top.</ins>* (NP postmodifier; NOT included in this tag, it should be [noun + finite relative clause](1_structural%20type1/3_Syntactic%20function3.html#1-3-1-noun--finite-relative-clause)).
+        - *Peter reached out for the well-thumbed report <ins>that **lay** behind him on the cupboard top.</ins>* (NP postmodifier; NOT included in this tag, it should be [noun + finite relative clause](../3_Syntactic%20function3.html#1-3-1-noun--finite-relative-clause)).
         - *Other semiconductor stocks eased folluwing an industry trade group's [report] <ins>that its leading indicator **fell** in September.</ins>* (NP complement clause; included)
 
 2. Tag
