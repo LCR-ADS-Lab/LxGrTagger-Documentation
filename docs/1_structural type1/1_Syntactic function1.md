@@ -10,7 +10,7 @@ Finite adverbial clauses enrich sentences by providing detailed and complex info
 
 - Tense/modality marking: Finite clauses enable diverse tense or modality marking within the adverbial clause, distinct from the main clause, crucial for expressing various semantic relationships. The use of different tenses or modalities in the adverbial and main clauses to illustrate time, purpose, concession, and reason. Hypothetical conditional clauses (e.g., *if*) utilize tense and modality differences to express hypothetical meanings.
 
-## 1-1-1. multiple adverbial clause 
+## 1-1-1. finite adverbial clause 
 
 1. Descriptions
     - Adverbial clauses serve the role of adverbs of the main clause, generally describing additional circumstances (p. 194). 
@@ -27,4 +27,4 @@ Finite adverbial clauses enrich sentences by providing detailed and complex info
     - *They kept playing, <ins>until it **started** to rain</ins>.*
 
 4. Notes
-    - The original name of the complexity feature was 'causative, conditional, concessive clause'. It has been changed to 'multiple adverbial clause' for convenient naming.
+    - The original name of the complexity feature was 'causative, conditional, concessive clause'. It has been changed to 'finite adverbial clause' for convenient naming.
