@@ -328,9 +328,9 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
    - *I like <ins>**watching** the traffic go by</ins>.*
    - *I started <ins>**thinking** about Christmas</ins>.* (p. 200)
    - *It's as if the guy never stops <ins>**thinking** about the issue</ins>.* (p.200)
-   - *I enjoy **running** in the morning.*
-   - *He considers **moving** to a new city.*
-   - *He avoids **talking** about his problems.*
+   - *I enjoy <ins>**running** in the morning</ins>.*
+   - *He considers <ins>**moving** to a new city</ins>.*
+   - *He avoids <ins>**talking** about his problems</ins>.*
      
 #### Syntactic function 3: Noun phrase constituent_NP modifier
 - np modifier
