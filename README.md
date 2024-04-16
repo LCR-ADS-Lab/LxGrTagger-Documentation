@@ -304,7 +304,38 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
    - *I went on waiting, <ins>**tinged** with doubt</ins>.*
    - *<ins>As **expected**</ins>, the volume of retail sales rose 0.5 per cent in August.*
 
-#### Syntactic function 2: Noun + *-ed* (passive) relative clause
+#### Syntactic function 2: Clause constituent_Verb complement
+- verb complement (review: 1-2)
+  
+##### Complexity features 1: Verb + *to* complement clause
+1. Descriptions
+    - Infinitive clauses can have a range of syntactic roles which include direct objects (pp. 198-199).
+3. Tag
+    -  `vb+tocls` is tagged on the **main verb** of the *to* complement clause.
+4. Examples
+    - *I really want <ins>to **fix** this room up</ins>.*
+    - *He upset you very much, and I hate <ins>to **see** that</ins>.* (p. 199)
+    - *I believe Mary <ins>to **be** innocent</ins>*. (Haegeman & Guéron, 1998, p.126)
+    - *I promised John <ins>to buy a new bicycle</ins>*. (Haegeman & Guéron, 1998, p.35)
+      
+##### Complexity features 1: Verb + *ing* complement clause
+1. Descriptions
+   - Similar to the infinitive clauses, *ing* complement clauses can also act as a complement to the main verb.
+   - This structure is commonly known as the gerund. Gerunds function as a hybrid category, possessing characteristics of both verbs and nouns (Haegeman & Guéron, 1998, p.481).
+3. Tag
+    -  `vb+ingcls` is tagged on the **main verb** of the *ing* complement clause.
+4. Examples
+   - *I like <ins>**watching** the traffic go by</ins>.*
+   - *I started <ins>**thinking** about Christmas</ins>.* (p. 200)
+   - *It's as if the guy never stops <ins>**thinking** about the issue</ins>.* (p.200)
+   - *I enjoy **running** in the morning.*
+   - *He considers **moving** to a new city.*
+   - *He avoids **talking** about his problems.*
+     
+#### Syntactic function 3: Noun phrase constituent_NP modifier
+- np modifier
+  
+##### Complexity features 1: Noun + *-ed* (passive) relative clause
 1. Descriptions
    - Noun + *-ed* passive relative clauses exist to modify the noun phrase to provide additional information about the noun.
    - Introduced by a verb in **past** participle form (e.g *donated*, *created*, *espoused*).
@@ -318,7 +349,7 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
    - *The castle meeting between the three men <ins>**produced** the Three Musketeers.</ins>*
    - *The final thing the townspeople heard was the battalion's anthem <ins>**sung** as they marched over the hill.</ins>*
   
-#### Syntactic function 3: Noun + *-ing* relative clause
+##### Complexity features 2: Noun + *-ing* relative clause
 1. Descriptions
     - Noun + *-ing* relative clauses modify the noun phrase and typically describe an ongoing action or activity related to the modified noun.
     - Introduced by verbs in **present** participle form (e.g *lying*, *watching*, *waiting*)
@@ -331,7 +362,7 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
    - *After the outer walls fell the soldiers found the nobles <ins>**seeking** shelter in the castle</ins>*
    - *They engaged in research <ins>**hoping** to expand human understanding of the world.</ins>*
   
-#### Syntactic function 4: Noun + *to* relative clause
+##### Complexity features 3: Noun + *to* relative clause
 1. Descriptions
    - Noun + *to* relative clauses modify the noun phrase and provide infomation as to the direction, destination, intention, or subsequent action.
    - They are introduced by *to*, followed by a verb in infinitive form (e.g *play*, *create*, *observe*).
