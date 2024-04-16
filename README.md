@@ -306,20 +306,23 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 
 #### Syntactic function 2: Noun + *-ed* (passive) relative clause
 1. Descriptions
-    - An *ed*-clause can be used as an adverbial to modify a verb, an adjective, or an entire sentence. This is often employed to add information about comparisons between, levels of expectation of, or some other modification of the action described by the main verb.
+   - Noun + *-ed* passive relative clauses exist to modify the noun phrase to provide additional information about the noun.
+   - Introduced by a verb in past participle form (e.g *donated*, *created*, *espoused*).
+       - Some verbs are irregular, such as see (seen), write (written), or sing (sung).
+   - Most frequent in academic prose compared to other registers.
 2. Tag
-   - `ed_advl_cls` is tagged on the **main verb** of the *ed*-adverbial clause.
+   - `ED-rel` is tagged on the **main verb** of the *-ed* relative clause.
 3. Examples
-   - *<ins>When told by police how badly **injured** his victims were</ins> he said: "Good, I hope they die."*
-   - *We measured a seasonal total of 56.99 on precipitation in the two caged rain gauges, <ins>**compared** to 56.78 cm on the open plots.</ins>*
-   - *I went on waiting, <ins>**tinged** with doubt</ins>.*
-   - *<ins>As **expected**</ins>, the volume of retail sales rose 0.5 per cent in August.*
+   - *This is a phrase <ins>**used** in the recruitment industry</ins>.*
+   - *Abundant food and available healthcare are among the products <ins>**required** to support a huge and growing population.</ins>* (Biber et al., 2007, p. 604)
+   - *The castle meeting between the three men <ins>**produced** the Three Musketeers.</ins>*
+   - *The final thing the townspeople heard was the battalion's anthem <ins>**sung** as they marched over the hill.</ins>*
   
 #### Syntactic function 3: Noun + *-ing* relative clause
 1. Descriptions
     - An *ed*-clause can be used as an adverbial to modify a verb, an adjective, or an entire sentence. This is often employed to add information about comparisons between, levels of expectation of, or some other modification of the action described by the main verb.
 2. Tag
-   - `ed_advl_cls` is tagged on the **main verb** of the *ed*-adverbial clause.
+   - `ING-rel` is tagged on the **main verb** of the *ed*-adverbial clause.
 3. Examples
    - *<ins>When told by police how badly **injured** his victims were</ins> he said: "Good, I hope they die."*
    - *We measured a seasonal total of 56.99 on precipitation in the two caged rain gauges, <ins>**compared** to 56.78 cm on the open plots.</ins>*
@@ -331,9 +334,9 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
    - Noun + *to* relative clauses modify the noun phrase and provide infomation as to the direction, destination, intention, or subsequent action.
    - They are introduced by *to*
    - More common in conversation than writing
-3. Tag
+2. Tag
    - `to-rel` is tagged on the **main verb** of the *to* relative clause.
-4. Examples
+3. Examples
    - *You're the best person <ins>to **ask**.</ins>*
    - *There's just a lot <ins>to **think** about.</ins>* (Biber et al., 2007, p. 607)
    - *She is probably the best player <ins>to **play** college basketball.</ins>*
