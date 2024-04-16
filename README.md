@@ -307,8 +307,8 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 #### Syntactic function 2: Noun + *-ed* (passive) relative clause
 1. Descriptions
    - Noun + *-ed* passive relative clauses exist to modify the noun phrase to provide additional information about the noun.
-   - Introduced by a verb in past participle form (e.g *donated*, *created*, *espoused*).
-       - Some verbs are irregular, such as see (seen), write (written), or sing (sung).
+   - Introduced by a verb in **past** participle form (e.g *donated*, *created*, *espoused*).
+       - Some verbs are irregular, such as see (*seen*), write (*written*), or sing (*sung*).
    - Most frequent in academic prose compared to other registers.
 2. Tag
    - `ED-rel` is tagged on the **main verb** of the *-ed* relative clause.
@@ -320,20 +320,22 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
   
 #### Syntactic function 3: Noun + *-ing* relative clause
 1. Descriptions
-    - An *ed*-clause can be used as an adverbial to modify a verb, an adjective, or an entire sentence. This is often employed to add information about comparisons between, levels of expectation of, or some other modification of the action described by the main verb.
+    - Noun * *-ing* relative clauses modify the noun phrase and typically describe an ongoing action or activity related to the modified noun.
+    - Introduced by verbs in **present** participle form (e.g *lying*, *watching*, *waiting*)
+    - Most frequent in academic prose but moderately common across registers.
 2. Tag
    - `ING-rel` is tagged on the **main verb** of the *ed*-adverbial clause.
 3. Examples
-   - *<ins>When told by police how badly **injured** his victims were</ins> he said: "Good, I hope they die."*
-   - *We measured a seasonal total of 56.99 on precipitation in the two caged rain gauges, <ins>**compared** to 56.78 cm on the open plots.</ins>*
-   - *I went on waiting, <ins>**tinged** with doubt</ins>.*
-   - *<ins>As **expected**</ins>, the volume of retail sales rose 0.5 per cent in August.*
+   - *Elevated levels are treated with a diet <ins>**consisting** of low cholesterol foods.</ins>*
+   - *The woman <ins>**standing** in the corner</ins> is my sister.*
+   - *After the outer walls fell the soldiers found the nobles <ins>**seeking** shelter in the castle</ins>*
+   - *They engaged in research <ins>**hoping** to expand human understanding of the world.</ins>*
   
 #### Syntactic function 4: Noun + *to* relative clause
 1. Descriptions
    - Noun + *to* relative clauses modify the noun phrase and provide infomation as to the direction, destination, intention, or subsequent action.
-   - They are introduced by *to*
-   - More common in conversation than writing
+   - They are introduced by *to*, followed by a verb in infinitive form (e.g *play*, *create*, *observe*).
+   - More common in conversation than in writing.
 2. Tag
    - `to-rel` is tagged on the **main verb** of the *to* relative clause.
 3. Examples
