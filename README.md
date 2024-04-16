@@ -320,7 +320,7 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
   
 #### Syntactic function 3: Noun + *-ing* relative clause
 1. Descriptions
-    - Noun * *-ing* relative clauses modify the noun phrase and typically describe an ongoing action or activity related to the modified noun.
+    - Noun + *-ing* relative clauses modify the noun phrase and typically describe an ongoing action or activity related to the modified noun.
     - Introduced by verbs in **present** participle form (e.g *lying*, *watching*, *waiting*)
     - Most frequent in academic prose but moderately common across registers.
 2. Tag
