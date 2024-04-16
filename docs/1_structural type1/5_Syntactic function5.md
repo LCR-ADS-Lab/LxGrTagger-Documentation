@@ -39,3 +39,8 @@ Building on the discussion in the [verb complement clauses](2_Syntactic%20functi
     - *It is sensible <ins>that the breeding animals **receive** the highest protection.</ins>* (p. 674)
     - *It is important <ins>that it **be** well sealed from air leakage.</ins>* (p. 674)
     - *It is vital <ins>that leaking water is **avoided**.</ins>* (p. 674)
+
+4. Discussions
+    - *It’s only if the sample is so bad, so contradictory to the (null) hypothesis, <ins>that we’re going to reject (it)</ins>.*
+   - **Q:** Is this an ‘extraposed adjective+that-complement’ or a simple ‘adjective+that-complement clause’? Given that the phrase (‘so contradictory that~’) suggests a cause-effect relationship (e.g., it was so bad that I did not want to go there again), how does this affect its classification?
+   - **A:** This is not extraposed. The ‘it’ is referential. And so the ‘that’ clause is a adjective + *that*-complement clause (of the adjective ‘bad’ in this case).
