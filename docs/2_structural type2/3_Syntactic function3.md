@@ -31,7 +31,7 @@
    - *After the outer walls fell the soldiers found the nobles <ins>**seeking** shelter in the castle</ins>*
    - *They engaged in research <ins>**hoping** to expand human understanding of the world.</ins>*
 
-## 2-3-3. Noun + *ed* (passive) relative clause
+## 2-3-3. Noun + *ed* relative clause
 
 1. Descriptions
    - Noun + *ed* passive relative clauses exist to modify the noun phrase to provide additional information about the noun.
