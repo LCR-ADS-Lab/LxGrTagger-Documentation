@@ -10,9 +10,9 @@
    - *To*-clauses as purpose adverbials indicate the reason or intention behind the main action of a sentence.
    - They are introduced by *to* or a deleted *to*
        - *Surrey police say the film would help <ins>[to] **identify** participants at the weekend party</ins>*  
-3. Tag
+2. Tag
    - `to_advl_cls` is tagged on the **main verb** of the *to*-adverbial clause.
-4. Examples
+3. Examples
    -  *<ins>To **verify** this hypothesis</ins>, sections of fixed cells were examined.*
    -  *We eat <ins>to **survive**</ins>*
    -  *I have brought you all here today <ins>to **tell** you about my evil plan</ins>*
@@ -27,7 +27,7 @@
 2. Tag
    - `ing_advl_cls` is tagged on the **main verb** of the *ing*-adverbial clause.
 3. Examples
-   -  *<ins>**Considering** mammals’ level of physical development</ins>, the diversity of this species is astounding.*
+   - *<ins>**Considering** mammals’ level of physical development</ins>, the diversity of this species is astounding.*
    - *<ins>**Running** along the beach</ins>, she found a rare shell.* (time)
    - *<ins>**Feeling** hungry</ins>, he stopped at the nearest restaurant.* (reason)
    - *<ins>**Providing** you finish your homework</ins>, you can watch TV.* (condition)
