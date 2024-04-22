@@ -1,4 +1,4 @@
-# 2-2. Clause constituent_Verb complement
+# 2-2. clause constituent verb complement
 
 - will add pointers to the verb complement
 
