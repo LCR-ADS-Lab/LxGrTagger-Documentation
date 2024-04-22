@@ -318,7 +318,7 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
     - *I believe Mary <ins>to **be** innocent</ins>*. (Haegeman & Guéron, 1998, p.126)
     - *I promised John <ins>to buy a new bicycle</ins>*. (Haegeman & Guéron, 1998, p.35)
       
-##### Complexity features 1: Verb + *ing* complement clause
+##### Complexity features 2: Verb + *ing* complement clause
 1. Descriptions
    - Similar to the infinitive clauses, *ing* complement clauses can also act as a complement to the main verb.
    - This structure is commonly known as the gerund. Gerunds function as a hybrid category, possessing characteristics of both verbs and nouns (Haegeman & Guéron, 1998, p.481).
@@ -337,12 +337,12 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
   
 ##### Complexity features 1: Noun + *-ed* (passive) relative clause
 1. Descriptions
-   - Noun + *-ed* passive relative clauses exist to modify the noun phrase to provide additional information about the noun.
+   - Noun + *ed* passive relative clauses exist to modify the noun phrase to provide additional information about the noun.
    - Introduced by a verb in **past** participle form (e.g *donated*, *created*, *espoused*).
        - Some verbs are irregular, such as see (*seen*), write (*written*), or sing (*sung*).
    - Most frequent in academic prose compared to other registers.
 2. Tag
-   - `ED-rel` is tagged on the **main verb** of the *-ed* relative clause.
+   - `nn+edcls+relcl` is tagged on the **main verb** of the *ed* relative clause.
 3. Examples
    - *This is a phrase <ins>**used** in the recruitment industry</ins>.*
    - *Abundant food and available healthcare are among the products <ins>**required** to support a huge and growing population.</ins>* (Biber et al., 2007, p. 604)
@@ -351,11 +351,11 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
   
 ##### Complexity features 2: Noun + *-ing* relative clause
 1. Descriptions
-    - Noun + *-ing* relative clauses modify the noun phrase and typically describe an ongoing action or activity related to the modified noun.
+    - Noun + *ing* relative clauses modify the noun phrase and typically describe an ongoing action or activity related to the modified noun.
     - Introduced by verbs in **present** participle form (e.g *lying*, *watching*, *waiting*)
     - Most frequent in academic prose but moderately common across registers.
 2. Tag
-   - `ING-rel` is tagged on the **main verb** of the *ed*-adverbial clause.
+   - `nn+ingcls+relcl` is tagged on the **main verb** of the *ing* relative clause.
 3. Examples
    - *Elevated levels are treated with a diet <ins>**consisting** of low cholesterol foods.</ins>*
    - *The woman <ins>**standing** in the corner</ins> is my sister.*
