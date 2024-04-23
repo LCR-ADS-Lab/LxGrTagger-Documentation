@@ -408,24 +408,24 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
    - Extraposed adjective + *to* complement clauses semantically function as the subject.
    - The true subject is often replaced by *it.*
 2. Tag
-   - `xtrapos+jj+tocls+jcomp` is tagged on the **main verb** of the *to* compliment clause.
+   - `xtrapos+jj+tocls+jcomp` is tagged on the **main verb** of the extraposed *to* compliment clause.
 3. Examples
    - *It was difficult <ins>to **appreciate him</ins> when we thought we had more time.*
    - *It is important <ins>to **understand** other people's feelings</ins> in a team enviornment.*
    - *It was necessary <ins> to **adjust** our plans</ins> due to the unexpected weather conditions.*
    - *They were excited <ins>to **get** the chance</ins> to play in the tournament.*
   
-#### Preposition + *ing* complement clause
+#### Preposition + *-ing* complement clause
 1. Descriptions
-   - Extraposed adjective + *to* complement clauses semantically function as the subject.
-   - The true subject is often replaced by *it.*
+   - Preposition + *-ing* complement clauses are constructed from a preposition and a verb in its *-ing* form.
+   - It is used to provide additional information about the context or manner in which the action of the main verb occurs, or to describe relationships in time, cause, method, or condition
 2. Tag
-   - `xtrapos+jj+tocls+jcomp` is tagged on the **main verb** of the *to* compliment clause.
+   - `ingcls+incomp` is tagged on the **main verb** of the *-ing* compliment clause.
 3. Examples
-   - *It was difficult <ins>to **appreciate him</ins> when we thought we had more time.*
-   - *It is important <ins>to **understand** other people's feelings</ins> in a team enviornment.*
-   - *It was necessary <ins> to **adjust** our plans</ins> due to the unexpected weather conditions.*
-   - *They were excited <ins>to **get** the chance</ins> to play in the tournament.*
+   - *After <ins>**finishing** his homework</ins>, John went out to play.*
+   - *Despite <ins>**feeling** unwell</ins>, she attended the meeting.*
+   - *Without <ins>**realizing** it</ins>, she offended her colleague with a casual remark.*
+   - *Nearly <ins>**crashing** into each other</ins>, the two pedestrians both ran into others.*
 
 ----
 
