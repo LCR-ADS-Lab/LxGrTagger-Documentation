@@ -377,7 +377,70 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 
 
 ### Structual type 3: dependent phrases (non-clausal)
-*to be added soon*
+#### Adverb phrase as adverbial
+1. Descriptions
+   - An adverb phrase as adverbial is when an adverb phrase is used to modify a verb, adjective, or an entire sentence.
+   - Adverbial adverb phrases give more information about when, where, how, or under what conditions applied to the component they modify.
+   - They cannot exist on their own due to being depedent phrases.
+2. Tag
+   - `adv_as_advl` is tagged on the **adverb** of the adverb phrase.  **<---- NOT SURE WHAT IS DESIRED HERE**
+3. Examples
+   - *They arrived <ins>**before** sunrise</ins>*
+   - *I will see you <ins>**later** tonight</ins>.*
+   - *I raved about it <ins>**afterwards**</ins>.*
+   - *He entered the room <ins>**quietly**</ins>.*
+#### Prepositional phrase as adverbial
+1. Descriptions
+   - A prepositional phrase as adverbial is tagged when a prepositional phrase acts like an adverbial, modifying a verb, adjective, or entire sentence.
+   - Adverbial prepositional phrases typically correspond to one of these major groups:
+       - Location/Place: conveys distance, direction, or position (*she sat **on the bench***)
+       - Time: indicate position in time, duration, frequency, or the temporal relation between two states (*We will leave **in the morning***)
+       - Process: describe the way something was done, as comparison between two states, accompaniment/grouping, demonstrate the explicit means through which an action was carried out, the item relevant to the state, or the agent of an action. (*He spoke **with enthusiasm***)
+       - Contingency: describe the cause, reason, purpose, concession, condition, and/or result (*She can see you **if you stand there***)
+   - They cannot exist on their own due to being depedent phrases.
+2. Tag
+   - `in+advl` is tagged at the **head** of the prepositional phrase. **<---- NOT SURE WHAT IS DESIRED HERE**
+3. Examples
+   - *Alright, we'll talk to you <ins>**in** the morning</ins>.*
+   - *She avoids the sun <ins>**by** wearing a hat</ins>.*
+   - *He left <ins>**because** of the rain</ins>.*
+   - *<ins>**During** the concert,</ins> they remained silent.*
+#### Attributive adjectives as noun pre-modifier
+1. Descriptions
+   - Attributive adjectives are adjectives describing particular attributes of the noun they modify.
+   - They are pre-modifiers because they come before the noun they modify.
+   - They cannot exist on their own due to being depedent (non-clausal) phrases.
+2. Tag
+   - `attr+nn+premod` is tagged on the **attributive adjective**. **<---- DO WE WANT MULTIPLE TAGS FOR POTENTIALLY MULTIPLE ADJECTIVES?** see example 3
+3. Examples
+   - *He struggled to read the <ins>**emotional**</ins> inquiry.* 
+   - *She drives a <ins>**fast**</ins> car.*
+   - *The <ins>**small**</ins>, <ins>**antique**</ins> <ins>**wooden**</ins> chest held many treasures.*
+   - *They bought a <ins>**beautiful**</ins> home.
+#### Nouns as noun pre-modifier
+1. Descriptions
+   - Nouns as noun pre-modifiers (sometimes *noun adjunct*) are nouns that add specific information to the following noun.
+   - These nouns often communicate meaning related the purpose, type, ownership, or material among other qualities of nouns they modify.
+   - They cannot exist on their own due to being depedent (non-clausal) phrases.
+2. Tag
+   - `nn+npremod` is tagged on the **pre-modifying noun**. **<---- NOT SURE WHAT IS DESIRED HERE**
+3. Examples
+   - *The pilot's license needed to be reviewed by the <ins>**avitation security**</ins> committee.*
+   - *He barely passed <ins>**fighter pilot**</ins> training.*
+   - *She placed her <ins>**coffee**</ins> cup on the table.*
+   - *The city council is considering a new <ins>**traffic regulation**</ins> proposal.*
+#### *Of* genitive phrases as noun post-modifier
+1. Descriptions
+   - *Of* genitive phrases can modify nouns and express relationship between nouns, linked by *of.*
+   - The *of* genetive phrase comes after the noun it relates to, therefore being considered a post-modifier.
+   - They cannot exist on their own due to being depedent (non-clausal) phrases.
+2. Tag
+   - `of+gen+post+nmod` is tagged on the **noun** of the *of* genitive phrase. **<---- NOT SURE WHAT IS DESIRED HERE**
+3. Examples
+   - *The sound <ins>of **music**</ins> was soothing.*
+   - *McKenna wrote about the origins <ins>of human **language**.</ins>**
+   - *She is the CEO <ins>of the **company**.</ins>
+   - *A group <ins>of **students**</ins> gathered in the hall.*
 
 #### Noun + *to* complement clause
 1. Descriptions
