@@ -442,6 +442,8 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
    - *She is the CEO <ins>of the **company**.</ins>
    - *A group <ins>of **students**</ins> gathered in the hall.*
 
+-------
+
 #### Noun + *to* complement clause
 1. Descriptions
    - Noun + *to* compliment clauses modify the noun and provide a purpose or potential action related to the noun.
