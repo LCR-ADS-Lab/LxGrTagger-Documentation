@@ -13,9 +13,8 @@
    - *They were excited <ins>to **explore** the new city</ins>, having heard so much about its vibrant culture.*
    - *After recovering from her injury, she was able <ins>to **participate** in the marathon</ins>, much to her relief.*
 
-## 2-5-1. extraposed adjective + *to* complement clause
+## 2-5-2. extraposed adjective + *to* complement clause
 
-#### Extraposed adjective + *to* complement clause
 1. Descriptions
    - Extraposed adjective + *to* complement clauses semantically function as the subject.
    - The true subject is often replaced by *it.*
