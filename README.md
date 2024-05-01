@@ -389,6 +389,7 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
    - *I will see you <ins>**later** tonight</ins>.*
    - *I raved about it <ins>**afterwards**</ins>.*
    - *He entered the room <ins>**quietly**</ins>.*
+
 #### Prepositional phrase as adverbial
 1. Descriptions
    - A prepositional phrase as adverbial is tagged when a prepositional phrase acts like an adverbial, modifying a verb, adjective, or entire sentence.
@@ -405,6 +406,7 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
    - *She avoids the sun <ins>**by** wearing a hat</ins>.*
    - *He left <ins>**because** of the rain</ins>.*
    - *<ins>**During** the concert,</ins> they remained silent.*
+
 #### Attributive adjectives as noun pre-modifier
 1. Descriptions
    - Attributive adjectives are adjectives describing particular attributes of the noun they modify.
@@ -417,6 +419,7 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
    - *She drives a <ins>**fast**</ins> car.*
    - *The <ins>**small**</ins>, <ins>**antique**</ins> <ins>**wooden**</ins> chest held many treasures.*
    - *They bought a <ins>**beautiful**</ins> home.
+
 #### Nouns as noun pre-modifier
 1. Descriptions
    - Nouns as noun pre-modifiers (sometimes *noun adjunct*) are nouns that add specific information to the following noun.
@@ -429,6 +432,7 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
    - *He barely passed <ins>**fighter pilot**</ins> training.*
    - *She placed her <ins>**coffee**</ins> cup on the table.*
    - *The city council is considering a new <ins>**traffic regulation**</ins> proposal.*
+
 #### *Of* genitive phrases as noun post-modifier
 1. Descriptions
    - *Of* genitive phrases can modify nouns and express relationship between nouns, linked by *of.*
