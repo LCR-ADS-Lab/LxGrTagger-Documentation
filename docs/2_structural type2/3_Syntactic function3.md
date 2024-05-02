@@ -9,7 +9,7 @@
    - They are introduced by *to*, followed by a verb in infinitive form (e.g *play*, *create*, *observe*).
    - More common in conversation than in writing.
 2. Tag
-   - `nn+tocls+relcl ` is tagged on the **main verb** of the *to* relative clause.
+   - `nn+tocls+relcl` is tagged on the **main verb** of the *to* relative clause.
 3. Examples
    - *You're the best person <ins>to **ask**.</ins>*
    - *There's just a lot <ins>to **think** about.</ins>* (p. 607)
