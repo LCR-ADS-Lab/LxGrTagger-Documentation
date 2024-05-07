@@ -443,9 +443,65 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
 3. Examples
    - *The sound <ins>of **music**</ins> was soothing.*
    - *McKenna wrote about the origins <ins>of human **language**.</ins>**
-   - *She is the CEO <ins>of the **company**.</ins>
+   - *She is the CEO <ins>of the **company**.</ins>*
    - *A group <ins>of **students**</ins> gathered in the hall.*
 
+#### Other prepositional phrases as noun post-modifier
+1. Descriptions
+   - Similar to *of* genetive phrases, but relatively rarer in occurence. This tag includes all other prepositional phrases that follow a noun and modify it.
+   - Linked by words such as *in*, *which*, *on*, among others that are not *of*.
+   - They cannot exist on their own due to being depedent (non-clausal) phrases.
+2. Tag
+   - `in+post+nmod` is tagged on the **preposition** of the prepositional phrase. **<---- NOT SURE WHAT IS DESIRED HERE**
+3. Examples
+   - *The painting <ins>**in** the corner</ins> caught my eye.*
+   - *The conference <ins>**on** global warming</ins> was very informative.*
+   - *Your cake <ins>**with** chocolate icing</ins> was delicious.*
+   - *Children <ins>**under** twelve</ins> get in for free.*
+
+#### Appositive noun phrases as noun post-modifier
+1. Descriptions
+   - Noun phrases in apposition (appositive) have equivalent status with the preceding (head) noun phrase.
+       - The order of the head noun phrase and the appositive could (nomally) be reversed to produce an equal grammatical construction with basically the same meaning.
+   - They provide descriptive information about the head noun but are not needed to identify the reference of the head noun.
+   - They cannot exist on their own due to being depedent (non-clausal) phrases.
+2. Tag
+   - `nn+nappos` is tagged on the **noun** of the appositive phrase. **<---- NOT SURE WHAT IS DESIRED HERE**
+3. Examples
+   - *The capital city, <ins>**Paris**</ins>, is the heart of France.*
+       - *Paris, <ins>the capital **city**</ins>, is the heart of France.* 
+   - *The famous inventor <ins>**Thomas** Edison</ins> made numerous advancements in technology.*
+       - *Thomas Edison, <ins>the famous **inventor**</ins>, made numerous advancements in technology.*
+   - *My brother <ins>**John**</ins> is a painter.*
+   - *My friend, <ins>an experienced **hiker**,</ins> has traveled far and wide.*
+  
+#### Prepositional phrases as adjective complement
+1. Descriptions
+   - Prepositional phrases can function as adjective complements when they follow an adjective and complete/enhance its meaning.
+   - They begin with prepositions, commonly *in*, *about*, *to*, etc.
+   - They cannot exist on their own due to being depedent (non-clausal) phrases.
+2. Tag
+   - `adj_+_prep` is tagged on the **preposition** of the complement prepositional phrase. **<---- NOT SURE WHAT IS DESIRED HERE**
+3. Examples
+   - *The solution was obvious <ins>**to** everyone in the room</ins>.*
+   - *She was happy <ins>**about** the promotion</ins>.*
+   - *He is interested <ins>**in** ancient history</ins>.*
+   - *The novel is relevant <ins>**to** current events</ins>.*
+
+#### Adverb phrase as adjective/adverb modifier
+1. Descriptions
+   - An adverb phrase modifies an adjective or another adverb when it provides more information about the adjective or adverb.
+       - Commonly modifying the degree, intensity, or manner of the adjective/adverb.
+   - They can often be a single word (e.g *quite* unsure, *extremely* unhelpful) but may extend to more than one (e.g *a little* dissappointed, *not entirely* sure).
+       - Adverbs can be observed commonly ending with *-ly*.
+   - They cannot exist on their own (independently) due to being depedent (non-clausal) phrases.
+2. Tag
+   - `adv_as_modifier` is tagged on the **adverb** of modifying adverb phrase. **<---- NOT SURE WHAT IS DESIRED HERE**
+3. Examples
+   - *That cat was <ins>**suprisingly**</ins> fat.*
+   - *We will see those impacts <ins>**fairly**</ins> quickly.*
+   - *Depite the captain's best efforts, the team was <ins>not **entirely**</ins> sure about the plan.*
+   - *The boy was <ins>**fairly**</ins> certain that it would rain due to the heavy smell in the air.*
 -------
 
 #### Noun + *to* complement clause
