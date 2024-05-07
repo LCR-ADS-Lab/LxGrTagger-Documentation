@@ -12,7 +12,7 @@ Prepositional phrases are structures that combine a preposition with a complemen
    -  Common prepositions are *in*, *on*, *at*, *by*, with, about, and through
    -  Prepositional verbs are verbs that when combined with a preposition may take on new meaning.
 2. Tag
-   - `prep+wh` is tagged on the **main verb** of the *wh*-complement clause.
+   - `in+wh+incomp` is tagged on the **main verb** of the *wh*-complement clause.
 4. Examples
    - *She was amazed at <ins>how exhausted she **was**.</ins>* (p. 684)
    - *She is interested in <ins>what you **believe**.</ins>*
