@@ -442,7 +442,7 @@ A **finite** dependent clause includes a verb phrase that is characterized by a 
    - `of+gen+post+nmod` is tagged on the **noun** of the *of* genitive phrase. **<---- NOT SURE WHAT IS DESIRED HERE**
 3. Examples
    - *The sound <ins>of **music**</ins> was soothing.*
-   - *McKenna wrote about the origins <ins>of human **language**.</ins>**
+   - *McKenna wrote about the origins <ins>of human **language**.</ins>*
    - *She is the CEO <ins>of the **company**.</ins>*
    - *A group <ins>of **students**</ins> gathered in the hall.*
 
