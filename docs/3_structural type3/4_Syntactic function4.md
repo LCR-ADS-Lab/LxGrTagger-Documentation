@@ -1,7 +1,6 @@
 # 3-4. other phrase constituent: adjective/adverb modifier
 
 *under construction* 
-Notes. We have to discuss **where** to tag. 
 
 ## 3-4-1. adverb phrase as adjective/adverb modifier
 1. Descriptions
@@ -11,8 +10,7 @@ Notes. We have to discuss **where** to tag.
        - Adverbs can be observed commonly ending with *-ly*.
    - They cannot exist on their own (independently) due to being depedent (non-clausal) phrases.
 2. Tag (**NEEDS to be checked!)
-   - `rb+adjmod` is tagged on the **adverb** of modifying adjective phrase.
-   - `rb+advmod` is tagged on the **adverb** of modifying adverb phrase.
+   - `rb+adjmod|advmod` is tagged on the **adverb** of modifying adjective/adverb phrase.
 3. Examples
    - *That cat was <ins>**suprisingly**</ins> fat.*
    - *We will see those impacts <ins>**fairly**</ins> quickly.*

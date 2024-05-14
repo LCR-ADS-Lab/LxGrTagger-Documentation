@@ -11,7 +11,7 @@
    - Adverbial adverb phrases give more information about when, where, how, or under what conditions applied to the component they modify.
    - They cannot exist on their own due to being depedent phrases.
 2. Tag
-   - `adv_as_advl` is tagged on the **adverb** of the adverb phrase.  **<---- NOT SURE WHAT IS DESIRED HERE**
+   - `rb+advl` is tagged on the **adverb** of the adverb phrase.
 3. Examples
    - *They arrived <ins>**before** sunrise</ins>*
    - *I will see you <ins>**later** tonight</ins>.*
@@ -29,9 +29,9 @@
        - Contingency: describe the cause, reason, purpose, concession, condition, and/or result (*She can see you **if you stand there***)
    - They cannot exist on their own due to being depedent phrases.
 2. Tag
-   - `in+advl` is tagged at the **head** of the prepositional phrase. **<---- NOT SURE WHAT IS DESIRED HERE**
+   - `in+advl` is tagged on the **preposotion** of the prepositional phrase. 
 3. Examples
    - *Alright, we'll talk to you <ins>**in** the morning</ins>.*
    - *She avoids the sun <ins>**by** wearing a hat</ins>.*
-   - *He left <ins>**because** of the rain</ins>.*
+   - *He left <ins>**because** of the rain</ins>.* (Q. Do we tag *because*? or *of*?)
    - *<ins>**During** the concert,</ins> they remained silent.*
