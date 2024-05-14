@@ -14,12 +14,4 @@ Prepositional phrases are structures that combine a preposition with a complemen
 2. Tag
    - `in+wh+incomp` is tagged on the **main verb** of the *wh*-complement clause.
 4. Examples
-   - *She was amazed at <ins>how exhausted she **was**.</ins>* (p. 684)
-   - *She is interested in <ins>what you **believe**.</ins>*
-   - *We are looking for <ins>whose idea it **was**.</ins>*
-   - *He is investigating under <ins>whose authority the decision was **made**</ins>.*
-   - *He was curious about <ins>where they had **met**</ins>.*
-   - *They were concerned with <ins>why the project was **delayed**</ins>.*
-   - *I am skeptical of <ins>how the results were **obtained**</ins>.*
-   - *They were puzzled by <ins>when the event had **occurred**</ins>.*
-   - *She was excited about <ins>which options she would **choose**</ins>.*
+   - *I’ll offer a suggestion <ins>for what we should **do**.</ins>*
