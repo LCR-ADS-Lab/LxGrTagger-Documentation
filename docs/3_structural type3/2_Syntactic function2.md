@@ -1,6 +1,7 @@
 # 3-2. noun phrase constituent_modifier
 
 *under construction* 
+Notes. We have to discuss **where** to tag. 
 
 ## 3-2-1. attributive adjectives as noun pre-modifier
 1. Descriptions
@@ -42,5 +43,30 @@
    - *A group <ins>of **students**</ins> gathered in the hall.*
    
 ## 3-2-4. other prepositional phrases as noun post-modifier
+1. Descriptions
+   - This tag includes all other prepositional phrases that follow a noun and modify it.
+   - Linked by words such as *in*, *which*, *on*, among others that are not *of*.
+   - They cannot exist on their own due to being depedent (non-clausal) phrases.
+2. Tag
+   - `in+post+nmod` is tagged on the **preposition** of the prepositional phrase. **<---- NOT SURE WHAT IS DESIRED HERE**
+3. Examples
+   - *The painting <ins>**in** the corner</ins> caught my eye.*
+   - *The conference <ins>**on** global warming</ins> was very informative.*
+   - *Your cake <ins>**with** chocolate icing</ins> was delicious.*
+   - *Children <ins>**under** twelve</ins> get in for free.*
 
 ## 3-2-5. appositive noun phrases as noun post-modifier
+1. Descriptions
+   - Noun phrases in apposition (appositive) have equivalent status with the preceding (head) noun phrase.
+       - The order of the head noun phrase and the appositive could (nomally) be reversed to produce an equal grammatical construction with basically the same meaning.
+   - They provide descriptive information about the head noun but are not needed to identify the reference of the head noun.
+   - They cannot exist on their own due to being depedent (non-clausal) phrases.
+2. Tag
+   - `nn+npremod` is tagged on the **noun** of the appositive phrase. **<---- NOT SURE WHAT IS DESIRED HERE**
+3. Examples
+   - *The capital city, <ins>**Paris**</ins>, is the heart of France.*
+       - *Paris, <ins>the capital **city**</ins>, is the heart of France.* 
+   - *The famous inventor <ins>**Thomas** Edison</ins> made numerous advancements in technology.*
+       - *Thomas Edison, <ins>the famous **inventor**</ins>, made numerous advancements in technology.*
+   - *My brother <ins>**John**</ins> is a painter.*
+   - *My friend, <ins>an experienced **hiker**,</ins> has traveled far and wide.*
