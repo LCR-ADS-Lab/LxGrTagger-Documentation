@@ -9,10 +9,11 @@
    - They cannot exist on their own due to being depedent (non-clausal) phrases.
 2. Tag
    - `attr+nn+premod` is tagged on the attributive **adjective**.
+   - In cases where multiple adjectives are included, tag each one (as in the third example below).
 3. Examples
    - *He struggled to read the <ins>**emotional**</ins> inquiry.* 
    - *She drives a <ins>**fast**</ins> car.*
-   - *The <ins>**small**</ins>, <ins>**antique**</ins> <ins>**wooden**</ins> chest held many treasures.* (Q. Do we tag all of the adjectives?)
+   - *The <ins>**small**</ins>, <ins>**antique**</ins> <ins>**wooden**</ins> chest held many treasures.*
    - *They bought a <ins>**beautiful**</ins> home.
 
 ## 3-2-2. noun as noun pre-modifier
