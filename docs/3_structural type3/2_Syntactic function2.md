@@ -28,7 +28,7 @@
    - *She placed her <ins>**coffee**</ins> cup on the table.*
    - *The city council is considering a new <ins>**traffic** regulation</ins> proposal.*
 
-## 3-2-3. *of* genetive phrases as noun post-modifier
+## 3-2-3. *of* genitive phrases as noun post-modifier
 1. Descriptions
    - *of* genitive phrases can modify nouns and express relationship between nouns, linked by *of.*
    - The *of* genetive phrase comes after the noun it relates to, therefore being considered a post-modifier.
