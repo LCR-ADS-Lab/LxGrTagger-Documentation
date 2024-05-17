@@ -41,6 +41,8 @@
    - *McKenna wrote about the origins <ins>**of** human language.</ins>*
    - *She is the CEO <ins>**of** the company.</ins>*
    - *A group <ins>**of** students</ins> gathered in the hall.*
+4. Question
+   - HS: I am not sure how to treat the pronoun+*of*+NP cases (e.g., a lot of you, each of you, many of you...)
    
 ## 3-2-4. other prepositional phrases as noun post-modifier
 1. Descriptions
