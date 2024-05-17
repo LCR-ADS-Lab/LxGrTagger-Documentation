@@ -61,7 +61,7 @@
    - They provide descriptive information about the head noun but are not needed to identify the reference of the head noun.
    - They cannot exist on their own due to being depedent (non-clausal) phrases.
 2. Tag
-   - `nn+nappos` is tagged on the **noun** of the appositive phrase. 
+   - `nn+nappos` is tagged on the head **noun** of the appositive phrase. 
 3. Examples
    - *The capital city, <ins>**Paris**</ins>, is the heart of France.*
        - *Paris, <ins>the capital **city**</ins>, is the heart of France.* 
