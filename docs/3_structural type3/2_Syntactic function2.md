@@ -38,8 +38,8 @@
    - `of+gen+post+nmod` is tagged on the **of** of the *of* genitive phrase.
 3. Examples
    - *The sound <ins>**of** music</ins> was soothing.*
-   - *McKenna wrote about the origins <ins>**of** human language.</ins>**
-   - *She is the CEO <ins>**of** the company.</ins>
+   - *McKenna wrote about the origins <ins>**of** human language.</ins>*
+   - *She is the CEO <ins>**of** the company.</ins>*
    - *A group <ins>**of** students</ins> gathered in the hall.*
    
 ## 3-2-4. other prepositional phrases as noun post-modifier
