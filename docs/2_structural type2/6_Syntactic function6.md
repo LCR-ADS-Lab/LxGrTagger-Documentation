@@ -8,6 +8,7 @@
    - These clauses are used to specify the method, process, or condition related to the noun preceding the preposition.
 2. Tag
    - `ingcls+incomp` is tagged on the **main verb** of the *ing* compliment clause.
+   - notes: consider changing tag to `nn+incls+incomp`
 3. Examples
    - *The formula for <ins>**calculating** the effective resistance</ins> is ….*
    - *The method for <ins>**assessing** project risks</ins> involves thorough analysis.*
