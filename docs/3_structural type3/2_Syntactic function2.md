@@ -32,7 +32,6 @@
 1. Descriptions
    - *of* genitive phrases can modify nouns and express relationship between nouns, linked by *of.*
    - The *of* genetive phrase comes after the noun it relates to, therefore being considered a post-modifier.
-   - They cannot exist on their own due to being depedent (non-clausal) phrases.
 2. Tag
    - `of+gen+post+nmod` is tagged on the **of** of the *of* genitive phrase.
    - *need to change this to 'of+gen+post+nmod'* 2024-05-24
@@ -47,7 +46,6 @@
 ## 3-2-4. other prepositional phrases as noun post-modifier
 1. Descriptions
    - This tag includes all other prepositional phrases (except for *of*) that follow a noun and modify it.
-   - They cannot exist on their own due to being depedent (non-clausal) phrases.
 2. Tag
    - `in+post+nmod` is tagged on the **preposition** of the prepositional phrase.
 3. Examples
@@ -61,7 +59,6 @@
    - Noun phrases in apposition (appositive) have equivalent status with the preceding (head) noun phrase.
        - The order of the head noun phrase and the appositive could (nomally) be reversed to produce an equal grammatical construction with basically the same meaning.
    - They provide descriptive information about the head noun but are not needed to identify the reference of the head noun.
-   - They cannot exist on their own due to being depedent (non-clausal) phrases.
 2. Tag
    - `nn+nappos` is tagged on the head **noun** of the appositive phrase. 
 3. Examples
