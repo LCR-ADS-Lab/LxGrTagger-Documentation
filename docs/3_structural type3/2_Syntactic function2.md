@@ -6,7 +6,7 @@
 1. Descriptions
    - Attributive adjectives are adjectives describing particular attributes of the noun they modify.
    - They are pre-modifiers because they come before the noun they modify.
-   - This category may exclude cases where an attributive adjective serves as a complement to a copular verb (e.g., *this project is **good***)
+   - This category excludes cases where an attributive adjective serves as a complement to a copular verb (e.g., *this project is **good***)
 2. Tag
    - `attr+nn+premod` is tagged on the attributive **adjective**.
    - In cases where multiple adjectives are included, tag each one (as in the third example below) HS: **Please check this during the discussion!**
@@ -20,7 +20,6 @@
 1. Descriptions
    - Nouns as noun pre-modifiers (sometimes *noun adjunct*) are nouns that add specific information to the following noun.
    - These nouns often communicate meaning related the purpose, type, ownership, or material among other qualities of nouns they modify.
-   - They cannot exist on their own due to being depedent (non-clausal) phrases.
 2. Tag
    - `nn+npremod` is tagged on the pre-modifying **noun**. 
 3. Examples
