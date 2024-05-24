@@ -36,6 +36,7 @@
    - They cannot exist on their own due to being depedent (non-clausal) phrases.
 2. Tag
    - `of+gen+post+nmod` is tagged on the **of** of the *of* genitive phrase.
+   - *need to change this to 'of+gen+post+nmod'* 2024-05-24
 3. Examples
    - *The sound <ins>**of** music</ins> was soothing.*
    - *McKenna wrote about the origins <ins>**of** human language.</ins>*
