@@ -9,7 +9,7 @@
    - They can often be a single word (e.g *quite* unsure, *extremely* unhelpful) but may extend to more than one (e.g *a little* dissappointed, *not entirely* sure).
        - Adverbs can be observed commonly ending with *-ly*.
    - They cannot exist on their own (independently) due to being depedent (non-clausal) phrases.
-2. Tag (**NEEDS to be checked!)
+2. Tag (**NEEDS to be checked!** Do we have a separate tag for (1) an adverb modifying adjective and (2) an adverb modifying adverb? or combine them?)
    - `rb+adjmod|advmod` is tagged on the **adverb** of modifying adjective/adverb phrase.
 3. Examples
    - *That cat was <ins>**suprisingly**</ins> fat.*
