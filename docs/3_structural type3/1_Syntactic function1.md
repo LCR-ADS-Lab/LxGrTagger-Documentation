@@ -8,7 +8,7 @@
 
 1. Descriptions
    - An adverb phrase as adverbial is when an adverb phrase is used to modify a verb or an entire sentence.
-   - Adverbial adverb phrases give more information about when, where, how, or under what conditions applied to the component they modify.
+   - Adverbial adverb phrases give more information about when, where, how, what degree, or under what conditions applied to the component they modify.
 2. Tag
    - `rb+advl` is tagged on the **adverb** of the adverb phrase.
 3. Examples
