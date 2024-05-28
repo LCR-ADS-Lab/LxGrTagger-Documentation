@@ -64,7 +64,7 @@
 3. Examples
    - *The capital city, <ins>**Paris**</ins>, is the heart of France.*
        - *Paris, <ins>the capital **city**</ins>, is the heart of France.* 
-   - *The famous inventor <ins>**Thomas Edison**</ins> made numerous advancements in technology.* (Q. If it's a proper noun, where do we need to tag?)
+   - *The famous inventor Thomas <ins>**Edison**</ins> made numerous advancements in technology.* (Q. When the noun phrase is a proper noun, we tag on the last name.)
        - *Thomas Edison, <ins>the famous **inventor**</ins>, made numerous advancements in technology.*
    - *My brother <ins>**John**</ins> is a painter.*
    - *My friend, <ins>an experienced **hiker**,</ins> has traveled far and wide.*
