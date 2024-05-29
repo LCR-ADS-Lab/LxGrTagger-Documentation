@@ -14,7 +14,7 @@
    - *He struggled to read the <ins>**emotional**</ins> inquiry.* 
    - *She drives a <ins>**fast**</ins> car.*
    - *The <ins>**small**</ins>, <ins>**antique**</ins> <ins>**wooden**</ins> chest held many treasures.*
-   - *They bought a <ins>**beautiful**</ins> home.
+   - *They bought a <ins>**beautiful**</ins> home.*
 
 ## 3-2-2. noun as noun pre-modifier
 1. Descriptions
