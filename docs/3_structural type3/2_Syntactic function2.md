@@ -28,20 +28,19 @@
    - *She placed her <ins>**coffee**</ins> cup on the table.*
    - *The city council is considering a new <ins>**traffic** regulation</ins> proposal.*
 
-## 3-2-3. *of* genitive phrases as noun post-modifier
+## 3-2-3. *of* phrases as noun post-modifier
 1. Descriptions
-   - *of* genitive phrases can modify nouns and express relationship between nouns, linked by *of.*
-   - The *of* genetive phrase comes after the noun it relates to, therefore being considered a post-modifier.
+   - *of* phrases can modify nouns and express relationship between nouns, linked by *of.*
+   - The *of* phrase comes after the noun it relates to, therefore being considered a post-modifier.
 2. Tag
-   - `of+gen+post+nmod` is tagged on the **of** of the *of* genitive phrase.
-   - *need to change this to 'of+gen+post+nmod'* 2024-05-24
+   - `of+gen+post+nmod` is tagged on the **of** of the *of* phrase.
+   - *need to change this to 'of+npostmod'* 2024-05-29
 3. Examples
    - *The sound <ins>**of** music</ins> was soothing.*
    - *McKenna wrote about the origins <ins>**of** human language.</ins>*
    - *She is the CEO <ins>**of** the company.</ins>*
    - *A group <ins>**of** students</ins> gathered in the hall.*
-4. Question
-   - HS: I am not sure how to treat the pronoun+*of*+NP cases (e.g., a lot of you, each of you, many of you...)
+
    
 ## 3-2-4. other prepositional phrases as noun post-modifier
 1. Descriptions
