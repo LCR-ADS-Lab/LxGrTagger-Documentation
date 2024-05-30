@@ -34,7 +34,6 @@
    - The *of* phrase comes after the noun it relates to, therefore being considered a post-modifier.
 2. Tag
    - `of+gen+post+nmod` is tagged on the **of** of the *of* phrase.
-   - *need to change this to 'of+npostmod'* 2024-05-29
 3. Examples
    - *The sound <ins>**of** music</ins> was soothing.*
    - *McKenna wrote about the origins <ins>**of** human language.</ins>*
