@@ -30,7 +30,7 @@
 
 ## 3-2-3. *of* phrases as noun post-modifier
 1. Descriptions
-   - *of* phrases can modify nouns and express relationship between nouns, linked by *of.*
+   - *of* phrases modify nouns and articulate a variety of relationships between nouns, linked by *of*. These phrases follow the noun they modify, serving as a post-modifer. They can indicate relationships other than possession, such as part-whole, association, or classification.
    - The *of* phrase comes after the noun it relates to, therefore being considered a post-modifier.
 2. Tag
    - `of+gen+post+nmod` is tagged on the **of** of the *of* phrase.
@@ -40,7 +40,8 @@
    - *McKenna wrote about the origins <ins>**of** human language.</ins>*
    - *She is the CEO <ins>**of** the company.</ins>*
    - *A group <ins>**of** students</ins> gathered in the hall.*
-
+   - *The title <ins>**of** the book</ins> is harry potter and the cursed child.
+   - *... a war <ins>**of** words</ins>*
    
 ## 3-2-4. other prepositional phrases as noun post-modifier
 1. Descriptions
