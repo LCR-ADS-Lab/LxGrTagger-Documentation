@@ -33,7 +33,6 @@
    - They cannot exist on their own due to being depedent phrases.
 2. Tag
    - `in+advl` is tagged on the **preposotion** of the prepositional phrase.
-   - Question: How to treat phrasal/prepositional verb (e.g., *commit to*, *look at*)? I just tagged this time as the description says that this tag is used for a prepositional phrase **modifies a verb**, but we need to check during the discussion.
 3. Examples
    - *Alright, we'll talk to you <ins>**in** the morning</ins>.*
    - *She avoids the sun <ins>**by** wearing a hat</ins>.*
