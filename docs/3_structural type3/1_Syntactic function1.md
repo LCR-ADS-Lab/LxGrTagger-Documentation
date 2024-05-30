@@ -16,6 +16,10 @@
    - *I will see you <ins>**later** tonight</ins>.*
    - *I raved about it <ins>**afterwards**</ins>.*
    - *He entered the room <ins>**quietly**</ins>.*
+4. Discussions
+   - We do NOT tag linking adverbs such as *however*, *so*, *therefore*, *thus*, etc.
+      - *He was feeling bad. He went to work, **however**, and tried to concentrate.*
+      - ***So** there’s nothing we can do about it?*
 
 ## 3-1-2. prepositional phrase
 
