@@ -12,5 +12,4 @@
    - *The formula <ins>for **calculating** the effective resistance</ins> is ….*
    - *The method <ins>for **assessing** project risks</ins> involves thorough analysis.*
    - *He is keen <ins>on **improving** his language skills</ins>.*
-   - *You can actually experience how adaptation of spatial frequency channels can affect perception <ins>by doinging the following demonstration</ins>.*
    - *She focused <ins> on my **talking** during the meeting</ins> to understand my concerns better.*
