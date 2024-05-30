@@ -27,6 +27,12 @@
    - *He barely passed <ins>**fighter** pilot</ins> training.*
    - *She placed her <ins>**coffee**</ins> cup on the table.*
    - *The city council is considering a new <ins>**traffic** regulation</ins> proposal.*
+4. Discussions
+   - We tagged instances where proper nouns function as pre-modifiers in a noun phrase.
+      - In such cases, only the last part of the proper noun phrases is tagged (e.g., *the Second World **War** decades*).
+      - When the proper noun is part of a coordinated structure, only the first proper noun is tagged (e.g., *the **Reform** and Conservative era*).
+   - We did NOT tag numeric modifers (e.g., *eighty four hours*)
+
 
 ## 3-2-3. *of* phrases as noun post-modifier
 1. Descriptions
