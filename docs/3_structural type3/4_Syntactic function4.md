@@ -16,3 +16,6 @@
    - *We will see those impacts <ins>**fairly**</ins> quickly.*
    - *Depite the captain's best efforts, the team was <ins>not **entirely**</ins> sure about the plan.*
    - *The boy was <ins>**fairly**</ins> certain that it would rain due to the heavy smell in the air.*
+4. Discussions
+   - We did NOT tag the prespotitional phrase working as an adverbial phrase.
+      - *...ran **all** over every hill and down every valley*
