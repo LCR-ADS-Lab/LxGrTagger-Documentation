@@ -1,9 +1,5 @@
 # 2-1. clause constituent adverbial
 
-- Adverbial clauses modify the main clause by providing additional information such as time, reason, condition, concession, and manner. Commonly introduced by subordinating conjunctions, adverbial clauses are dependent clauses that cannot stand alone as complete sentences. 
-
-- These clauses can appear in various positions within the sentence, either at the beginning, middle, or end, depending on the emphasis and rhythm desired in the discourse.
-
 ## 2-1-1. *to*-clause as purpose adverbial
 
 1. Descriptions
@@ -73,3 +69,11 @@
 - *<ins>Just sacked, or rather resigned</ins>, with all that money; the obvious thing to do would be go home to his room or to have a drink.*
    - **Q:** Do we treat the section before the semicolon as a finite clause? If not, are both just sacked and resigned examples of an ed-clause as adverbial?
    - **A:** This looks like creative writing, and the author is playing with grammar. We’d say ‘just sacked’ is a non-finite *ed*-adverbial clause. And ‘resigned’ looks parallel. But it is not possible for someone to ‘BE resigned’ in the sense that they were sacked. So, the guess ‘resigned’ is an adjective – although it seems the author is intending for us to understand that this has a passive-voice sense (i.e. the person ‘was resigned’ by someone).  
+
+---
+
+**Adverbial clauses**
+
+- Adverbial clauses modify the main clause by providing additional information such as time, reason, condition, concession, and manner. Commonly introduced by subordinating conjunctions, adverbial clauses are dependent clauses that cannot stand alone as complete sentences. 
+
+- These clauses can appear in various positions within the sentence, either at the beginning, middle, or end, depending on the emphasis and rhythm desired in the discourse.

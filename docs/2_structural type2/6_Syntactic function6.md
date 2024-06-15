@@ -1,5 +1,4 @@
 # 2-6. other phrase constituent: prepositional complement
-*under construction*
 
 ## 2-6-1. preposition + *ing* complement clause
 

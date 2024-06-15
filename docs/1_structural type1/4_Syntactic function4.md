@@ -1,19 +1,5 @@
 # 1-4. noun phrase constituent: complement 
 
-**Noun phrase (NP) complements**
-
-Earlier discussions on the [verb complement clauses](2_Syntactic%20function2.html#1-2-clause-constituent-verb-complement) have clarified that complement clauses serve as dependent clauses which fulfill the role of completing a verb's meaning within a sentence. An NP complement is essentially a complement associated with a noun rather than a verb. This notion of NP complementation, as detailed by Haegeman & Guéron (1998, pp.440-441), suggests that just as verbs can take a diverse array of complements ranging from finite to non-finite clauses, nouns too can select finite clauses to complement their meanings. Consider/compare following examples: 
-- *He considers <ins>that she deserves a promotion</ins>*. (verb-complement)
-- *The consideration <ins>that she deserves a promotion</ins> weighs heavily on his mind.* (NP-complement)
-- *She believes <ins>that honesty is the best policy</ins>.* (verb-complement)
-- *Her belief <ins>that honesty is the best policy guides her actions</ins>.* (NP-complement)
-
-**NP modifier vs. NP complement**   
-
-The relationsip between [NP modifers](3_Syntactic%20function3.html#1-3-noun-phrase-constituent-modifier) and NP complements are often ambiguous (p.644). 
-
-NP modifiers serve to describe and modify a noun by supplying additional details about the noun's characteristics. These modifiers append descriptive information but are not necessary for the grammatical integrity of the noun phrase. In contrast, NP complements are clauses or phrases that furnish complete information, which is crucial to understanding the noun's full meaning. NP complements are closely linked to the noun and are indispensable for the completeness of the noun phrase. For example, in the sentence *His assumption <ins>that the work was easy</ins> turned out to be wrong*, the NP complement clause *<ins>that the work was easy</ins>* is essential. Without this complement, the nature of the *assumption* would remain unclear.
-
 ## 1-4-1. noun + *that*-complement clause
 
 1. Descriptions 
@@ -34,3 +20,19 @@ NP modifiers serve to describe and modify a noun by supplying additional details
     - *The fact <ins>that no tracer particles were **found**</ins> indicates that these areas are not a pathway…* (from a reference doc/table)
     - *The observation <ins>that the species has **adapted** to urban environments</ins> challenges traditional views on wildlife habitat preferences.*
     - *The conclusion <ins>that global temperatures are **rising** faster than previously estimated</ins> is alarming.*
+
+---
+
+**Noun phrase (NP) complements**
+
+Earlier discussions on the [verb complement clauses](2_Syntactic%20function2.html#1-2-clause-constituent-verb-complement) have clarified that complement clauses serve as dependent clauses which fulfill the role of completing a verb's meaning within a sentence. An NP complement is essentially a complement associated with a noun rather than a verb. This notion of NP complementation, as detailed by Haegeman & Guéron (1998, pp.440-441), suggests that just as verbs can take a diverse array of complements ranging from finite to non-finite clauses, nouns too can select finite clauses to complement their meanings. Consider/compare following examples: 
+- *He considers <ins>that she deserves a promotion</ins>*. (verb-complement)
+- *The consideration <ins>that she deserves a promotion</ins> weighs heavily on his mind.* (NP-complement)
+- *She believes <ins>that honesty is the best policy</ins>.* (verb-complement)
+- *Her belief <ins>that honesty is the best policy guides her actions</ins>.* (NP-complement)
+
+**NP modifier vs. NP complement**   
+
+The relationsip between [NP modifers](3_Syntactic%20function3.html#1-3-noun-phrase-constituent-modifier) and NP complements are often ambiguous (p.644). 
+
+NP modifiers serve to describe and modify a noun by supplying additional details about the noun's characteristics. These modifiers append descriptive information but are not necessary for the grammatical integrity of the noun phrase. In contrast, NP complements are clauses or phrases that furnish complete information, which is crucial to understanding the noun's full meaning. NP complements are closely linked to the noun and are indispensable for the completeness of the noun phrase. For example, in the sentence *His assumption <ins>that the work was easy</ins> turned out to be wrong*, the NP complement clause *<ins>that the work was easy</ins>* is essential. Without this complement, the nature of the *assumption* would remain unclear.
