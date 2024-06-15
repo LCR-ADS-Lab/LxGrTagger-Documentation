@@ -1,5 +1,4 @@
 # 2-4. noun phrase constituent: complement 
-*under construction*
 
 ## 2-4-1. noun + *to* complement clause
 

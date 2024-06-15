@@ -1,7 +1,5 @@
 # 2-3. noun phrase constituent: modifier
 
-- will add pointers to the np modifier
-
 ## 2-3-1. Noun + *to* relative clause
 
 1. Descriptions

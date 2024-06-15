@@ -1,7 +1,5 @@
 # 2-2. clause constituent verb complement
 
-- will add pointers to the verb complement
-
 ## 2-2-1. Verb + *to* complement clause
 
 1. Descriptions

@@ -1,5 +1,4 @@
 # 2-5. other phrase constituent: adjective complement
-*under construction*
 
 ## 2-5-1. adjective + *to* complement clause
 

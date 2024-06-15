@@ -30,13 +30,13 @@ In non-finite clauses, the subject is frequently implicit, inferred from the con
 - **Structural type 2:** Non-finite dependent clauses
 
     - Syntactic function 1: [clause constituent adverbial](1_Syntactic%20function1.html#2-1-clause-constituent-adverbial)
-        - Complexity feature 1: [*to*-clause as purpose adverbial](1_Syntactic%20function1.html#2-1-1--to-clause-as-purpose-adverbial) #1-2-2-verb--wh-complement-clause
-        - Complexity feature 2: [*ing*-clause as adverbial](1_Syntactic%20function1.html#2-1-2--ing-clause-as-adverbial) 
-        - Complexity feature 3: [*ed*-clause as adverbial](1_Syntactic%20function1.html#2-1-3--ed-clause-as-adverbial)
-    - Syntactic function 2: clause constituent verb complement
-        - Complexity feature 1: verb + *to* complement
-        - Complexity feature 2: verb + *ing* complement
-    - Syntactic function 3: noun phrase constituent_modifier
+        - Complexity feature 1: [*to*-clause as purpose adverbial](1_Syntactic%20function1.html#2-1-1-to--clause-as-purpose-adverbial) #1-2-2-verb--wh-complement-clause
+        - Complexity feature 2: [*ing*-clause as adverbial](1_Syntactic%20function1.html#2-1-2-ing--clause-as-adverbial) 
+        - Complexity feature 3: [*ed*-clause as adverbial](1_Syntactic%20function1.html#2-1-3-ed--clause-as-adverbial)
+    - Syntactic function 2: [clause constituent verb complement](2_Syntactic%20function2.html#2-2-clause-constituent-verb-complement)
+        - Complexity feature 1: [verb + *to* complement](2_structural%20type2/2_structural%20type2/2_Syntactic%20function2.html#2-2-1-verb--to-complement-clause)
+        - Complexity feature 2: [verb + *ing* complement]((2_structural%20type2/2_structural%20type2/2_Syntactic%20function2.html#2-2-1-verb--ing-complement-clause))
+    - Syntactic function 3: [noun phrase constituent_modifier]()
         - Complexity feature 1: noun + *to* relative clause
         - Complexity feature 2: noun + *ing* relative clause
         - Complexity feature 3: noun + *ed* relative clause
