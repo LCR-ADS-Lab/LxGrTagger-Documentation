@@ -27,7 +27,6 @@
    - *Elevated levels are treated with a diet <ins>**consisting** of low cholesterol foods.</ins>*
    - *The woman <ins>**standing** in the corner</ins> is my sister.*
    - *After the outer walls fell the soldiers found the nobles <ins>**seeking** shelter in the castle</ins>*
-   - *They engaged in research <ins>**hoping** to expand human understanding of the world.</ins>*
 
 ## 2-3-3. Noun + *ed* relative clause
 
