@@ -11,7 +11,7 @@
       - noun + *to* relative clause: For example, in a sentence *You're the best person to ask*, the clause *to ask* describes why *You're the best person*, which we can consider that this clause structure is more closely linked to explaining why the previous noun (*person*) is described as such.
 
 2. Tag
-   - `nn+tocls+ncomp` is tagged on the **main verb** of the *to* complement clause.
+   - `tocls+ncomp` is tagged on the **main verb** of the *to* complement clause.
 3. Examples
    - *You've been given permission <ins>to **wear** them.</ins>* (p. 645)
    - *Legal peers renewed their attack on the Government's plans <ins>to **shake** up the legal profession</ins> yesterday.* (645)

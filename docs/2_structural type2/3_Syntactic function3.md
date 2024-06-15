@@ -9,7 +9,7 @@
    - They are introduced by *to*, followed by a verb in infinitive form (e.g *play*, *create*, *observe*).
    - More common in conversation than in writing.
 2. Tag
-   - `nn+tocls+relcl` is tagged on the **main verb** of the *to* relative clause.
+   - `tocls+rel` is tagged on the **main verb** of the *to* relative clause.
 3. Examples
    - *You're the best person <ins>to **ask**.</ins>*
    - *There's just a lot <ins>to **think** about.</ins>* (p. 607)
@@ -24,7 +24,7 @@
     - Introduced by verbs in **present** participle form (e.g *lying*, *watching*, *waiting*)
     - Most frequent in academic prose but moderately common across registers.
 2. Tag
-   - `nn+ingcls+relcl` is tagged on the **main verb** of the *ing* relative clause.
+   - `ingcls+rel` is tagged on the **main verb** of the *ing* relative clause.
 3. Examples
    - *Elevated levels are treated with a diet <ins>**consisting** of low cholesterol foods.</ins>*
    - *The woman <ins>**standing** in the corner</ins> is my sister.*
@@ -39,7 +39,7 @@
        - Some verbs are irregular, such as see (*seen*), write (*written*), or sing (*sung*).
    - Most frequent in academic prose compared to other registers.
 2. Tag
-   - `nn+edcls+relcl` is tagged on the **main verb** of the *ed* relative clause.
+   - `edcls+rel` is tagged on the **main verb** of the *ed* relative clause.
 3. Examples
    - *This is a phrase <ins>**used** in the recruitment industry</ins>.*
    - *Abundant food and available healthcare are among the products <ins>**required** to support a huge and growing population.</ins>* (p. 604)

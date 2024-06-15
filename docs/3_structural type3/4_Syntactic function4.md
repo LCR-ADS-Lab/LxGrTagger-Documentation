@@ -10,7 +10,7 @@
        - Adverbs can be observed commonly ending with *-ly*.
    - They cannot exist on their own (independently) due to being depedent (non-clausal) phrases.
 2. Tag
-   - `rb+adjmod|advmod` is tagged on the **adverb** of modifying adjective/adverb phrase.
+   - `rb+jjrbmod` is tagged on the **adverb** of modifying adjective/adverb phrase.
 3. Examples
    - *That cat was <ins>**suprisingly**</ins> fat.*
    - *We will see those impacts <ins>**fairly**</ins> quickly.*

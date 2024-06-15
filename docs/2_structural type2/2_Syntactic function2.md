@@ -7,7 +7,7 @@
 1. Descriptions
    - Infinitive clauses can have a range of syntactic roles which include direct objects (pp. 198-199).
 2. Tag
-   - `vb+tocls` is tagged on the **main verb** of the *to* complement clause.
+   - `tocls+vcomp` is tagged on the **main verb** of the *to* complement clause.
 3. Examples
     - *I really want <ins>to **fix** this room up</ins>.*
     - *He upset you very much, and I hate <ins>to **see** that</ins>.* (p. 199)
@@ -20,7 +20,7 @@
    - Similar to the infinitive clauses, *ing* complement clauses can also act as a complement to the main verb.
    - This structure is commonly known as the gerund. Gerunds function as a hybrid category, possessing characteristics of both verbs and nouns (Haegeman & Guéron, 1998, p.481).
 2. Tag
-   - `vb+ingcls` is tagged on the **main verb** of the *ing* complement clause.
+   - `ingcls+vcomp` is tagged on the **main verb** of the *ing* complement clause.
 3. Examples
    - *I like <ins>**watching** the traffic go by</ins>.*
    - *I started <ins>**thinking** about Christmas</ins>.* (p. 200)

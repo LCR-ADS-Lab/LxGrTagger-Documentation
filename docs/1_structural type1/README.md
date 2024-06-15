@@ -4,22 +4,6 @@ sort: 1
 
 # `1.` Finite dependent clauses
 
-Finite dependent clauses are characterized by their inclusion of a verb phrase that marks a clear tense or modality (pp. 193-198). Typically, there is a subject unless it's omitted due to ellipsis. These clauses are often introduced by a clause link, such as a subordinator (e.g., *because*, *although*) or a *wh*-word.
-
-Finite dependent clauses serve a wide range of grammatical functions within sentences. Their degree of integration into the sentence varies, ranging from tightly bound to more loosely connected with the main clause (for more examples, see pp. 193-198).
-
-- **adverbial clauses** serve as adverbials, enriching the main clause with circumstantial details about its action. Marked by subordinators, they clarify their relationship to the main clause, modifying it by adding context, conditions, or reasons.
-
-- **nominal clauses** take on the roles of subjects, subject predicatives, or direct objects within the main clause, which also refers to verb complement. Key forms include (1) *that*-clauses and (2) *wh*-clauses.
-
-- **relative clauses** modify nouns and are introduced by *wh*-words that link back to the noun they modify. They are either (1) restrictive (providing information for the noun's identification) and (2) non-restrictive (providing additional, optional details about the noun).
-
-- comparative and degree clauses are typically introduced by comparatives like *as* or *than*, or by expressions such as *so* that lead to a consequential statement (e.g., *It is so cold <ins>that my bottle of vodka froze solid</ins>.*).
-
-- reporting clauses accompany direct reports of speech or thoughts, detailing the communication act (e.g., *<ins>They said</ins>, "Yes, let's go," and went out.*).
-
-- comment clauses show the speaker's perspectives or reactions to the content of the main clause, crucial for grasping communication nuances in direct speech (e.g., *It's great, <ins>you know</ins>, isn't it?*)
-
 ## Syntactic functions and complexity features
 
 - Syntactic function 1: [clause constituent adverbial](1_Syntactic%20function1.html#1-1-clause-constituent-adverbial)
@@ -37,3 +21,20 @@ Finite dependent clauses serve a wide range of grammatical functions within sent
 - Syntactic function 6: [other phrase constituent_prepositional complement](6_Syntactic%20function6.html#1-6-other-phrase-constituent_preposition-complement)
     - Complexity feature 1: [preposition + *wh*-complement clause](6_Syntactic%20function6.html#1-6-1-preposition--wh-complement-clause)
 
+## Finite dependent clauses
+
+Finite dependent clauses are characterized by their inclusion of a verb phrase that marks a clear tense or modality (pp. 193-198). Typically, there is a subject unless it's omitted due to ellipsis. These clauses are often introduced by a clause link, such as a subordinator (e.g., *because*, *although*) or a *wh*-word.
+
+Finite dependent clauses serve a wide range of grammatical functions within sentences. Their degree of integration into the sentence varies, ranging from tightly bound to more loosely connected with the main clause (for more examples, see pp. 193-198).
+
+- **adverbial clauses** serve as adverbials, enriching the main clause with circumstantial details about its action. Marked by subordinators, they clarify their relationship to the main clause, modifying it by adding context, conditions, or reasons.
+
+- **nominal clauses** take on the roles of subjects, subject predicatives, or direct objects within the main clause, which also refers to verb complement. Key forms include (1) *that*-clauses and (2) *wh*-clauses.
+
+- **relative clauses** modify nouns and are introduced by *wh*-words that link back to the noun they modify. They are either (1) restrictive (providing information for the noun's identification) and (2) non-restrictive (providing additional, optional details about the noun).
+
+- comparative and degree clauses are typically introduced by comparatives like *as* or *than*, or by expressions such as *so* that lead to a consequential statement (e.g., *It is so cold <ins>that my bottle of vodka froze solid</ins>.*).
+
+- reporting clauses accompany direct reports of speech or thoughts, detailing the communication act (e.g., *<ins>They said</ins>, "Yes, let's go," and went out.*).
+
+- comment clauses show the speaker's perspectives or reactions to the content of the main clause, crucial for grasping communication nuances in direct speech (e.g., *It's great, <ins>you know</ins>, isn't it?*)

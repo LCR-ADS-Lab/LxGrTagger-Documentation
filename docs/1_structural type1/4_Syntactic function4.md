@@ -29,7 +29,7 @@ NP modifiers serve to describe and modify a noun by supplying additional details
         - *Other semiconductor stocks eased folluwing an industry trade group's [report] <ins>that its leading indicator **fell** in September.</ins>* (NP complement clause; included)
 
 2. Tag
-    - `N_that_comp` is tagged on the **main verb** of the *that*-complement clause.
+    - `thatcls+ncomp` is tagged on the **main verb** of the *that*-complement clause.
 3. Examples
     - *The fact <ins>that no tracer particles were **found**</ins> indicates that these areas are not a pathway…* (from a reference doc/table)
     - *The observation <ins>that the species has **adapted** to urban environments</ins> challenges traditional views on wildlife habitat preferences.*

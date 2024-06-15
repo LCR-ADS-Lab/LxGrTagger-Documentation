@@ -11,7 +11,7 @@
    - They are introduced by *to* or a deleted *to*
        - *Surrey police say the film would help <ins>[to] **identify** participants at the weekend party</ins>*  
 2. Tag
-   - `to_advl_cls` is tagged on the **main verb** of the *to*-adverbial clause.
+   - `tocls+advl` is tagged on the **main verb** of the *to*-adverbial clause.
 3. Examples
    -  *<ins>To **verify** this hypothesis</ins>, sections of fixed cells were examined.*
    -  *We eat <ins>to **survive**</ins>*
@@ -25,7 +25,7 @@
     - (Dangling particles): Dangling participles occur when a participial phrase (an *ing*-clause or an ed-clause used adverbially) lacks a clear subject, leading to ambiguity or a mismatch between the intended subject and the grammatical subject of the main clause (p. 829). (HS: should we include this case?)         -  *<ins>**Running** to catch the bus</ins>, the wallet fell out of my pocket.* (The wallet is not running; the implied subject is the person.)
 
 2. Tag
-   - `ing_advl_cls` is tagged on the **main verb** of the *ing*-adverbial clause.
+   - `ingcls+advl` is tagged on the **main verb** of the *ing*-adverbial clause.
 3. Examples
    - *<ins>**Considering** mammals’ level of physical development</ins>, the diversity of this species is astounding.*
    - *<ins>**Running** along the beach</ins>, she found a rare shell.* (time)
@@ -55,7 +55,7 @@
 1. Descriptions
     - An *ed*-clause can be used as an adverbial to modify a verb, an adjective, or an entire sentence. This is often employed to add information about comparisons between, levels of expectation of, or some other modification of the action described by the main verb.
 2. Tag
-   - `ed_advl_cls` is tagged on the **main verb** of the *ed*-adverbial clause.
+   - `edcls+advl` is tagged on the **main verb** of the *ed*-adverbial clause.
 3. Examples
    - *<ins>When told by police how badly **injured** his victims were</ins> he said: "Good, I hope they die."*
    - *We measured a seasonal total of 56.99 on precipitation in the two caged rain gauges, <ins>**compared** to 56.78 cm on the open plots.</ins>*

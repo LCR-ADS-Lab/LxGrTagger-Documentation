@@ -1,13 +1,5 @@
 # 1-5. other phrase constituent: adjective complement
 
-**Adjective phrases**
-
-Adjective phrases feature an adjective as the core component, known as the *head*, and may include additional modifiers. These modifiers can be single words, extended phrases, or even full clauses. Modifiers in an adjective phrase typically intensify or specify the quality of the adjective (e.g., *very fortunate*, *fortunate to meet her*; modifiers answer to the question of 'how fortunate'?). These accompanying elements, known as *complements*, often consist of prepositional phrases or clauses and serve to provide full meaning to the adjective (p. 101).
-
-**Adjective complement clauses**
-
-Building on the discussion in the [verb complement clauses](2_Syntactic%20function2.html#1-2-clause-constituent-verb-complement) section, complement clauses serve a role in completing the meaning of adjectival predicates within a main clause (p. 658). Both (1) adjective + *that*-complement clause and (2) extraposed adjective + *that*-complement clause are included, each conveying stance within three primary semantic domains: degrees of certainty (e.g., *certain*, *confident*, *evident*); affective psychological states (e.g., *annoyed*, *glad*, *sad*); and evaluations of situations, events, etc. (e.g., *appropriate*, *odd*, *good*, *important*, *advisable*). These structures, while similar, offer distinct ways of expressing adjectival predicates.
-
 ## 1-5-1. adjective + *that*-complement clause
 
 1. Descriptions
@@ -15,7 +7,7 @@ Building on the discussion in the [verb complement clauses](2_Syntactic%20functi
     - We counted the examples with omitted *that* as *that* is frequently omitted in nominal *that*-clauses (pp.660-669).
         -  *I'm amazed <ins>you **know** him.</ins>*
 2. Tag
-    - `adj_that_comp` is tagged on the **main verb** of the *that*-complement clause.
+    - `thatcls+jcomp` is tagged on the **main verb** of the *that*-complement clause.
 3. Examples
     - *We’re happy <ins>that the hunger strike has **ended**.</ins>*
     - *I'm glad <ins>that I **found** you again.</ins>*
@@ -30,7 +22,7 @@ Building on the discussion in the [verb complement clauses](2_Syntactic%20functi
         - hypothetical adjectives: These constructions are marked by *should* or subjunctive verb forms (e.g: *It is preferable <ins>that the marked cells [should **be**] identical in their behaviour to the unmarked cells.</ins>* (p. 674))
         - necessity/importance adjectives: They reflect the writer's belief that a proposed course of action is essential or important (e.g., *advisable*, *critical*, *crucial*, *essential*, *fitting*, *obligatory*, *vital*)
 2. Tag
-    - `xtrapos+jj+that+compcls` is tagged on the **main verb** of the *that*-complement clause.
+    - `xtrapos+thatcls+jcomp` is tagged on the **main verb** of the *that*-complement clause.
 3. Examples
     - *It has been clear for some time <ins>that the demands of the arms control process would increasingly **dominate** military planning.</ins>* (p. 673)
     - *It is obvious <ins>that direct chilling of the udder **depends** as much on the thermal properties of the floor as on the air temperature.</ins>* (p. 673)
@@ -44,3 +36,13 @@ Building on the discussion in the [verb complement clauses](2_Syntactic%20functi
     - *It’s only if the sample is so bad, so contradictory to the (null) hypothesis, <ins>that we’re going to reject (it)</ins>.*
    - **Q:** Is this an ‘extraposed adjective+that-complement’ or a simple ‘adjective+that-complement clause’? Given that the phrase (‘so contradictory that~’) suggests a cause-effect relationship (e.g., it was so bad that I did not want to go there again), how does this affect its classification?
    - **A:** This is not extraposed. The ‘it’ is referential. And so the ‘that’ clause is a adjective + *that*-complement clause (of the adjective ‘bad’ in this case).
+
+---
+
+**Adjective phrases**
+
+Adjective phrases feature an adjective as the core component, known as the *head*, and may include additional modifiers. These modifiers can be single words, extended phrases, or even full clauses. Modifiers in an adjective phrase typically intensify or specify the quality of the adjective (e.g., *very fortunate*, *fortunate to meet her*; modifiers answer to the question of 'how fortunate'?). These accompanying elements, known as *complements*, often consist of prepositional phrases or clauses and serve to provide full meaning to the adjective (p. 101).
+
+**Adjective complement clauses**
+
+Building on the discussion in the [verb complement clauses](2_Syntactic%20function2.html#1-2-clause-constituent-verb-complement) section, complement clauses serve a role in completing the meaning of adjectival predicates within a main clause (p. 658). Both (1) adjective + *that*-complement clause and (2) extraposed adjective + *that*-complement clause are included, each conveying stance within three primary semantic domains: degrees of certainty (e.g., *certain*, *confident*, *evident*); affective psychological states (e.g., *annoyed*, *glad*, *sad*); and evaluations of situations, events, etc. (e.g., *appropriate*, *odd*, *good*, *important*, *advisable*). These structures, while similar, offer distinct ways of expressing adjectival predicates.

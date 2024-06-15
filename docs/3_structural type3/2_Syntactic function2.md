@@ -8,7 +8,7 @@
    - They are pre-modifiers because they come before the noun they modify.
    - This category excludes cases where an attributive adjective serves as a complement to a copular verb (e.g., *this project is **good***)
 2. Tag
-   - `attr+nn+premod` is tagged on the attributive **adjective**.
+   - `attr+npremod` is tagged on the attributive **adjective**.
    - In cases where multiple adjectives are included, tag each one (as in the third example below) HS: **Please check this during the discussion!**
 3. Examples
    - *He struggled to read the <ins>**emotional**</ins> inquiry.* 
@@ -39,7 +39,7 @@
    - *of* phrases modify nouns and articulate a variety of relationships between nouns, linked by *of*. These phrases follow the noun they modify, serving as a post-modifer. They can indicate relationships other than possession (i.e., genitive), such as part-whole, association, or classification.
    - The *of* phrase comes after the noun it relates to, therefore being considered a post-modifier.
 2. Tag
-   - `of+gen+post+nmod` is tagged on the **of** of the *of* phrase.
+   - `of+npostmod` is tagged on the **of** of the *of* phrase.
 3. Examples
    - *The sound <ins>**of** music</ins> was soothing.*
    - *McKenna wrote about the origins <ins>**of** human language.</ins>*
@@ -52,7 +52,7 @@
 1. Descriptions
    - This tag includes all other prepositional phrases (except for *of*) that follow a noun and modify it.
 2. Tag
-   - `in+post+nmod` is tagged on the **preposition** of the prepositional phrase.
+   - `in+npostmod` is tagged on the **preposition** of the prepositional phrase.
 3. Examples
    - *The painting <ins>**in** the corner</ins> caught my eye.*
    - *The conference <ins>**on** global warming</ins> was very informative.*
@@ -65,7 +65,7 @@
        - The order of the head noun phrase and the appositive could (nomally) be reversed to produce an equal grammatical construction with basically the same meaning.
    - They provide descriptive information about the head noun but are not needed to identify the reference of the head noun.
 2. Tag
-   - `nn+nappos` is tagged on the head **noun** of the appositive phrase. 
+   - `appos+npostmod` is tagged on the head **noun** of the appositive phrase. 
 3. Examples
    - *The capital city, <ins>**Paris**</ins>, is the heart of France.*
        - *Paris, <ins>the capital **city**</ins>, is the heart of France.* 
