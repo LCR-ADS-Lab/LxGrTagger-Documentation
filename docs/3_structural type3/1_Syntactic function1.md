@@ -1,9 +1,5 @@
 # 3-1. clause constituent adverbial
 
-*nedd to add/revise the prose below*
-
-- Adverbial clauses modify the main clause by providing additional information such as time, reason, condition, concession, and manner. Commonly introduced by subordinating conjunctions, adverbial clauses are dependent clauses that cannot stand alone as complete sentences. 
-
 ## 3-1-1. adverb phrase
 
 1. Descriptions

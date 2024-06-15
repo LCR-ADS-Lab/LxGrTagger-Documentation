@@ -1,7 +1,5 @@
 # 3-4. other phrase constituent: adjective/adverb modifier
 
-*under construction* 
-
 ## 3-4-1. adverb phrase as adjective/adverb modifier
 1. Descriptions
    - An adverb phrase modifies an adjective or another adverb when it provides more information about the adjective or adverb.

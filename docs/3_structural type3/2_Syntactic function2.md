@@ -1,7 +1,5 @@
 # 3-2. noun phrase constituent: modifier
 
-*under construction* 
-
 ## 3-2-1. attributive adjectives as noun pre-modifier
 1. Descriptions
    - Attributive adjectives are adjectives describing particular attributes of the noun they modify.

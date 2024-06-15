@@ -13,6 +13,6 @@
    - `tocls+ncomp` is tagged on the **main verb** of the *to* complement clause.
 3. Examples
    - *You've been given permission <ins>to **wear** them.</ins>* (p. 645)
-   - *Legal peers renewed their attack on the Government's plans <ins>to **shake** up the legal profession</ins> yesterday.* (645)
+   - *Legal peers renewed their attack on the Government's plans <ins>to **shake** up the legal profession</ins> yesterday.* (p. 645)
    - *She seized every opportunity <ins> to **learn** new skills</ins> during the workshop.*
    - *His decision <ins>to **move** to New York</ins> was influenced by the promise of better job prospects.*

@@ -33,7 +33,7 @@ The tagging scheme is organized into hierarchical structures:
         - complexity feature 1: [*to*-clause as purpose adverbial](#complexity-feature-1-to-clause-as-purpose-adverbial) (W9)
         - complexity feature 2: [*ing*-clause as adverbial](#complexity-feature-2-ing-clause-as-adverbial) (W9)
         - complexity feature 3: *ed*-clause as adverbial
-- structural type 3: [dependent phrases (non-clausal)](#structual-type-3-dependent-phrases-non-clausal)
+- structural type 3: [dependent phrases](#structual-type-3-dependent-phrases-non-clausal)
 
 
 ## Quick examples overview
