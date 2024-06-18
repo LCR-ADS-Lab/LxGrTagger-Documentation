@@ -11,7 +11,7 @@
 3. Examples
    - *He struggled to read <ins>the **emotional** inquiry</ins>.* 
    - *She drives <ins>a **fast** car</ins>.*
-   - *<ins>The **small**, **antique** <ins>**wooden** chest</ins> held many treasures.*
+   - *<ins>The **small**, **antique**, **wooden** chest</ins> held many treasures.*
    - *They bought <ins>a **beautiful** home</ins>.*
 
 ## 3-2-2. noun as noun pre-modifier
