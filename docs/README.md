@@ -44,3 +44,13 @@ The tagging scheme is organized into hierarchical structures:
 | Non-finite clause | Prepositional complement           | [`ingcls+incomp`](2_structural%20type2/4_Syntactic%20function4.html#2-6-1-preposition--ing-complement-clause) | *The process <ins>for **washing** dishes by hand is attached</ins>.* |
 | Dependent phrase | Adverb phrase | [`rb+advl`](3_structural%20type3/1_Syntactic%20function1.html#3-1-1-adverb-phrase) | *The car entered a curved road <ins>**slowly**</ins>.* |
 | Dependent phrase | Prepositional phrase | [`in+advl`](3_structural%20type3/1_Syntactic%20function1.html#3-1-1-adverb-phrase) | *He spoke <ins>**with** enthusiasm</ins>.* |
+<<<<<<< Updated upstream
+=======
+| Dependent phrase | Noun phrase modifier | [`attr+npremod`](3_structural%20type3/2_Syntactic%20function2.html#3-2-1-attributive-adjectives-as-noun-pre-modifier) | *She had <ins>a really **cute** idea</ins>.* |
+| Dependent phrase | Noun phrase modifier | [`nn+npremod`](3_structural%20type3/2_Syntactic%20function2.html#3-2-2-noun-as-noun-pre-modifier) | *I'm not into <ins>**coffee** cake</ins>.* |
+| Dependent phrase | Noun phrase modifier | [`of+npostmod`](3_structural%20type3/2_Syntactic%20function2.html#3-2-3-of-phrases-as-noun-post-modifier) | *Do you know <ins>the name **of** this flower</ins>?* |
+| Dependent phrase | Noun phrase modifier | [`in+npostmod`](3_structural%20type3/2_Syntactic%20function2.html#3-2-4-other-prepositional-phrases-as-noun-post-modifier) | *The competition is open to <ins>young people **under** the age of 18</ins>.* |
+| Dependent phrase | Noun phrase modifier | [`appos+npostmod`](3_structural%20type3/2_Syntactic%20function2.html#3-2-5-appositive-noun-phrases-as-noun-post-modifier) | *<ins>The boss, John **Harris**</ins> is a passionate figure.* | 
+| Dependent phrase | Adjective complement | [`in+jcomp`](3_structural%20type3/3_Syntactic%20function3.html#3-3-1-prepositional-phrases-as-adjective-complement) | *She was <ins>thrilled **with** her completion of the PhD program</ins>.* |
+| Dependent phrase | Adjective/Adverb modifier | [`rb+jjrbmod`](3_structural%20type3/4_Syntactic%20function4.html#3-4-1-adverb-phrase-as-adjectiveadverb-modifier) | *The movie was <ins>**surprisingly** good</ins>.* |
+>>>>>>> Stashed changes
