@@ -31,6 +31,5 @@
    - `in+advl` is tagged on the **preposotion** of the prepositional phrase.
 3. Examples
    - *Alright, we'll talk to you <ins>**in** the morning</ins>.*
-   - *She avoids the sun <ins>**by** wearing a hat</ins>.*
    - *He left <ins>**because** of the rain</ins>.* (Q. Do we tag *because*? or *of*?)
    - *<ins>**During** the concert,</ins> they remained silent.*
