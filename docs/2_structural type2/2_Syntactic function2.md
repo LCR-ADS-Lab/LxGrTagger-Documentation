@@ -10,7 +10,7 @@
     - *I really want <ins>to **fix** this room up</ins>.*
     - *He upset you very much, and I hate <ins>to **see** that</ins>.* (p. 199)
     - *I believe Mary <ins>to **be** innocent</ins>*. (Haegeman & Guéron, 1998, p.126)
-    - *I promised John <ins>to buy a new bicycle</ins>*. (Haegeman & Guéron, 1998, p.35)
+    - *I promised John <ins>to **buy** a new bicycle</ins>*. (Haegeman & Guéron, 1998, p.35)
 
 ## 2-2-2. Verb + *ing* complement clause
 
