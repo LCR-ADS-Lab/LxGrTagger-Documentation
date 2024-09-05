@@ -1,6 +1,6 @@
 # 2-2. clause constituent verb complement
 
-## 2-2-1. Verb + *to* complement clause
+## 2-2-1. verb + *to* complement clause
 
 1. Descriptions
    - Infinitive clauses can have a range of syntactic roles which include direct objects (pp. 198-199).
@@ -12,7 +12,7 @@
     - *I believe Mary <ins>to **be** innocent</ins>*. (Haegeman & Guéron, 1998, p.126)
     - *I promised John <ins>to **buy** a new bicycle</ins>*. (Haegeman & Guéron, 1998, p.35)
 
-## 2-2-2. Verb + *ing* complement clause
+## 2-2-2. verb + *ing* complement clause
 
 1. Descriptions
    - Similar to the infinitive clauses, *ing* complement clauses can also act as a complement to the main verb.
