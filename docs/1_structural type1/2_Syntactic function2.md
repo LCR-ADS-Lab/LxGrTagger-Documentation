@@ -9,7 +9,7 @@
         - Other communication verbs: May not directly involve speech (e.g., *show*, *suggest*, *ensure*, *indicate*, *prove*).
     - Note: There is an absence of an intermediary NP or *to*-NP between the verb and the *that*-clause.
 2. Tag
-    - The tag `thatcls+vcomp` (indicating a ZERO complementizer) is applied to the **main verb** within the *that*-complement clause.
+    - `thatcls+vcomp` (indicating a ZERO complementizer) is tagged to the **main verb** within the *that*-complement clause.
 3. Examples
     - *I didn't agree <ins>that he should be **compelled** to do singing.</ins>* (p. 661)
     - *I suggested <ins>that she **sit** down on the chair and wait.</ins>* (p. 662)
