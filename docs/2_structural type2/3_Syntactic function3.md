@@ -1,6 +1,6 @@
 # 2-3. noun phrase constituent: modifier
 
-## 2-3-1. Noun + *to* relative clause
+## 2-3-1. noun + *to* relative clause
 
 1. Descriptions
    - Noun + *to* relative clauses modify the noun phrase and provide infomation as to the direction, destination, intention, or subsequent action.
@@ -15,7 +15,7 @@
    - *He showed us the way <ins>to **get** to our house.</ins>* (p. 604)
 
 
-## 2-3-2. Noun + *ing* relative clause
+## 2-3-2. noun + *ing* relative clause
 
 1. Descriptions
     - Noun + *ing* relative clauses modify the noun phrase and typically describe an ongoing action or activity related to the modified noun.
@@ -28,7 +28,7 @@
    - *The woman <ins>**standing** in the corner</ins> is my sister.*
    - *After the outer walls fell the soldiers found the nobles <ins>**seeking** shelter in the castle</ins>*
 
-## 2-3-3. Noun + *ed* relative clause
+## 2-3-3. noun + *ed* relative clause
 
 1. Descriptions
    - Noun + *ed* passive relative clauses exist to modify the noun phrase to provide additional information about the noun.
