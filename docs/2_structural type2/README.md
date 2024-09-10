@@ -8,23 +8,23 @@ sort: 1
 
 - **Structural type 2:** Non-finite dependent clauses
 
-    - Syntactic function 1: [clause constituent adverbial](1_Syntactic%20function1.html#2-1-clause-constituent-adverbial)
+    - Syntactic function 1: [clause constituent: adverbial](1_Syntactic%20function1.html#2-1-clause-constituent-adverbial)
         - Complexity feature 1: [*to*-clause as purpose adverbial](1_Syntactic%20function1.html#2-1-1-to--clause-as-purpose-adverbial)
         - Complexity feature 2: [*ing*-clause as adverbial](1_Syntactic%20function1.html#2-1-2-ing--clause-as-adverbial) 
         - Complexity feature 3: [*ed*-clause as adverbial](1_Syntactic%20function1.html#2-1-3-ed--clause-as-adverbial)
-    - Syntactic function 2: [clause constituent verb complement](2_Syntactic%20function2.html#2-2-clause-constituent-verb-complement)
+    - Syntactic function 2: [clause constituent: verb complement](2_Syntactic%20function2.html#2-2-clause-constituent-verb-complement)
         - Complexity feature 1: [verb + *to* complement](2_Syntactic%20function2.html#2-2-1-verb--to-complement-clause)
         - Complexity feature 2: [verb + *ing* complement](2_Syntactic%20function2.html#2-2-2-verb--ing-complement-clause)
-    - Syntactic function 3: [noun phrase constituent_modifier](3_Syntactic%20function3.html#2-3-noun-phrase-constituent-modifier)
+    - Syntactic function 3: [noun phrase constituent:_modifier](3_Syntactic%20function3.html#2-3-noun-phrase-constituent-modifier)
         - Complexity feature 1: [noun + *to* relative clause](3_Syntactic%20function3.html#2-3-1-noun--to-relative-clause)
         - Complexity feature 2: [noun + *ing* relative clause](3_Syntactic%20function3.html#2-3-2-noun--ing-relative-clause)
         - Complexity feature 3: [noun + *ed* relative clause](3_Syntactic%20function3.html#2-3-3-noun--ed-relative-clause)
-    - Syntactic function 4: [noun phrase constituent_complement](4_Syntactic%20function4.html#2-4-noun-phrase-constituent-complement)
+    - Syntactic function 4: [noun phrase constituent:_complement](4_Syntactic%20function4.html#2-4-noun-phrase-constituent-complement)
         - Complexity feature 1: [noun + *to* complement clause](4_Syntactic%20function4.html#2-4-1-noun--to-complement-clause)
-    - Syntactic function 5: [other phrase constituent_adjective complement](5_Syntactic%20function5.html#2-5-other-phrase-constituent-adjective-complement)
+    - Syntactic function 5: [other phrase constituent:_adjective complement](5_Syntactic%20function5.html#2-5-other-phrase-constituent-adjective-complement)
         - Complexity feature 1: [adjective + *to* complement clause](5_Syntactic%20function5.html#2-5-1-adjective--to-complement-clause)
         - Complexity feature 2: [extraposed adjective + *to* complement clause](5_Syntactic%20function5.html#2-5-2-extraposed-adjective--to-complement-clause)
-    - Syntactic function 6: [other phrase constituent_prepositional complement](6_Syntactic%20function6.html#2-6-other-phrase-constituent-prepositional-complement)
+    - Syntactic function 6: [other phrase constituent:_prepositional complement](6_Syntactic%20function6.html#2-6-other-phrase-constituent-prepositional-complement)
         - Complexity feature 1: [preposition + *ing* complement clause](6_Syntactic%20function6.html#2-6-1-preposition--ing-complement-clause)
 
 ---
