@@ -1,4 +1,4 @@
-# 2-2. clause constituent verb complement
+# 2-2. clause constituent: verb complement
 
 ## 2-2-1. verb + *to* complement clause
 
