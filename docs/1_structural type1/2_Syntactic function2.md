@@ -1,26 +1,25 @@
-# 1-2. clause constituent verb complement
+# 1-2. clause constituent: verb complement
 
 ## 1-2-1. verb + *that*-complement clause
 
 1. Descriptions
-    - Post-predicate *that*-clauses controlled by verbs are categorized into three domains (see p. 661):
+    - Post-predicate *that*-clauses controlled by verbs are categorized into three domains (p. 661):
         - Mental verbs: Pertaining to cognition and often including emotive/affective content (e.g., *hope*, *believe*, *feel*, *find*, *guess*, *know*, *see*, *think*, *assume*, *conclude*).
         - Speech act verbs: Specifically denote speech activities (e.g., *say*, *admit*, *agree*, *announce*, *argue*, *bet*, *insist*).
         - Other communication verbs: May not directly involve speech (e.g., *show*, *suggest*, *ensure*, *indicate*, *prove*).
-    - Note: There is an absence of an intermediary NP or *to*-NP between the verb and the *that*-clause.
 2. Tag
-    - `thatcls+vcomp` (indicating a ZERO complementizer) is tagged to the **main verb** within the *that*-complement clause.
+    - `thatcls+vcomp` (including a ZERO complementizer) is tagged to the **main verb** within the *that*-complement clause.
 3. Examples
     - *I didn't agree <ins>that he should be **compelled** to do singing.</ins>* (p. 661)
     - *I suggested <ins>that she **sit** down on the chair and wait.</ins>* (p. 662)
-    - *I would hope <ins>that we can **have** more control over them.</ins>* (From Kris' table)
+    - *I would hope <ins>that we can **have** more control over them.</ins>*
     - *I propose <ins>that Mary should be invited.</ins>* (Haegeman & Guéron, 1998, p.441)
 
 
 ## 1-2-2. verb + *wh*-complement clause 
 1. Descriptions
     - *wh*-clauses can be either dependent (1) interrogative clauses or (2) nominal relative clauses (p. 683).
-    - Common *wh*-words: what, who, where, when, why, 'how', and whether
+    - Common *wh*-words: *what*, *who*, *where*, *when*, *why*, *how*, and *whether*
     - Types:
         - Interrogative clauses: Used with verbs like *ask* and *wonder* to present indirect questions.
             - e.g., *I wonder <ins>what that could **be** about</ins>.*
@@ -40,7 +39,7 @@
 
 **Complements**
 
-Complements are often required to form a grammatically complete and meaningful sentence. Consider the following examples, where grammatically incorrect sentences are indicated (Haegeman & Guéron, 1998, pp. 21-22):
+Complements are often required to form a grammatically complete and meaningful sentence. Consider the following examples, where grammatically incorrect sentences are indicated with <sup>*</sup> (Haegeman & Guéron, 1998, pp. 21-22):
 
 - a. *He abandoned the project.*
 - b. *<sup>*</sup>He abandoned.*
@@ -48,7 +47,7 @@ Complements are often required to form a grammatically complete and meaningful s
 - d. *He abandoned the book.*
 - e. *He abandoned the project, then the book.*
 
-From these examples, it is clear that the verb *abandon* must be followed by a noun phrase (NP) such as *the project*. If the verb *abandon* is not paired with an NP, the resulting sentence is ungrammatical (b, c). Therefore, to construct a grammatical sentence with the verb *abandon*, it must include a complement of the NP category.
+These examples show that the verb *abandon* must be followed by a noun phrase (e.g., *the project*). If the verb is not accompanied by a noun phrase, the sentence is incomplete and therefore ungrammatical (as seen in examples b and c).
 
 **Verb complement clauses**
 
@@ -56,5 +55,5 @@ Verb complement clauses are dependent clauses that serve to complete the meaning
 
 However, complement clauses can also complete the meaning of an adjectival predicate rather than a verb in the main clause (e.g., *I've gotta be careful <ins>that I don't sound too formal</ins>*). Here, the term *predicate* refers to both lexical verbs and copula+adjective combinations capable of governing a complement clause. This aspect will be further explored in the section on [other phrase constituent: adjective complement](5_Syntactic%20function5.html#1-5-other-phrase-constituent_adjective-complement).
 
-There are four types of **verb complement clauses**: (1) *that*-clause, (2) *wh*-clause, (3) *to*-infinitive clause, and (4) *ing*-clause. In this section, types (1) and (2) will be highlighted as complexity features because they are finite clauses, while types (3) and (4) will be discussed in the section on [non-finite clause constituent verb complements](../2_structural%20type2/2_Syntactic%20function2.html#2-2-clause-constituent-verb-complement).
+There are four types of **verb complement clauses**: (1) *that*-clause, (2) *wh*-clause, (3) *to*-infinitive clause, and (4) *ing*-clause. In this section, (1) and (2) are discussed because they are finite clauses, while (3) and (4) will be discussed in the section on [non-finite clause constituent verb complements](../2_structural%20type2/2_Syntactic%20function2.html#2-2-clause-constituent-verb-complement) because they are non-finite clauses.
 
