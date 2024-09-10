@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# `1.` Finite dependent clauses
+# 1. Finite dependent clauses
 
 ## Syntactic functions and complexity features
 
@@ -25,9 +25,9 @@ sort: 1
 
 **Finite dependent clauses**
 
-Finite dependent clauses are characterized by their inclusion of a verb phrase that marks a clear tense or modality (pp. 193-198). Typically, there is a subject unless it's omitted due to ellipsis. These clauses are often introduced by a clause link, such as a subordinator (e.g., *because*, *although*) or a *wh*-word.
+Finite dependent clauses are characterized by their inclusion of a verb phrase that marks a clear tense or modality (pp. 193-198). Typically, finite dependent clauses include a subject unless it's omitted due to ellipsis. These clauses are often introduced by a clause link, such as a subordinator (e.g., *because*, *although*) or a *wh*-word.
 
-Finite dependent clauses serve a wide range of grammatical functions within sentences. Their degree of integration into the sentence varies, ranging from tightly bound to more loosely connected with the main clause (for more examples, see pp. 193-198).
+Finite dependent clauses serve a wide range of grammatical functions within sentences. Their degree of integration into the sentence varies, ranging from tightly bound to more loosely connected with the main clause (for more examples, see pp. 193-198):
 
 - **adverbial clauses** serve as adverbials, enriching the main clause with circumstantial details about its action. Marked by subordinators, they clarify their relationship to the main clause, modifying it by adding context, conditions, or reasons.
 
