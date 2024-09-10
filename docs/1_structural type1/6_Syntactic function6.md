@@ -9,9 +9,10 @@
    -  Prepositional verbs are verbs that when combined with a preposition may take on new meaning.
 2. Tag
    - `whcls+incomp` is tagged on the **main verb** of the *wh*-complement clause.
-4. Examples
+3. Examples
    - *I’ll offer a suggestion <ins>for what we should **do**.</ins>*
-
+4. Discussions
+   - Q. Should we include *that* clauses? (e.g., *He took comfort in <ins>that he was not alone in his struggles</ins>*; *The scientist found satisfaction in <ins>that her research was making a difference</ins>*)
 ---
 
 **Prepositional phrases**
