@@ -29,9 +29,9 @@ Finite dependent clauses are characterized by their inclusion of a verb phrase t
 
 Finite dependent clauses serve a wide range of grammatical functions within sentences. Their degree of integration into the sentence varies, ranging from tightly bound to more loosely connected with the main clause (for more examples, see pp. 193-198):
 
-- **adverbial clauses** serve as adverbials, enriching the main clause with circumstantial details about its action. Marked by subordinators, they clarify their relationship to the main clause, modifying it by adding context, conditions, or reasons.
+- **adverbial clauses** serve as adverbials, enriching the main clause with circumstantial details about its action. Marked by subordinators, they clarify their relationship to the main clause, modifying it by adding context, conditions, or reasons, etc.
 
-- **nominal clauses** take on the roles of subjects, subject predicatives, or direct objects within the main clause, which also refers to verb complement. Key forms include (1) *that*-clauses and (2) *wh*-clauses.
+- **nominal clauses** take on the roles of subjects, subject predicatives, or direct objects within the main clause, and these roles are referred to as verb complements. Key forms include (1) *that*-clauses and (2) *wh*-clauses.
 
 - **relative clauses** modify nouns and are introduced by *wh*-words that link back to the noun they modify. They are either (1) restrictive (providing information for the noun's identification) and (2) non-restrictive (providing additional, optional details about the noun).
 
