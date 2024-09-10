@@ -3,7 +3,7 @@
 ## 1-2-1. verb + *that*-complement clause
 
 1. Descriptions
-    - Post-predicate *that*-clauses controlled by verbs are categorized into three domains (p. 661):
+    - Verbs controlling *that*-clauses are categorized into three domains (p. 661):
         - Mental verbs: Pertaining to cognition and often including emotive/affective content (e.g., *hope*, *believe*, *feel*, *find*, *guess*, *know*, *see*, *think*, *assume*, *conclude*).
         - Speech act verbs: Specifically denote speech activities (e.g., *say*, *admit*, *agree*, *announce*, *argue*, *bet*, *insist*).
         - Other communication verbs: May not directly involve speech (e.g., *show*, *suggest*, *ensure*, *indicate*, *prove*).
@@ -13,7 +13,11 @@
     - *I didn't agree <ins>that he should be **compelled** to do singing.</ins>* (p. 661)
     - *I suggested <ins>that she **sit** down on the chair and wait.</ins>* (p. 662)
     - *I would hope <ins>that we can **have** more control over them.</ins>*
-    - *I propose <ins>that Mary should be invited.</ins>* (Haegeman & Guéron, 1998, p.441)
+    - *I propose <ins>that Mary should be **invited**.</ins>* (Haegeman & Guéron, 1998, p. 441)
+4. Discussions
+    - *It seems <ins>that he brought that cup to his house</ins>.*
+    - **Q:** How do we tag extraposing verbs?
+    - **Q:** Should we include *if/wether-*complement clause here? or into the next category?
 
 
 ## 1-2-2. verb + *wh*-complement clause 
@@ -23,7 +27,7 @@
     - Types:
         - Interrogative clauses: Used with verbs like *ask* and *wonder* to present indirect questions.
             - e.g., *I wonder <ins>what that could **be** about</ins>.*
-        - Nominal relative clauses: Can be paraphrased by a general head noun modified by the *wh*-clause (e.g., *<ins>Whoever solves this problem</ins> will be successful.* → *The person who solves this problem will be successful.*)
+        - Nominal relative clauses: Can be paraphrased by a general head noun modified by the *wh*-clause (e.g., *<ins>Whoever **solves** this problem</ins> will be successful.* → *The person who solves this problem will be successful.*)
             - e.g., *<ins>What **baffles** me</ins> is how few of them can spell.* 
 2. Tag
     -  `whcls+vcomp` is tagged on the **main verb** of the *wh*-complement clause.
@@ -32,7 +36,7 @@
     - *She showed me <ins>where we should **plant** the tree.</ins>*
     - *He described <ins>what he **saw** at the event.</ins>*
     - *No one knows <ins>how long the journey will **take**.</ins>*
-    - *"What I don't understand," she said, "is <ins>why they don't **let** me know anything.</ins>"* (p.193)
+    - *"What I don't understand," she said, "is <ins>why they don't **let** me know anything.</ins>"* (p. 193)
     - *that's <ins>how I **did** it.</ins>* (dataset)
 
 ---

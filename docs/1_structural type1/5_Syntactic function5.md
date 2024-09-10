@@ -18,9 +18,9 @@
 1. Descriptions
     - Extraposed *that*-clauses utilize a structure where the adjective is part of a statement that often begins with "it" as a subject, slightly detaching the speaker's or writer's direct stance from the proposition. This can highlight the proposition itself or present the stance in a more generalized manner, as shown in: 
         - certainty adjectives: They indicate the extent to which the speaker/writer regards the embedded proposition is *probable*, *accepted*, *apparent*, *certain*, *plain*, *inevitable*.
-        - affective/evaluative adjectives: They mark other assessments or attitudes twoards the proposition in the *that*-clause: *(un)acceptable*, *preferable*, *sensible*, *amazing*, *bad*, *funny*, *dreadful*, *odd*, *suprising*, *neat*.
+        - affective/evaluative adjectives: They mark other assessments or attitudes twoards the proposition in the *that*-clause: *(un)acceptable*, *preferable*, *sensible*, *amazing*, *bad*, *funny*, *dreadful*, *odd*, *suprising*, *neat*, *advisable*, *critical*, *crucial*, *essential*, *fitting*, *obligatory*, *vital*.
         - hypothetical adjectives: These constructions are marked by *should* or subjunctive verb forms (e.g: *It is preferable <ins>that the marked cells [should **be**] identical in their behaviour to the unmarked cells.</ins>* (p. 674))
-        - necessity/importance adjectives: They reflect the writer's belief that a proposed course of action is essential or important (e.g., *advisable*, *critical*, *crucial*, *essential*, *fitting*, *obligatory*, *vital*)
+
 2. Tag
     - `xtrapos+thatcls+jcomp` is tagged on the **main verb** of the *that*-complement clause.
 3. Examples
@@ -34,8 +34,9 @@
 
 4. Discussions
     - *It’s only if the sample is so bad, so contradictory to the (null) hypothesis, <ins>that we’re going to reject (it)</ins>.*
-   - **Q:** Is this an ‘extraposed adjective+that-complement’ or a simple ‘adjective+that-complement clause’? Given that the phrase (‘so contradictory that~’) suggests a cause-effect relationship (e.g., it was so bad that I did not want to go there again), how does this affect its classification?
-   - **A:** This is not extraposed. The ‘it’ is referential. And so the ‘that’ clause is a adjective + *that*-complement clause (of the adjective ‘bad’ in this case).
+    - **Q:** Is this an ‘extraposed adjective+that-complement’ or a simple ‘adjective+that-complement clause’? Given that the phrase (‘so contradictory that~’) suggests a cause-effect relationship (e.g., it was so bad that I did not want to go there again), how does this affect its classification?
+    - **A1:** This is not extraposed. The ‘it’ is referential. And so the ‘that’ clause is a adjective + *that*-complement clause (of the adjective ‘bad’ in this case).
+    - **A2 (added 091024-MS):** This sounds controversial. See this example: *It's only if the sample is very bad, very contradictory to the (null) hypothesis, that we're going to reject the argument.* To me, that-clause looks like being extraposed.
 
 ---
 

@@ -10,11 +10,11 @@
 2. Tag
    - `whcls+incomp` is tagged on the **main verb** of the *wh*-complement clause.
 3. Examples
-   - *I’ll offer a suggestion <ins>for what we should **do**.</ins>*
+   - *I’ll offer a suggestion for <ins>what we should **do**.</ins>*
 4. Discussions
    - Q. Should we include *that* clauses? (e.g., *He took comfort in <ins>that he was not alone in his struggles</ins>*; *The scientist found satisfaction in <ins>that her research was making a difference</ins>*)
 ---
 
 **Prepositional phrases**
 
-Prepositional phrases are structures that combine a preposition with a complement, typically a noun phrase. This combination extends a noun phrase, creating a link that integrates it into the larger context of a sentence. Examples include *in the morning*, *to him*, *a street with no name*, and *in which she had to be expelled*. Prepositions can be accompanied by nominal clauses (*wh*-complement clause, see below) and *ing*-clauses as complements (e.g., three days *after singing all night* - where the phrase provides a temporal context) (p. 103).
+Prepositional phrases are structures that combine a preposition with a complement, typically a noun phrase. This combination extends a noun phrase, creating a link that integrates it into the larger context of a sentence. Examples include *in the morning*, *to him*, *a street with no name*, and *in which she had to be expelled*. Prepositions can be accompanied by nominal clauses (*wh*-complement clause, e.g., *suggestion for <ins>what we need</ins>*) and *ing*-clauses as complements (e.g., *interested in <ins>playing the piano</ins>) (p. 103).
