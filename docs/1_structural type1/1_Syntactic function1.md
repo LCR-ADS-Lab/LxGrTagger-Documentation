@@ -4,7 +4,7 @@
 
 1. Descriptions
     - Adverbial clauses serve the role of adverbs of the main clause, generally describing additional circumstances (p. 194). 
-    - Similar to adverbials in general, they are optional; flexibility in their positioning within the sentence (either the beginning, midding, or end)
+    - Similar to adverbials in general, they are optional; flexibility in their positioning within the sentence (either the beginning, middle, or end)
     - They are marked by a subordinator (e.g., *because*, *although*, *if*, etc., p. 85) that shows the relationship to the main clause.
 2. Tag
     - `finitecls+advl` is tagged on the **main verb** of the adverbial clause.
