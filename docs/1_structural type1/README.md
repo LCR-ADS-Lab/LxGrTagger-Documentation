@@ -6,19 +6,19 @@ sort: 1
 
 ## Syntactic functions and complexity features
 
-- Syntactic function 1: [clause constituent adverbial](1_Syntactic%20function1.html#1-1-clause-constituent-adverbial)
+- Syntactic function 1: [clause constituent: adverbial](1_Syntactic%20function1.html#1-1-clause-constituent-adverbial)
     - Complexity feature 1: [multiple adverbial clause](1_Syntactic%20function1.html#1-1-1-multiple-adverbial-clause)
-- Syntactic function 2: [clause constituent verb complement](2_Syntactic%20function2.html#1-2-clause-constituent-verb-complement)
+- Syntactic function 2: [clause constituent: verb complement](2_Syntactic%20function2.html#1-2-clause-constituent-verb-complement)
     - Complexity feature 1: [verb + *that*-complement clause](2_Syntactic%20function2.html#1-2-1-verb--that-complement-clause)
     - Complexity feature 2: [verb + *wh*-complement clause](2_Syntactic%20function2.html#1-2-2-verb--wh-complement-clause)
-- Syntactic function 3: [noun phrase (NP) constituent: modifier](3_Syntactic%20function3.html#1-3-noun-phrase-constituent-modifier)
+- Syntactic function 3: [noun phrase constituent: modifier](3_Syntactic%20function3.html#1-3-noun-phrase-constituent-modifier)
     - Complexity feature 1: [noun + finite relative clause](3_Syntactic%20function3.html#1-3-1-noun--finite-relative-clause)
-- Syntactic function 4: [noun phrase constituent_NP complement](4_Syntactic%20function4.html#1-4-noun-phrase-constituent-complement)
+- Syntactic function 4: [noun phrase constituent: complement](4_Syntactic%20function4.html#1-4-noun-phrase-constituent-complement)
     - Complexity feature 1: [noun + *that*-complement clause](4_Syntactic%20function4.html#1-4-1-noun--that-complement-clause)
-- Syntactic function 5: [other phrase constituent_adjective complement](5_Syntactic%20function5.html#1-5-other-phrase-constituent_adjective-complement)
+- Syntactic function 5: [other phrase constituent:_adjective complement](5_Syntactic%20function5.html#1-5-other-phrase-constituent_adjective-complement)
     - Complexity feature 1: [adjective + *that*-complement clause](5_Syntactic%20function5.html#1-5-1-adjective--that-complement-clause)
     - Complexity feature 2: [extraposed adjective + *that*-complement clause](5_Syntactic%20function5.html#1-5-2-extraposed-adjective--that-complement-clause)
-- Syntactic function 6: [other phrase constituent_prepositional complement](6_Syntactic%20function6.html#1-6-other-phrase-constituent_preposition-complement)
+- Syntactic function 6: [other phrase constituent:_prepositional complement](6_Syntactic%20function6.html#1-6-other-phrase-constituent_preposition-complement)
     - Complexity feature 1: [preposition + *wh*-complement clause](6_Syntactic%20function6.html#1-6-1-preposition--wh-complement-clause)
 
 ---
