@@ -3,12 +3,12 @@
 ## 1-3-1. noun + finite relative clause 
 
 1. Descriptions
-    -  A finite relative clause follows the head noun phrase, and are always missing a constituent (corresponds in meaning to the _head noun_)
+    -  A finite relative clause follows the head noun phrase and contains a relativizer (a relative pronoun or adverb).
     -  _Relativizers_ are one of:
-        -  Relative pronoun: which, who, whom, whose, that
-        -  Relative adverb: where, when, why
+        -  Relative pronoun: *which*, *who*, *whom*, *whose*, *that*
+        -  Relative adverb: *where*, *when*, *why*
         -  Zero relativizer: relativizer is _ommited_
-    - Nominal postmodifiers are different from NP complement clauses (p. 644, see the next section on [noun phrase constituent: complement](4_Syntactic%20function4.html#1-4-noun-phrase-constituent-complement))
+    - Nominal postmodifiers are different from noun phrase complement clauses (p. 644, see the next section on [noun phrase constituent: complement](4_Syntactic%20function4.html#1-4-noun-phrase-constituent-complement))
 2. Tag
     - `finitecls+rel` is tagged on the **main verb** of the *that*- of *wh*- relative clause (also include the relative clause with deleted relative pronoun).
 3. Examples
