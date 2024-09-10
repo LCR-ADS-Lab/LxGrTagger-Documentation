@@ -1,4 +1,4 @@
-# 2-1. clause constituent adverbial
+# 2-1. clause constituent: adverbial
 
 ## 2-1-1. *to*-clause as purpose adverbial
 
