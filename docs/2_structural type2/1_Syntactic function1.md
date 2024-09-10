@@ -4,7 +4,7 @@
 
 1. Descriptions
    - *To*-clauses as purpose adverbials indicate the reason or intention behind the main action of a sentence.
-   - They are introduced by *to-* or a deleted *to-*
+   - They are introduced by *to-* or a deleted *to-*:
        - *Surrey police say the film would help <ins>[to] **identify** participants at the weekend party</ins>*  
 2. Tag
    - `tocls+advl` is tagged on the **main verb** of the *to*-adverbial clause.
