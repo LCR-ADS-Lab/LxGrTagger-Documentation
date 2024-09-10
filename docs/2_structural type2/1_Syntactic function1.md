@@ -4,21 +4,22 @@
 
 1. Descriptions
    - *To*-clauses as purpose adverbials indicate the reason or intention behind the main action of a sentence.
-   - They are introduced by *to* or a deleted *to*
+   - They are introduced by *to-* or a deleted *to-*
        - *Surrey police say the film would help <ins>[to] **identify** participants at the weekend party</ins>*  
 2. Tag
    - `tocls+advl` is tagged on the **main verb** of the *to*-adverbial clause.
 3. Examples
    -  *<ins>To **verify** this hypothesis</ins>, sections of fixed cells were examined.*
-   -  *We eat <ins>to **survive**</ins>*
-   -  *I have brought you all here today <ins>to **tell** you about my evil plan</ins>*
-   -  *Reforming is the process whereby straight-run gasoline is cracked <ins>in order to **raise** the octane number.</ins>* (Biber et al., 2007, p. 827)
+   -  *We eat <ins>to **survive**</ins>*.
+   -  *I have brought you all here today <ins>to **tell** you about my evil plan</ins>*.
+   -  *Reforming is the process whereby straight-run gasoline is cracked <ins>(in order) to **raise** the octane number.</ins>* (Biber et al., 2007, p. 827)
 
 ## 2-1-2. *ing*-clause as adverbial
 
 1. Descriptions
-    - An *ing*-clause when used as an adverbial to modify a verb, an adjective, or an entire sentence. This is often employed to add information about the time, manner, reason, condition, or circumstance of the action described by the main verb.
-    - (Dangling particles): Dangling participles occur when a participial phrase (an *ing*-clause or an ed-clause used adverbially) lacks a clear subject, leading to ambiguity or a mismatch between the intended subject and the grammatical subject of the main clause (p. 829). (HS: should we include this case?)         -  *<ins>**Running** to catch the bus</ins>, the wallet fell out of my pocket.* (The wallet is not running; the implied subject is the person.)
+    - An *ing*-clause can be used as an adverbial to modify a verb, an adjective, or an entire sentence. This is often employed to add information about the time, manner, reason, condition, or circumstance of the action described by the main verb.
+    - (Dangling particles): Dangling participles occur when a participial phrase (an *ing*-clause or an ed-clause used adverbially) lacks a clear subject, leading to ambiguity or a mismatch between the intended subject and the grammatical subject of the main clause (p. 829). (Q-HS: should we include this case?)
+       - *<ins>**Running** to catch the bus</ins>, the wallet fell out of my pocket.* (The wallet is not running; the implied subject is the person.)
 
 2. Tag
    - `ingcls+advl` is tagged on the **main verb** of the *ing*-adverbial clause.
