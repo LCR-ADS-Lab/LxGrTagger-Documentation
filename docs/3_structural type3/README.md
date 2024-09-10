@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# `3.` Dependent phrases
+# 3. Dependent phrases
 
 ## Syntactic functions and complexity features
 
