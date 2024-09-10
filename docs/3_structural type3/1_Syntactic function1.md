@@ -1,4 +1,4 @@
-# 3-1. clause constituent adverbial
+# 3-1. clause constituent: adverbial
 
 ## 3-1-1. adverb phrase
 
