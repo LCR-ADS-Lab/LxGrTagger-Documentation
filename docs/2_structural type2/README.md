@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# `2.` Non-finite dependent clauses
+# 2. Non-finite dependent clauses
 
 ## Syntactic functions and complexity features
 
