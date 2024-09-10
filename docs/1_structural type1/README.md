@@ -15,10 +15,10 @@ sort: 1
     - Complexity feature 1: [noun + finite relative clause](3_Syntactic%20function3.html#1-3-1-noun--finite-relative-clause)
 - Syntactic function 4: [noun phrase constituent: complement](4_Syntactic%20function4.html#1-4-noun-phrase-constituent-complement)
     - Complexity feature 1: [noun + *that*-complement clause](4_Syntactic%20function4.html#1-4-1-noun--that-complement-clause)
-- Syntactic function 5: [other phrase constituent:_adjective complement](5_Syntactic%20function5.html#1-5-other-phrase-constituent_adjective-complement)
+- Syntactic function 5: [other phrase constituent: adjective complement](5_Syntactic%20function5.html#1-5-other-phrase-constituent_adjective-complement)
     - Complexity feature 1: [adjective + *that*-complement clause](5_Syntactic%20function5.html#1-5-1-adjective--that-complement-clause)
     - Complexity feature 2: [extraposed adjective + *that*-complement clause](5_Syntactic%20function5.html#1-5-2-extraposed-adjective--that-complement-clause)
-- Syntactic function 6: [other phrase constituent:_prepositional complement](6_Syntactic%20function6.html#1-6-other-phrase-constituent_preposition-complement)
+- Syntactic function 6: [other phrase constituent: prepositional complement](6_Syntactic%20function6.html#1-6-other-phrase-constituent_preposition-complement)
     - Complexity feature 1: [preposition + *wh*-complement clause](6_Syntactic%20function6.html#1-6-1-preposition--wh-complement-clause)
 
 ---
