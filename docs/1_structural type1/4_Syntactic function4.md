@@ -29,7 +29,7 @@ Earlier discussions on the [verb complement clauses](2_Syntactic%20function2.htm
 - *He considers <ins>that she deserves a promotion</ins>*. (verb-complement)
 - *The consideration <ins>that she deserves a promotion</ins> weighs heavily on his mind.* (NP-complement)
 - *She believes <ins>that honesty is the best policy</ins>.* (verb-complement)
-- *Her belief <ins>that honesty is the best policy guides her actions</ins>.* (NP-complement)
+- *Her belief <ins>that honesty is the best policy</ins> guides her actions.* (NP-complement)
 
 **NP modifier vs. NP complement**   
 
