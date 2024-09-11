@@ -1,6 +1,6 @@
 # 2-1. clause constituent: adverbial
 
-## 2-1-1. *to*-clause as purpose adverbial
+## 2-1-1. *to*-clause as adverbial
 
 1. Descriptions
    - *To*-clauses as purpose adverbials indicate the reason or intention behind the main action of a sentence.
@@ -18,7 +18,7 @@
 
 1. Descriptions
     - An *ing*-clause can be used as an adverbial to modify a verb, an adjective, or an entire sentence. This is often employed to add information about the time, manner, reason, condition, or circumstance of the action described by the main verb.
-    - (Dangling particles): Dangling participles occur when a participial phrase (an *ing*-clause or an ed-clause used adverbially) lacks a clear subject, leading to ambiguity or a mismatch between the intended subject and the grammatical subject of the main clause (p. 829). (Q-HS: should we include this case?)
+    - Dangling participles occur when a participial phrase (an *ing*-clause or an *ed*-clause used adverbially) lacks a clear subject, leading to ambiguity or a mismatch between the intended subject and the grammatical subject of the main clause (p. 829). (Q-HS: should we include this case?)
        - *<ins>**Running** to catch the bus</ins>, the wallet fell out of my pocket.* (The wallet is not running; the implied subject is the person.)
 
 2. Tag
@@ -54,14 +54,15 @@
 2. Tag
    - `edcls+advl` is tagged on the **main verb** of the *ed*-adverbial clause.
 3. Examples
-   - *<ins>When told by police how badly **injured** his victims were</ins> he said: "Good, I hope they die."*
+   - *<ins>When **told** by police how badly injured his victims were</ins> he said: "Good, I hope they die."*
    - *We measured a seasonal total of 56.99 on precipitation in the two caged rain gauges, <ins>**compared** to 56.78 cm on the open plots.</ins>*
    - *I went on waiting, <ins>**tinged** with doubt</ins>.*
    - *<ins>As **expected**</ins>, the volume of retail sales rose 0.5 per cent in August.*
 4. Discussions
 - *<ins>**Having** been his wife</ins> I know it more clearly.*
    - **Q:** Is this an ing-clause? ed-clause? Something else?
-   - **A:** We would call this an -ing (non-finite) adverbial clause.  
+   - **A:** We would call this an *ing-* (non-finite) adverbial clause.
+   - **A(added 0911):** This might be an *ed-* adverbial clause, so the word *been* needs to be tagged instead?
 
 - *Hirschman has noted that “the assimilation perspective, <ins>broadly **defined**</ins>, continues to be the primary theoretical framework…”*
    - **Q:** Does this count as an ed-clause as adverbial, or is it simply modifying perspective?

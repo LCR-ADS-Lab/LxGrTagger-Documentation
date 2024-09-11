@@ -3,7 +3,7 @@
 ## 2-5-1. adjective + *to* complement clause
 
 1. Descriptions
-   - Adjective + *to* complement clauses usually introduce an infinitive verb following the *to*.
+   - Adjective + *to* complement clauses introduce an infinitive verb following the *to*.
    - Adjective + *to* complement clauses provide more information to the state or quality described by the adjective, and can specify potential actions or conditions related to the subject.
 2. Tag
    - `tocls+jcomp` is tagged on the **main verb** of the *to* compliment clause.
@@ -16,7 +16,7 @@
 ## 2-5-2. extraposed adjective + *to* complement clause
 
 1. Descriptions
-   - Extraposed adjective + *to* complement clauses semantically function as the subject.
+   - Extraposed adjective + *to* complement clauses semantically function as the predicate + the subject.
    - The true subject is often replaced by *it.*
 2. Tag
    - `xtrapos+tocls+jcomp` is tagged on the **main verb** of the extraposed *to* compliment clause.

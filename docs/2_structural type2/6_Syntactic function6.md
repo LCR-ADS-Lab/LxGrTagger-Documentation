@@ -8,7 +8,7 @@
 2. Tag
    - `ingcls+incomp` is tagged on the **main verb** of the *ing* compliment clause.
 3. Examples
-   - *The formula <ins>for **calculating** the effective resistance</ins> is ….*
-   - *The method <ins>for **assessing** project risks</ins> involves thorough analysis.*
-   - *He is keen <ins>on **improving** his language skills</ins>.*
-   - *She focused <ins> on my **talking** during the meeting</ins> to understand my concerns better.*
+   - *The formula for <ins>**calculating** the effective resistance</ins> is ….*
+   - *The method for <ins>**assessing** project risks</ins> involves thorough analysis.*
+   - *He is keen on <ins>**improving** his language skills</ins>.*
+   - *She focused on <ins>my **talking** during the meeting</ins> to understand my concerns better.*

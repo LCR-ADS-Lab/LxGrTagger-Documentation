@@ -8,11 +8,11 @@
 2. Tag
    - `in+jcomp` is tagged on the **preposition** of the complement prepositional phrase. 
 3. Examples
-   - *The solution was <ins>obvious **to** everyone in the room</ins>.*
-   - *She was <ins>happy **about** the promotion</ins>.*
-   - *He is <ins>interested **in** ancient history</ins>.*
-   - *The novel is <ins>relevant **to** current events</ins>.*
+   - *The solution was <ins>obvious <ins>**to** everyone in the room</ins>.*
+   - *She was happy <ins>**about** the promotion</ins>.*
+   - *He is interested <ins>**in** ancient history</ins>.*
+   - *The novel is relevant <ins>**to** current events</ins>.*
 4. Discussions
    - *…two is bigger than point one*
-      - Q: We understand that the comparative structure is not a typical prepositional phrase as an adjective complement (e.g., I am happy about the solution). However, this structure does still fit the pattern of adjective + preposition (*than*) +noun phrase. Should we include it in this tag, or should comparatives simply be considered a different structure/pattern?
-      - A: We’d vote for comparatives being a different structure.  There are many different structural options for creating comparatives in English, and they are all idiosyncratic.
+      - **Q:** We understand that the comparative structure is not a typical prepositional phrase as an adjective complement (e.g., I am happy about the solution). However, this structure does still fit the pattern of adjective + preposition (*than*) +noun phrase. Should we include it in this tag, or should comparatives simply be considered a different structure/pattern?
+      - **A:** We’d vote for comparatives being a different structure.  There are many different structural options for creating comparatives in English, and they are all idiosyncratic.

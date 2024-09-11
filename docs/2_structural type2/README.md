@@ -9,7 +9,7 @@ sort: 1
 - **Structural type 2:** Non-finite dependent clauses
 
     - Syntactic function 1: [clause constituent: adverbial](1_Syntactic%20function1.html#2-1-clause-constituent-adverbial)
-        - Complexity feature 1: [*to*-clause as purpose adverbial](1_Syntactic%20function1.html#2-1-1-to--clause-as-purpose-adverbial)
+        - Complexity feature 1: [*to*-clause as adverbial](1_Syntactic%20function1.html#2-1-1-to--clause-as-adverbial)
         - Complexity feature 2: [*ing*-clause as adverbial](1_Syntactic%20function1.html#2-1-2-ing--clause-as-adverbial) 
         - Complexity feature 3: [*ed*-clause as adverbial](1_Syntactic%20function1.html#2-1-3-ed--clause-as-adverbial)
     - Syntactic function 2: [clause constituent: verb complement](2_Syntactic%20function2.html#2-2-clause-constituent-verb-complement)
@@ -34,8 +34,8 @@ sort: 1
 In contrast to [finite dependent clauses](../1_structural%20type1/#1-finite-dependent-clauses), non-finite dependent clauses are distinct from their finite counterparts in that they do not contain a verb phrase marking tense or modality. Therefore, structurally they are more succinct and implicit compared to finite clauses. They typically omit an explicit subject and often do not require a subordinator, which leads to a lack of explicitness and a compact semantic structure. Interpreting a non-finite clause often requires context from the main clause and sometimes from the broader context of the discourse. There are three primary types of non-finite clauses, each characterized by a different form of verb phrase: *to*-infinitive clauses, *ing*-clauses, and *ed*-clauses (pp. 198-201). Below are some examples to compare between non-finite and finite clauses:
 
 - Example 1: *to*-infinitive clause
-    - Non-finite: *I don't know what <ins>to write in the report</ins>.*
-    - Finite: *I don't know what I should write in the report.*
+    - Non-finite: *I don't know <ins>what to write in the report</ins>.*
+    - Finite: *I don't know <ins>what I should write in the report</ins>.*
 - Example 2: *ing*-clause 
     - Non-finite: *<ins>Reading through the document</ins>, she found several critical errors.*
     - Finite: *<ins>As she was reading through the document</ins>, she found several critical errors.*
