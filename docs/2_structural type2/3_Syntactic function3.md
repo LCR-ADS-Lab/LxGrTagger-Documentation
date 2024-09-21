@@ -8,7 +8,7 @@
 2. Tag
    - `tocls+rel` is tagged on the **main verb** of the *to* relative clause.
 3. Examples
-   - *She brought a book<ins>to **read** on the train.</ins>*
+   - *She brought a book <ins>to **read** on the train.</ins>*
    - *He has a lot of work <ins>to **do** before the deadline.</ins>*
    - *We found a nice place <ins>to **stay** for the weekend.</ins>*
    - *This is a great opportunity <ins>to **learn** new skills.</ins>*
