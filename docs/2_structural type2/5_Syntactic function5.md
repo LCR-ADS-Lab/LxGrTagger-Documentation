@@ -10,7 +10,6 @@
 3. Examples
    - *Millar was obstinately determined <ins>to **change** the content of education.</ins>* (p. 716)
    - *They were excited <ins>to **explore** the new city</ins>, having heard so much about its vibrant culture.*
-   - *After recovering from her injury, she was able <ins>to **participate** in the marathon</ins>, much to her relief.*
    - *They were excited <ins>to **get** the chance</ins> to play in the tournament.*
      
 ## 2-5-2. extraposed adjective + *to* complement clause
