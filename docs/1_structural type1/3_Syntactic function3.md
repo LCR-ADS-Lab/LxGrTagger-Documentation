@@ -16,7 +16,6 @@
     -  *There are plenty of existing owners <ins>who **are** already keen to make the move.</ins>* (p. 608)
     -  *There was a slight, furtive boy <ins>whom no one **knew**.</ins>* (p.608)
     -  *It was good for the fans, <ins>whose support so far this season has **been** fantastic.</ins>* (p.608)
-    -  *Well, that's the only way <ins>that this can be definitively **assessed**.</ins>*
     -  Zero relativizer:
         -  *The next thing <ins>[that] she **knows**</ins>, she's talking to Danny.* (p.609)
         -  *Gwen gave the little frowning smile <ins>[that] she **used** when she was putting something to someone.</ins>* (p.609)
