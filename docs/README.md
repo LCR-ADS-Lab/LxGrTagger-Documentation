@@ -1,10 +1,12 @@
 # LxGrTagger Annotation Guidelines
 
-- This project is under the [LCR-ADS lab](https://lcr-ads-lab.github.io/LCR-ADS-Home/) at the University of Oregon's Linguistics Department, led by Dr. Kristopher Kyle.
+- This project is under the [LCR-ADS lab](https://lcr-ads-lab.github.io/LCR-ADS-Home/) at the University of Oregon's Linguistics Department, led by Dr. Kristopher Kyle. This documentation page is contributed by Hakyung Sung and Augustus Paddock.
 
 - We are currently developing tag descriptions and detailed annotation guidelines for complexity features for [LxGrTagger](https://github.com/kristopherkyle/LxGrTgr). For some of the more complex examples, we have added a `Discussions` section below the corresponding tags based on the discussions between the team at the University of Oregon and scholars from Northern Arizona University (Many thanks to Douglas Biber, Jesse Egbert, and Randi Reppen for providing valuable insights!). 
 
 - In the process of constructing the guidelines, we primarily refer to the *Longman Grammar of Spoken and Written English (6th ed.)* by Biber et al. (2007), paraphrasing the contents and specifying the referred pages. When citing other works, we include both the references and the specific page numbers.
+
+- Last updated: October 2024
 
 ## Tagging scheme
 
@@ -44,7 +46,7 @@ The tagging scheme is organized into hierarchical structures:
 | Non-finite Clause   | Preposition Complement   | [`ingcls+incomp`](2_structural%20type2/4_Syntactic%20function6.html#2-6-1-preposition--ing-complement-clause) | *The process <ins>for **washing** dishes by hand is attached</ins>.* |
 | Dependent Phrase    | Adverbial Phrase           | [`rb+advl`](3_structural%20type3/1_Syntactic%20function1.html#3-1-1-adverb-phrase) | *The car entered a curved road <ins>**slowly**</ins>.* |
 | Dependent Phrase    | Prepositional Phrase       | [`in+advl`](3_structural%20type3/1_Syntactic%20function1.html#3-1-1-adverb-phrase) | *He spoke <ins>**with** enthusiasm</ins>.* |
-| Dependent Phrase    | Noun Phrase Modifier       | [`attr+npremod`](3_structural%20type3/2_Syntactic%20function2.html#3-2-1-attributive-adjectives-as-noun-pre-modifier) | *She had <ins>a really **cute**<ins> idea.* |
+| Dependent Phrase    | Noun Phrase Modifier       | [`attr+npremod`](3_structural%20type3/2_Syntactic%20function2.html#3-2-1-attributive-adjectives-as-noun-pre-modifier) | *She had <ins>a really **cute**</ins> idea.* |
 | Dependent Phrase    | Noun Phrase Modifier       | [`nn+npremod`](3_structural%20type3/2_Syntactic%20function2.html#3-2-2-noun-as-noun-pre-modifier) | *I'm not into <ins>**coffee**</ins> cake.* |
 | Dependent Phrase    | Noun Phrase Modifier       | [`of+npostmod`](3_structural%20type3/2_Syntactic%20function2.html#3-2-3-of-phrases-as-noun) | *Do you know the name <ins>**of** this flower</ins>?* |
 | Dependent Phrase    | Noun Phrase Modifier       | [`in+npostmod`](3_structural%20type3/2_Syntactic%20function2.html#3-2-4-other-prepositional-phrases-as-noun) | *The competition is open to young people <ins>**under** the age of 18</ins>.* |
