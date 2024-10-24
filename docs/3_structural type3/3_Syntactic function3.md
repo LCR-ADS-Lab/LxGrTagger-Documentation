@@ -8,7 +8,7 @@
 2. Tag
    - `in+jcomp` is tagged on the **preposition** of the complement prepositional phrase. 
 3. Examples
-   - *The solution was <ins>obvious <ins>**to** everyone in the room</ins>.*
+   - *The solution was obvious <ins>**to** everyone in the room</ins>.*
    - *She was happy <ins>**about** the promotion</ins>.*
    - *He is interested <ins>**in** ancient history</ins>.*
    - *The novel is relevant <ins>**to** current events</ins>.*

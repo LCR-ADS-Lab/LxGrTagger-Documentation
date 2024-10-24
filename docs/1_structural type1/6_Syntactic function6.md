@@ -13,6 +13,7 @@
    - *I’ll offer a suggestion for <ins>what we should **do**.</ins>*
 4. Discussions
    - Q. Should we include *that* clauses? (e.g., *He took comfort in <ins>that he was not alone in his struggles</ins>*; *The scientist found satisfaction in <ins>that her research was making a difference</ins>*)
+
 ---
 
 **Prepositional phrases**

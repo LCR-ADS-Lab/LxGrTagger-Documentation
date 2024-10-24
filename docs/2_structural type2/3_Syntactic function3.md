@@ -4,16 +4,14 @@
 
 1. Descriptions
    - Noun + *to* relative clauses modify the noun phrase and provide infomation as to the direction, destination, intention, or subsequent action.
-   - They are introduced by *to*, followed by a verb in infinitive form (e.g *play*, *create*, *observe*).
-   - More common in conversation than in writing.
+   - They are introduced by *to*, followed by a verb in infinitive form.
 2. Tag
    - `tocls+rel` is tagged on the **main verb** of the *to* relative clause.
 3. Examples
-   - *You're the best person <ins>to **ask**.</ins>*
-   - *There's just a lot <ins>to **think** about.</ins>* (p. 607)
-   - *She is probably the best player <ins>to **play** college basketball.</ins>*
-   - *He showed us the way <ins>to **get** to our house.</ins>* (p. 604)
-
+   - *She brought a book <ins>to **read** on the train.</ins>*
+   - *He has a lot of work <ins>to **do** before the deadline.</ins>*
+   - *We found a nice place <ins>to **stay** for the weekend.</ins>*
+   - *This is a great opportunity <ins>to **learn** new skills.</ins>*
 
 ## 2-3-2. noun + *ing* relative clause
 
