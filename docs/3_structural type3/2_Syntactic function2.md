@@ -66,7 +66,7 @@
    - They provide descriptive information about the head noun but are not needed to identify the reference of the head noun.
 2. Tag
    - `appos+npostmod` is tagged on the head **noun** of the appositive phrase.
-   - When there are more than two tokens in the appositive, the tag is placed on the last word.
+   - When there are more than two tokens in the appositive, we tagged on the last word token.
 3. Examples
    - *The capital city, <ins>**Paris**</ins>, is the heart of France.*
        - *Paris, <ins>the capital **city**</ins>, is the heart of France.* 
