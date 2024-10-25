@@ -12,6 +12,8 @@
 3. Examples
    - *I’ll offer a suggestion for <ins>what we should **do**.</ins>*
 4. Discussions
+   - When *wh*-complement clauses are part of a comparative construction, they were not tagged.
+      - e.g., *this is the probability of getting **a score bigger than** <ins>what we calculate</ins>.*
    - Q. Should we include *that* clauses? (e.g., *He took comfort in <ins>that he was not alone in his struggles</ins>*; *The scientist found satisfaction in <ins>that her research was making a difference</ins>*)
 
 ---

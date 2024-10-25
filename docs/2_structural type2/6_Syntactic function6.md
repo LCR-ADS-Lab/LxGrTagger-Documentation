@@ -12,3 +12,8 @@
    - *The method for <ins>**assessing** project risks</ins> involves thorough analysis.*
    - *He is keen on <ins>**improving** his language skills</ins>.*
    - *She focused on <ins>my **talking** during the meeting</ins> to understand my concerns better.*
+   - *...be able to put down without <ins>**doing** a whole lot of thinking</ins>*.
+   - *... that was other thinkg like <ins> leaving where</ins> the hell would I go*.
+4. Discussions
+   - We've included some comparatives (e.g., ADJ+*than*+**-ing**).
+      - *It is more serious than <ins>**distoring** other items</ins>.*

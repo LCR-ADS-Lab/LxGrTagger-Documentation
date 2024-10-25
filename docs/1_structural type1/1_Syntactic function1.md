@@ -15,6 +15,10 @@
     - *<ins>Since we **had** some time to spare,</ins> we decided to visit the museum.*
     - *<ins>While I **appreciate** classical music,</ins> I often listen to rock when I'm working out.*
     - *They kept playing, <ins>until it **started** to rain</ins>.* 
+4. Discussions
+    - Comparative structures (e.g., *being more unethical <ins>than if you indicate</ins>*) don’t pass movement tests for adverbials, and no other subordinator fits. Comparatives should be ignored in annotation.
+    - Multi-word subordinators (potentially be treated as a list): *as if, as though, even though, so that, such that, in order that, as long as.*
+
 
 ---
 

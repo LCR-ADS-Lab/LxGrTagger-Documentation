@@ -12,6 +12,12 @@
     - *We’re happy <ins>that the hunger strike has **ended**.</ins>*
     - *I'm glad <ins>that I **found** you again.</ins>*
     - *She was pleased <ins>that her family had remembered.</ins>*
+4. Discussions
+    - Comparative constructions should not be tagged.
+    - e.g., *so (ADV) ADJ that...*
+        - *It was **so simple that** it will become complex.*
+        - *It's only if the sample is **so bad, so contradictory to the hypothesis that** we're going to rejct it* 
+        - NOT tag either *become* or *reject* in two examples above.
 
 ## 1-5-2. extraposed adjective + *that*-complement clause 
 

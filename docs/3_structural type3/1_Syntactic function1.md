@@ -33,3 +33,9 @@
    - *Alright, we'll talk to you <ins>**in** the morning</ins>.*
    - *He left <ins>**because** of the rain</ins>.* (Q. Do we tag *because*? or *of*?)
    - *<ins>**During** the concert,</ins> they remained silent.*
+4. Discussions
+   - We are currently not tagging prepositional verbs, so the prepositions in such cases should be tagged.
+      - *...we're looking <ins>**at** the rate of return versus what?</ins>*
+   - Comparative constructions can be complex in English grammar, often involving combinations with prepositions. We currently tag these as prepositions.
+      - *She is as tall <ins>**as** her brother</ins>.*
+      - *He is taller <ins>**than** his friend</ins>.*
