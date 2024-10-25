@@ -74,6 +74,6 @@
        - *Thomas Edison, <ins>the famous **inventor**</ins>, made numerous advancements in technology.*
    - *My brother <ins>**John**</ins> is a painter.*
    - *My friend, <ins>an experienced **hiker**,</ins> has traveled far and wide.*
-   - *Now we chose this data set, oh um, the <ins>**rate**</ins>, let us say monthly interest rates.*
+   - *Now we chose this data set, oh um, <ins>the **rate**</ins>, let us say monthly interest rates.*
    - *Among the items included in the keyword list are: <ins>Job **titles**</ins> held by the applicants.*
-   - *We start with a sine wave grating of very low frequency (wide <ins>**bars**</ins>).*
+   - *We start with a sine wave grating of very low frequency (<ins>wide **bars**</ins>).*
