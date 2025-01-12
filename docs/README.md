@@ -6,7 +6,7 @@
 
 - In the process of constructing the guidelines, we primarily refer to the *Longman Grammar of Spoken and Written English* by Biber et al. (1999), paraphrasing the contents and specifying the referred pages. When citing other works, we include both the references and the specific page numbers.
 
-- Last updated: October 2024
+- Last updated: Jan. 2025
 
 ## Tagging scheme
 
