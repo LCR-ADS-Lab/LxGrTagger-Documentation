@@ -11,6 +11,8 @@
     - *He upset you very much, and I hate <ins>to **see** that</ins>.* (p. 199)
     - *I believe Mary <ins>to **be** innocent</ins>*. (Haegeman & Guéron, 1998, p. 126)
     - *I promised John <ins>to **buy** a new bicycle</ins>*. (Haegeman & Guéron, 1998, p. 35)
+4. Discussions
+   - An infinitive construction may express either the perfect aspect (e.g., *She seems <ins>to have **completed**</ins> the project on time.*) or the progressive aspect (e.g., *He appears <ins>to be **studying**</ins> for his exams.*). 
 
 ## 2-2-2. verb + *ing* complement clause
 
