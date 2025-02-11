@@ -16,7 +16,6 @@
 4. Discussions
    - **Q:** How should we treat the post-modifier adjective? (e.g., *He is a man **confident** of his capacity.*)
 
-
 ## 3-2-2. noun as noun pre-modifier
 1. Descriptions
    - Nouns as noun pre-modifiers (sometimes *noun adjunct*) are nouns that add specific information to the following noun.
@@ -47,6 +46,8 @@
    - *A group <ins>**of** students</ins> gathered in the hall.*
    - *The title <ins>**of** the book</ins> is harry potter and the cursed child.*
    - *... a war <ins>**of** words</ins>*
+4. Discussions
+   - Constructions involving a quantifier/number followed by *of* (e.g., *one of the, some of the, three of the*) are categorized with this tag.
    
 ## 3-2-4. other prepositional phrases as noun
 1. Descriptions
