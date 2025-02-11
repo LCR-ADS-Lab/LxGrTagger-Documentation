@@ -10,8 +10,8 @@ This section includes some of the pre-processing rules we discussed based on the
 The following semi-modals were pre-processed before parsing and tagging sentence structures: *have to, had to, got to, have/had got to, gotta, ought to, BE supposed to, BE going to, gonna, BE about to,* and *used to.*
 
 **Notes:**
-1. BE includes all its inflected forms for person and tense.
-2. *used to* is treated as a semi-modal only when it is **not** preceded by BE.
+- *BE* includes all its inflected forms for person and tense.
+- *used to* is treated as a semi-modal only when it is **not** preceded by *BE*.
 
 ## Passive
 
