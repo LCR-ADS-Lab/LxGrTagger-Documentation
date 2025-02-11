@@ -39,3 +39,4 @@
    - Comparative constructions can be complex in English grammar, often involving combinations with prepositions. We currently tag these as prepositions.
       - *She is as tall <ins>**as** her brother</ins>.*
       - *He is taller <ins>**than** his friend</ins>.*
+   - We defined a list of [multi‐word prepositions](../4_discussions/README.md/#multi-words-prepositions-and-subordinators).
