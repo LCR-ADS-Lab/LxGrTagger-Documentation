@@ -30,7 +30,6 @@
 4. Discussions
    - We tagged instances where proper nouns function as pre-modifiers in a noun phrase.
       - In such cases, only the last part of the proper noun phrases is tagged (e.g., *the <ins>Second World **War**</ins> decades*).
-      - When the proper noun is part of a coordinated structure, only the first proper noun is tagged (e.g., *the <ins>**Reform** and Conservative</ins> era*).
    - We did NOT tag numeric modifers (e.g., *eighty four hours*)
 
 ## 3-2-3. *of* phrases as noun
