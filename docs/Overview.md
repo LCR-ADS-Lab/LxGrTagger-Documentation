@@ -9,7 +9,7 @@ nav_order: 2
 
 The example image below shows the LxGrtagger’s analysis of a sentence. You can also try it yourself in the [web demo](https://kristopherkyle.pythonanywhere.com/).
 
-![Alt text](https://hksung.github.io/test/example.png)
+![Alt text](https://lcr-ads-lab.github.io/LxGrTagger-Documentation/example.png)
 
 Each token is placed in its own row, with columns describing the token’s form and syntactic function. Here is a brief explanation of the key columns:
 
