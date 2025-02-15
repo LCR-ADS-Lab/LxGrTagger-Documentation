@@ -39,6 +39,6 @@ Earlier discussions on the [verb complement clauses](2_Syntactic%20function2.htm
 
 **NP modifier vs. NP complement**   
 
-The relationsip between [NP modifers](3_Syntactic%20function3.html#1-3-noun-phrase-constituent-modifier) and NP complements are often ambiguous (p.644). 
+The relationsip between [NP modifers](/3_Syntactic%20function3.md) and NP complements are often ambiguous (p.644). 
 
 NP modifiers serve to describe and modify a noun by supplying additional details about the noun's characteristics. These modifiers append descriptive information but are not necessary for the grammatical integrity of the noun phrase. In contrast, NP complements are clauses or phrases that furnish complete information, which is crucial to understanding the noun's full meaning. NP complements are closely linked to the noun and are indispensable for the completeness of the noun phrase. For example, in the sentence *His assumption <ins>that the work was easy</ins> turned out to be wrong*, the NP complement clause *<ins>that the work was easy</ins>* is essential. Without this complement, the nature of the *assumption* would remain unclear.
