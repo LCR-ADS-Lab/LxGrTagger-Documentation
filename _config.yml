@@ -111,7 +111,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "LxGrTagger doc on GitHub":
-    - "https://lcr-ads-lab.github.io/LxGrTagger-Documentation/"
+    - "https://github.com/LCR-ADS-Lab/LxGrTagger-Documentation"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
