@@ -1,0 +1,1318 @@
+{"0": {
+    "doc": "cat1",
+    "title": "dem",
+    "content": ". | Descriptions . | demonstrative | (Content to be added) | . | Tag . | dem | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/10_pro/10_cat1/#dem",
+    
+    "relUrl": "/docs/sub-cx%20tags/10_pro/10_cat1/#dem"
+  },"1": {
+    "doc": "cat1",
+    "title": "1st",
+    "content": ". | Descriptions . | first person | (Content to be added) | . | Tag . | 1st | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/10_pro/10_cat1/#1st",
+    
+    "relUrl": "/docs/sub-cx%20tags/10_pro/10_cat1/#1st"
+  },"2": {
+    "doc": "cat1",
+    "title": "2nd",
+    "content": ". | Descriptions . | second person | (Content to be added) | . | Tag . | 2nd | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/10_pro/10_cat1/#2nd",
+    
+    "relUrl": "/docs/sub-cx%20tags/10_pro/10_cat1/#2nd"
+  },"3": {
+    "doc": "cat1",
+    "title": "3rd",
+    "content": ". | Descriptions . | third person | (Content to be added) | . | Tag . | 3rd | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/10_pro/10_cat1/#3rd",
+    
+    "relUrl": "/docs/sub-cx%20tags/10_pro/10_cat1/#3rd"
+  },"4": {
+    "doc": "cat1",
+    "title": "othr",
+    "content": ". | Descriptions . | other | (Content to be added) | . | Tag . | othr | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/10_pro/10_cat1/#othr",
+    
+    "relUrl": "/docs/sub-cx%20tags/10_pro/10_cat1/#othr"
+  },"5": {
+    "doc": "cat1",
+    "title": "cat1",
+    "content": ". | dem | 1st | 2nd | 3rd | othr | . ",
+    "url": "/docs/sub-cx%20tags/10_pro/10_cat1/",
+    
+    "relUrl": "/docs/sub-cx%20tags/10_pro/10_cat1/"
+  },"6": {
+    "doc": "cat2",
+    "title": "sg",
+    "content": ". | Descriptions . | singular | (Content to be added) | . | Tag . | sg | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/10_pro/10_cat2/#sg",
+    
+    "relUrl": "/docs/sub-cx%20tags/10_pro/10_cat2/#sg"
+  },"7": {
+    "doc": "cat2",
+    "title": "pl",
+    "content": ". | Descriptions . | plural | (Content to be added) | . | Tag . | pl | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/10_pro/10_cat2/#pl",
+    
+    "relUrl": "/docs/sub-cx%20tags/10_pro/10_cat2/#pl"
+  },"8": {
+    "doc": "cat2",
+    "title": "cat2",
+    "content": ". | sg | pl | . ",
+    "url": "/docs/sub-cx%20tags/10_pro/10_cat2/",
+    
+    "relUrl": "/docs/sub-cx%20tags/10_pro/10_cat2/"
+  },"9": {
+    "doc": "cat1",
+    "title": "comp_that",
+    "content": ". | Descriptions . | that complementizer | (Content to be added) | . | Tag . | comp_that | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/11_comp/11_cat1/#comp_that",
+    
+    "relUrl": "/docs/sub-cx%20tags/11_comp/11_cat1/#comp_that"
+  },"10": {
+    "doc": "cat1",
+    "title": "comp_wh",
+    "content": ". | Descriptions . | wh complementizer | (Content to be added) | . | Tag . | comp_wh | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/11_comp/11_cat1/#comp_wh",
+    
+    "relUrl": "/docs/sub-cx%20tags/11_comp/11_cat1/#comp_wh"
+  },"11": {
+    "doc": "cat1",
+    "title": "cat1",
+    "content": ". | comp_that | comp_wh | . ",
+    "url": "/docs/sub-cx%20tags/11_comp/11_cat1/",
+    
+    "relUrl": "/docs/sub-cx%20tags/11_comp/11_cat1/"
+  },"12": {
+    "doc": "cat1",
+    "title": "relpro_that",
+    "content": ". | Descriptions . | that relative pronoun | (Content to be added) | . | Tag . | relpro_that | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/12_relpro/12_cat1/#relpro_that",
+    
+    "relUrl": "/docs/sub-cx%20tags/12_relpro/12_cat1/#relpro_that"
+  },"13": {
+    "doc": "cat1",
+    "title": "relpro_wh",
+    "content": ". | Descriptions . | wh relative pronoun | (Content to be added) | . | Tag . | relpro_wh | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/12_relpro/12_cat1/#relpro_wh",
+    
+    "relUrl": "/docs/sub-cx%20tags/12_relpro/12_cat1/#relpro_wh"
+  },"14": {
+    "doc": "cat1",
+    "title": "cat1",
+    "content": ". | relpro_that | relpro_wh | . ",
+    "url": "/docs/sub-cx%20tags/12_relpro/12_cat1/",
+    
+    "relUrl": "/docs/sub-cx%20tags/12_relpro/12_cat1/"
+  },"15": {
+    "doc": "Adverbial",
+    "title": "Adverbial",
+    "content": " ",
+    "url": "/docs/cx%20tags/1_Finite%20Clause/1_Syntactic%20function1/",
+    
+    "relUrl": "/docs/cx%20tags/1_Finite%20Clause/1_Syntactic%20function1/"
+  },"16": {
+    "doc": "Adverbial",
+    "title": "finite adverbial clause",
+    "content": ". | Descriptions . | Adverbial clauses serve the role of adverbs of the main clause, generally describing additional circumstances (p. 194). | Similar to adverbials in general, they are optional; flexibility in their positioning within the sentence (either the beginning, middle, or end) | They are marked by a subordinator (e.g., because, although, if, etc., p. 85) that shows the relationship to the main clause. | . | Tag . | finitecls+advl is tagged on the main verb of the adverbial clause. | . | Examples . | She won’t narc on me, because she prides herself on being a gangster. | Well, if I stay here, I’ll have to leave early in the morning. | He couldn’t see the stage, although he stood on his tiptoes. | Since we had some time to spare, we decided to visit the museum. | While I appreciate classical music, I often listen to rock when I’m working out. | They kept playing, until it started to rain. | . | Discussions . | Comparative structures (e.g., being more unethical than if you indicate) don’t pass movement tests for adverbials, and no other subordinator fits. Comparatives should be ignored in annotation. | Multi-word subordinators (potentially be treated as a list): as if, as though, even though, so that, such that, in order that, as long as. | . | . Finite (dependent) adverbial clauses . Finite adverbial clauses enrich sentences by providing detailed and complex information through various syntactic functions and complexity features. Following are some characteristics (pp. 826-828). | Finite adverbial clauses typically require a subordinator and articulate a broad spectrum of semantic relationships such as time, manner, reason/cause, result, concession, and condition. | Finite clauses have the advantage of an explicitly stated subject, allowing for different subjects in the adverbial and main clauses, enriching the information conveyed. In contrast, non-finite clauses often lack an explicit subject, usually assuming the subject of the main clause. | Finite clauses enable diverse tense or modality marking within the adverbial clause, distinct from the main clause, crucial for expressing various semantic relationships. The use of different tenses or modalities in the adverbial and main clauses illustrates time, purpose, concession, and reason. Hypothetical conditional clauses (e.g., if) utilize tense and modality differences to express hypothetical meanings. | . ",
+    "url": "/docs/cx%20tags/1_Finite%20Clause/1_Syntactic%20function1/#finite-adverbial-clause",
+    
+    "relUrl": "/docs/cx%20tags/1_Finite%20Clause/1_Syntactic%20function1/#finite-adverbial-clause"
+  },"17": {
+    "doc": "Adverbial",
+    "title": "Adverbial",
+    "content": " ",
+    "url": "/docs/cx%20tags/3_Dependent%20Phrase/1_Syntactic%20function1/",
+    
+    "relUrl": "/docs/cx%20tags/3_Dependent%20Phrase/1_Syntactic%20function1/"
+  },"18": {
+    "doc": "Adverbial",
+    "title": "adverb phrase",
+    "content": ". | Descriptions . | An adverb phrase is adverbial when an adverb phrase is used to modify a verb or an entire sentence. | Adverbial adverb phrases give more information about when, where, how, what degree, or under what conditions applied to the component they modify. | . | Tag . | rb+advl is tagged on the adverb of the adverb phrase. | . | Examples . | They arrived before sunrise | I will see you later tonight. | I raved about it afterwards. | He entered the room quietly. | . | Discussions . | We do NOT tag linking adverbs such as however, so, therefore, thus, etc. | He was feeling bad. He went to work, however, and tried to concentrate. | So there’s nothing we can do about it? | . | . | . ",
+    "url": "/docs/cx%20tags/3_Dependent%20Phrase/1_Syntactic%20function1/#adverb-phrase",
+    
+    "relUrl": "/docs/cx%20tags/3_Dependent%20Phrase/1_Syntactic%20function1/#adverb-phrase"
+  },"19": {
+    "doc": "Adverbial",
+    "title": "preposition phrase",
+    "content": ". | Descriptions . | A prepositional phrase as adverbial is tagged when a prepositional phrase acts like an adverbial, modifying a verb or entire sentence. | Adverbial prepositional phrases typically correspond to one of these major groups: . | Location/Place: conveys distance, direction, or position (she sat on the bench) | Time: indicate position in time, duration, frequency, or the temporal relation between two states (We will leave in the morning) | Process: describe the way something was done, as comparison between two states, accompaniment/grouping, demonstrate the explicit means through which an action was carried out, the item relevant to the state, or the agent of an action. (He spoke with enthusiasm) | Contingency: describe the cause, reason, purpose, concession, condition, and/or result (She could not see you under the spotlight) | . | They cannot exist on their own due to being depedent phrases. | . | Tag . | in+advl is tagged on the preposotion of the prepositional phrase. | . | Examples . | Alright, we’ll talk to you in the morning. | He left because of the rain. (Q. Do we tag because? or of?) | During the concert, they remained silent. | . | Discussions . | We are currently not tagging prepositional verbs, so the prepositions in such cases should be tagged. | …we’re looking at the rate of return versus what? | . | Comparative constructions can be complex in English grammar, often involving combinations with prepositions. We currently tag these as prepositions. | She is as tall as her brother. | He is taller than his friend. | . | We defined a list of multi‐word prepositions. | . | . ",
+    "url": "/docs/cx%20tags/3_Dependent%20Phrase/1_Syntactic%20function1/#preposition-phrase",
+    
+    "relUrl": "/docs/cx%20tags/3_Dependent%20Phrase/1_Syntactic%20function1/#preposition-phrase"
+  },"20": {
+    "doc": "Adverbial",
+    "title": "Adverbial",
+    "content": " ",
+    "url": "/docs/cx%20tags/2_Non-finite%20Clause/1_Syntactic%20function1/",
+    
+    "relUrl": "/docs/cx%20tags/2_Non-finite%20Clause/1_Syntactic%20function1/"
+  },"21": {
+    "doc": "Adverbial",
+    "title": "to-clause as adverbial",
+    "content": ". | Descriptions . | To-clauses as purpose adverbials indicate the reason or intention behind the main action of a sentence. | They are introduced by to- or a deleted to-: . | Surrey police say the film would help [to] identify participants at the weekend party | . | . | Tag . | tocls+advl is tagged on the main verb of the to-adverbial clause. | . | Examples . | To verify this hypothesis, sections of fixed cells were examined. | We eat to survive. | I have brought you all here today to tell you about my evil plan. | Reforming is the process whereby straight-run gasoline is cracked (in order) to raise the octane number. (Biber et al., 2007, p. 827) | . | . ",
+    "url": "/docs/cx%20tags/2_Non-finite%20Clause/1_Syntactic%20function1/#to-clause-as-adverbial",
+    
+    "relUrl": "/docs/cx%20tags/2_Non-finite%20Clause/1_Syntactic%20function1/#to-clause-as-adverbial"
+  },"22": {
+    "doc": "Adverbial",
+    "title": "ing-clause as adverbial",
+    "content": ". | Descriptions . | An ing-clause can be used as an adverbial to modify a verb, an adjective, or an entire sentence. This is often employed to add information about the time, manner, reason, condition, or circumstance of the action described by the main verb. | Dangling participles occur when a participial phrase (an ing-clause or an ed-clause used adverbially) lacks a clear subject, leading to ambiguity or a mismatch between the intended subject and the grammatical subject of the main clause (p. 829). (Q-HS: should we include this case?) . | Running to catch the bus, the wallet fell out of my pocket. (The wallet is not running; the implied subject is the person.) | . | . | Tag . | ingcls+advl is tagged on the main verb of the ing-adverbial clause. | . | Examples . | Considering mammals’ level of physical development, the diversity of this species is astounding. | Running along the beach, she found a rare shell. (time) | Feeling hungry, he stopped at the nearest restaurant. (reason) | Providing you finish your homework, you can watch TV. (condition) | Knowing the risks involved, she still decided to go paragliding. (concession) | Speaking softly, he conveyed the bad news. | . | Discussions . | Fate was at my elbow urging me to make a choice. | . | Q: Is this a post-modifier (modifying “fate”; describing what “fate” was doing at the elbow) or an adverbial clause (suggesting ‘fate was at my elbow because it was urging me…’)? | A: We’d call this a non-finite ing-adverbial clause. Normally, these ING clauses should have the same understood subject as the main clause (or else they would be dangling participles - which certainly do occur also…). | . | . | I was sleeping right under the fan on Chad’s bed, with a big bust of Goethe staring at me. | Q: Should we categorize with-prepositional phrases that contain ‘-ing’ (or ‘-ed’) forms acting as adverbials? | A: The ‘with’-phrase is definitely a PP-adverbial. But this example is tricky to decide on the function of the ING-clauses. The best guess (based on the context) could be that these are prepositional complement clauses. The NP preceding the ING-verbs is functioning as the subject of the non-finite clause. | . | Feeling rather foolish after having been so easily caught in my attempt to escape from him, which was rather mean since he was a guest and there was no need for me to be ill-mannered just because he was, I agreed. | Q: Is … having been caught … an ing-clause? ed-clause? Something else? | A: ‘AFTER’ is a preposition, and ‘AFTER…’ is a PP-adverbial (modifying ‘FEELING’. Then, ‘having …’ is an ING non-finite prepositional complement clause. | . | She nodded at him, eyes closing. | Q: Does this phrase function as an adverbial clause, clarifying the subject (eyes) to avoid ambiguity or a mismatch between the intended and the grammatical subject? | A: Yes. This would be considered a dangling participle (by a prescriptivist). | . | . ",
+    "url": "/docs/cx%20tags/2_Non-finite%20Clause/1_Syntactic%20function1/#ing-clause-as-adverbial",
+    
+    "relUrl": "/docs/cx%20tags/2_Non-finite%20Clause/1_Syntactic%20function1/#ing-clause-as-adverbial"
+  },"23": {
+    "doc": "Adverbial",
+    "title": "ed-clause as adverbial",
+    "content": ". | Descriptions . | An ed-clause can be used as an adverbial to modify a verb, an adjective, or an entire sentence. This is often employed to add information about comparisons between, levels of expectation of, or some other modification of the action described by the main verb. | . | Tag . | edcls+advl is tagged on the main verb of the ed-adverbial clause. | . | Examples . | When told by police how badly injured his victims were he said: “Good, I hope they die.” | We measured a seasonal total of 56.99 on precipitation in the two caged rain gauges, compared to 56.78 cm on the open plots. | I went on waiting, tinged with doubt. | As expected, the volume of retail sales rose 0.5 per cent in August. | . | Discussions . | Having been his wife I know it more clearly. | . | Q: Is this an ing-clause? ed-clause? Something else? | A: We would call this an ing- (non-finite) adverbial clause. | A(added 0911): This might be an ed- adverbial clause, so the word been needs to be tagged instead? | . | . | Hirschman has noted that “the assimilation perspective, broadly defined, continues to be the primary theoretical framework…” . | Q: Does this count as an ed-clause as adverbial, or is it simply modifying perspective? | A: We would agree with the second analysis. It is interpreted as that the non-finite -ed clause is modifying the head noun ‘perspective’. | . | Just sacked, or rather resigned, with all that money; the obvious thing to do would be go home to his room or to have a drink. | Q: Do we treat the section before the semicolon as a finite clause? If not, are both just sacked and resigned examples of an ed-clause as adverbial? | A: This looks like creative writing, and the author is playing with grammar. We’d say ‘just sacked’ is a non-finite ed-adverbial clause. And ‘resigned’ looks parallel. But it is not possible for someone to ‘BE resigned’ in the sense that they were sacked. So, the guess ‘resigned’ is an adjective – although it seems the author is intending for us to understand that this has a passive-voice sense (i.e. the person ‘was resigned’ by someone). | . | . Adverbial clauses . | Adverbial clauses modify the main clause by providing additional information such as time, reason, condition, concession, and manner. Commonly introduced by subordinating conjunctions, adverbial clauses are dependent clauses that cannot stand alone as complete sentences. | These clauses can appear in various positions within the sentence, either at the beginning, middle, or end, depending on the emphasis and rhythm desired in the discourse. | . ",
+    "url": "/docs/cx%20tags/2_Non-finite%20Clause/1_Syntactic%20function1/#ed-clause-as-adverbial",
+    
+    "relUrl": "/docs/cx%20tags/2_Non-finite%20Clause/1_Syntactic%20function1/#ed-clause-as-adverbial"
+  },"24": {
+    "doc": "cat1",
+    "title": "pl",
+    "content": ". | Descriptions . | plural | (Content to be added) | . | Tag . | pl | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/1_nn/1_cat1/#pl",
+    
+    "relUrl": "/docs/sub-cx%20tags/1_nn/1_cat1/#pl"
+  },"25": {
+    "doc": "cat1",
+    "title": "cat1",
+    "content": ". | pl | . ",
+    "url": "/docs/sub-cx%20tags/1_nn/1_cat1/",
+    
+    "relUrl": "/docs/sub-cx%20tags/1_nn/1_cat1/"
+  },"26": {
+    "doc": "cat2",
+    "title": "nom",
+    "content": ". | Descriptions . | nominalization | (Content to be added) | . | Tag . | nom | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/1_nn/1_cat2/#nom",
+    
+    "relUrl": "/docs/sub-cx%20tags/1_nn/1_cat2/#nom"
+  },"27": {
+    "doc": "cat2",
+    "title": "proper",
+    "content": ". | Descriptions . | proper | (Content to be added) | . | Tag . | proper | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/1_nn/1_cat2/#proper",
+    
+    "relUrl": "/docs/sub-cx%20tags/1_nn/1_cat2/#proper"
+  },"28": {
+    "doc": "cat2",
+    "title": "title",
+    "content": ". | Descriptions . | title | (Content to be added) | . | Tag . | title | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/1_nn/1_cat2/#title",
+    
+    "relUrl": "/docs/sub-cx%20tags/1_nn/1_cat2/#title"
+  },"29": {
+    "doc": "cat2",
+    "title": "cat2",
+    "content": ". | nom | proper | title | . ",
+    "url": "/docs/sub-cx%20tags/1_nn/1_cat2/",
+    
+    "relUrl": "/docs/sub-cx%20tags/1_nn/1_cat2/"
+  },"30": {
+    "doc": "cat3",
+    "title": "npremod",
+    "content": ". | Descriptions . | premodifier | (Content to be added) | . | Tag . | npremod | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/1_nn/1_cat3/#npremod",
+    
+    "relUrl": "/docs/sub-cx%20tags/1_nn/1_cat3/#npremod"
+  },"31": {
+    "doc": "cat3",
+    "title": "nappos",
+    "content": ". | Descriptions . | appositive | (Content to be added) | . | Tag . | nappos | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/1_nn/1_cat3/#nappos",
+    
+    "relUrl": "/docs/sub-cx%20tags/1_nn/1_cat3/#nappos"
+  },"32": {
+    "doc": "cat3",
+    "title": "sgen",
+    "content": ". | Descriptions . | genetive s | (Content to be added) | . | Tag . | sgen | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/1_nn/1_cat3/#sgen",
+    
+    "relUrl": "/docs/sub-cx%20tags/1_nn/1_cat3/#sgen"
+  },"33": {
+    "doc": "cat3",
+    "title": "cat3",
+    "content": ". | npremod | nappos | sgen | . ",
+    "url": "/docs/sub-cx%20tags/1_nn/1_cat3/",
+    
+    "relUrl": "/docs/sub-cx%20tags/1_nn/1_cat3/"
+  },"34": {
+    "doc": "Noun phrase modifier",
+    "title": "Noun phrase modifier",
+    "content": " ",
+    "url": "/docs/cx%20tags/3_Dependent%20Phrase/2_Syntactic%20function2/",
+    
+    "relUrl": "/docs/cx%20tags/3_Dependent%20Phrase/2_Syntactic%20function2/"
+  },"35": {
+    "doc": "Noun phrase modifier",
+    "title": "attributive adjectives as noun pre-modifier",
+    "content": ". | Descriptions . | Attributive adjectives are adjectives describing particular attributes of the noun they modify. | They are pre-modifiers because they come before the noun they modify. | This category excludes cases where an attributive adjective serves as a complement to a copular verb (e.g., this project is good) | . | Tag . | attr+npremod is tagged on the attributive adjective. | In cases where multiple adjectives are included, tag each one (as in the third example below). | . | Examples . | He struggled to read the emotional inquiry. | She drives a very fast car. | The small, antique, wooden chest held many treasures. | They bought a beautiful home. | . | Discussions . | Q: How should we treat the post-modifier adjective? (e.g., He is a man confident of his capacity.) | . | . ",
+    "url": "/docs/cx%20tags/3_Dependent%20Phrase/2_Syntactic%20function2/#attributive-adjectives-as-noun-pre-modifier",
+    
+    "relUrl": "/docs/cx%20tags/3_Dependent%20Phrase/2_Syntactic%20function2/#attributive-adjectives-as-noun-pre-modifier"
+  },"36": {
+    "doc": "Noun phrase modifier",
+    "title": "noun as noun pre-modifier",
+    "content": ". | Descriptions . | Nouns as noun pre-modifiers (sometimes noun adjunct) are nouns that add specific information to the following noun. | These nouns often communicate meaning related the purpose, type, ownership, or material among other qualities of nouns they modify. | . | Tag . | nn+npremod is tagged on the pre-modifying noun. | . | Examples . | The pilot’s license needed to be reviewed by the avitation security committee. | He barely passed fighter pilot training. | She placed her coffee cup on the table. | The city council is considering a new traffic regulation proposal. | . | Discussions . | We tagged instances where proper nouns function as pre-modifiers in a noun phrase. | In such cases, only the last part of the proper noun phrases is tagged (e.g., the Second World War decades). | . | We did NOT tag numeric modifers (e.g., eighty four hours) | . | . ",
+    "url": "/docs/cx%20tags/3_Dependent%20Phrase/2_Syntactic%20function2/#noun-as-noun-pre-modifier",
+    
+    "relUrl": "/docs/cx%20tags/3_Dependent%20Phrase/2_Syntactic%20function2/#noun-as-noun-pre-modifier"
+  },"37": {
+    "doc": "Noun phrase modifier",
+    "title": "of phrases as noun",
+    "content": ". | Descriptions . | of phrases modify nouns and articulate a variety of relationships between nouns, linked by of. These phrases follow the noun they modify, serving as a post-modifer. They can indicate relationships including possession (i.e., genitive, part-whole, association, or classification. | The of phrase comes after the noun it relates to, therefore being considered a post-modifier. | . | Tag . | of+npostmod is tagged on the of of the of phrase. | . | Examples . | The sound of music was soothing. | McKenna wrote about the origins of human language. | She is the CEO of the company. | A group of students gathered in the hall. | The title of the book is harry potter and the cursed child. | … a war of words | . | Discussions . | Constructions involving a quantifier/number followed by of (e.g., one of the, some of the, three of the) are categorized with this tag. | . | . ",
+    "url": "/docs/cx%20tags/3_Dependent%20Phrase/2_Syntactic%20function2/#of-phrases-as-noun",
+    
+    "relUrl": "/docs/cx%20tags/3_Dependent%20Phrase/2_Syntactic%20function2/#of-phrases-as-noun"
+  },"38": {
+    "doc": "Noun phrase modifier",
+    "title": "other prepositional phrases as noun",
+    "content": ". | Descriptions . | This tag includes all other prepositional phrases (except for of) that follow a noun and modify it. | . | Tag . | in+npostmod is tagged on the preposition of the prepositional phrase. | . | Examples . | The painting in the corner caught my eye. | The conference on global warming was very informative. | Your cake with chocolate icing was delicious. | Children under twelve get in for free. | . | . ",
+    "url": "/docs/cx%20tags/3_Dependent%20Phrase/2_Syntactic%20function2/#other-prepositional-phrases-as-noun",
+    
+    "relUrl": "/docs/cx%20tags/3_Dependent%20Phrase/2_Syntactic%20function2/#other-prepositional-phrases-as-noun"
+  },"39": {
+    "doc": "Noun phrase modifier",
+    "title": "appositive noun phrases as noun",
+    "content": ". | Descriptions . | Noun phrases in apposition (appositive) have equivalent status with the preceding (head) noun phrase. | The order of the head noun phrase and the appositive could (nomally) be reversed to produce an equal grammatical construction with basically the same meaning. | . | They provide descriptive information about the head noun but are not needed to identify the reference of the head noun. | . | Tag . | appos+npostmod is tagged on the head noun of the appositive phrase. | When there are more than two tokens in the appositive, we tagged on the last word token. | . | Examples . | The capital city, Paris, is the heart of France. | Paris, the capital city, is the heart of France. | . | The famous inventor Thomas Edison made numerous advancements in technology. (Notes. When the noun phrase is a proper noun, we tag on the last name.) . | Thomas Edison, the famous inventor, made numerous advancements in technology. | . | My brother John is a painter. | My friend, an experienced hiker, has traveled far and wide. | Now we chose this data set, oh um, the rate, let us say monthly interest rates. | Among the items included in the keyword list are: Job titles held by the applicants. | We start with a sine wave grating of very low frequency (wide bars). | . | . ",
+    "url": "/docs/cx%20tags/3_Dependent%20Phrase/2_Syntactic%20function2/#appositive-noun-phrases-as-noun",
+    
+    "relUrl": "/docs/cx%20tags/3_Dependent%20Phrase/2_Syntactic%20function2/#appositive-noun-phrases-as-noun"
+  },"40": {
+    "doc": "Verb complement",
+    "title": "Verb complement",
+    "content": " ",
+    "url": "/docs/cx%20tags/1_Finite%20Clause/2_Syntactic%20function2/",
+    
+    "relUrl": "/docs/cx%20tags/1_Finite%20Clause/2_Syntactic%20function2/"
+  },"41": {
+    "doc": "Verb complement",
+    "title": "verb + that-complement",
+    "content": ". | Descriptions . | Verbs controlling that-clauses are categorized into three domains (p. 661): . | Mental verbs: Pertaining to cognition and often including emotive/affective content (e.g., hope, believe, feel, find, guess, know, see, think, assume, conclude). | Speech act verbs: Specifically denote speech activities (e.g., say, admit, agree, announce, argue, bet, insist). | Other communication verbs: May not directly involve speech (e.g., show, suggest, ensure, indicate, prove). | . | . | Tag . | thatcls+vcomp (including a ZERO complementizer) is tagged to the main verb within the that-complement clause. | . | Examples . | I didn’t agree that he should be compelled to do singing. (p. 661) | I suggested that she sit down on the chair and wait. (p. 662) | I would hope that we can have more control over them. | I propose that Mary should be invited. (Haegeman &amp; Guéron, 1998, p. 441) | . | Discussions . | It seems that he brought that cup to his house. | Q: How do we tag extraposing verbs? | Q: Should we include if/wether-complement clause here? or into the next category? | . | . ",
+    "url": "/docs/cx%20tags/1_Finite%20Clause/2_Syntactic%20function2/#verb--that-complement",
+    
+    "relUrl": "/docs/cx%20tags/1_Finite%20Clause/2_Syntactic%20function2/#verb--that-complement"
+  },"42": {
+    "doc": "Verb complement",
+    "title": "verb + wh-complement",
+    "content": ". | Descriptions . | wh-clauses can be either dependent (1) interrogative clauses or (2) nominal relative clauses (p. 683). | Common wh-words: what, who, where, when, why, how, and whether | Types: . | Interrogative clauses: Used with verbs like ask and wonder to present indirect questions. | e.g., I wonder what that could be about. | . | Nominal relative clauses: Can be paraphrased by a general head noun modified by the wh-clause (e.g., Whoever solves this problem will be successful. → The person who solves this problem will be successful.) . | e.g., What baffles me is how few of them can spell. | . | . | . | Tag . | whcls+vcomp is tagged on the main verb of the wh-complement clause. | . | Examples . | I don’t know how they do it. | She showed me where we should plant the tree. | He described what he saw at the event. | No one knows how long the journey will take. | “What I don’t understand,” she said, “is why they don’t let me know anything.” (p. 193) | that’s how I did it. (dataset) | . | . Complements . Complements are often required to form a grammatically complete and meaningful sentence. Consider the following examples, where grammatically incorrect sentences are indicated with * (Haegeman &amp; Guéron, 1998, pp. 21-22): . | a. He abandoned the project. | b. *He abandoned. | c. *He abandoned after the project. | d. He abandoned the book. | e. He abandoned the project, then the book. | . These examples show that the verb abandon must be followed by a noun phrase (e.g., the project). If the verb is not accompanied by a noun phrase, the sentence is incomplete and therefore ungrammatical (as seen in examples b and c). Verb complement clauses . Verb complement clauses are dependent clauses that serve to complete the meaning of a verb in a main clause (e.g., I think that this doc looks good; that-clause functions a complement to the verb think). These clauses are also called nominal clauses because they frequently occupy a noun phrase slot in the sentence, acting as subjects, objects, or predicatives. Depending on the controlling predicate, they can be found in both pre-predicate (subject) and post-predicate (e.g., direct object) positions (For more information, see Chapter 9). However, complement clauses can also complete the meaning of an adjectival predicate rather than a verb in the main clause (e.g., I’ve gotta be careful that I don’t sound too formal). Here, the term predicate refers to both lexical verbs and copula+adjective combinations capable of governing a complement clause. This aspect will be further explored in the section on other phrase constituent: adjective complement. There are four types of verb complement clauses: (1) that-clause, (2) wh-clause, (3) to-infinitive clause, and (4) ing-clause. In this section, (1) and (2) are discussed because they are finite clauses, while (3) and (4) will be discussed in the section on non-finite clause constituent verb complements because they are non-finite clauses. ",
+    "url": "/docs/cx%20tags/1_Finite%20Clause/2_Syntactic%20function2/#verb--wh-complement",
+    
+    "relUrl": "/docs/cx%20tags/1_Finite%20Clause/2_Syntactic%20function2/#verb--wh-complement"
+  },"43": {
+    "doc": "Verb complement",
+    "title": "Verb complement",
+    "content": " ",
+    "url": "/docs/cx%20tags/2_Non-finite%20Clause/2_Syntactic%20function2/",
+    
+    "relUrl": "/docs/cx%20tags/2_Non-finite%20Clause/2_Syntactic%20function2/"
+  },"44": {
+    "doc": "Verb complement",
+    "title": "verb + to complement clause",
+    "content": ". | Descriptions . | Infinitive clauses can have a range of syntactic roles which include direct objects (pp. 198-199). | . | Tag . | tocls+vcomp is tagged on the main verb of the to complement clause. | . | Examples . | I really want to fix this room up. | He upset you very much, and I hate to see that. (p. 199) | I believe Mary to be innocent. (Haegeman &amp; Guéron, 1998, p. 126) | I promised John to buy a new bicycle. (Haegeman &amp; Guéron, 1998, p. 35) | . | Discussions . | An infinitive construction may express either the perfect aspect (e.g., She seems to have completed the project on time.) or the progressive aspect (e.g., He appears to be studying for his exams.). | . | . ",
+    "url": "/docs/cx%20tags/2_Non-finite%20Clause/2_Syntactic%20function2/#verb--to-complement-clause",
+    
+    "relUrl": "/docs/cx%20tags/2_Non-finite%20Clause/2_Syntactic%20function2/#verb--to-complement-clause"
+  },"45": {
+    "doc": "Verb complement",
+    "title": "verb + ing complement clause",
+    "content": ". | Descriptions . | Similar to the infinitive clauses, ing complement clauses can also act as a complement to the main verb. | This structure is commonly known as the gerund. Gerunds function as a hybrid category, possessing characteristics of both verbs and nouns (Haegeman &amp; Guéron, 1998, p.481). | . | Tag . | ingcls+vcomp is tagged on the main verb of the ing complement clause. | . | Examples . | I like watching the traffic go by. | I started thinking about Christmas. (p. 200) | It’s as if the guy never stops thinking about the issue. (p.200) | I enjoy running in the morning. | He considers moving to a new city. | He avoids talking about his problems. | . | Discussions . | Several of the controlling verbs related this tag are not transitive (e.g., come, go, stand, and sit). In such cases, the -ing clause does not function as a direct object but still acts as a complement to the verb and is therefore tagged as such. | He sat waiting for the bus. | She stood staring at the stars. | They went running in the park. | The ship came plowing through the waves. | . | . | . ",
+    "url": "/docs/cx%20tags/2_Non-finite%20Clause/2_Syntactic%20function2/#verb--ing-complement-clause",
+    
+    "relUrl": "/docs/cx%20tags/2_Non-finite%20Clause/2_Syntactic%20function2/#verb--ing-complement-clause"
+  },"46": {
+    "doc": "cat1",
+    "title": "attrb",
+    "content": ". | Descriptions . | attributive | (Content to be added) | . | Tag . | attrb | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/2_jj/2_cat1/#attrb",
+    
+    "relUrl": "/docs/sub-cx%20tags/2_jj/2_cat1/#attrb"
+  },"47": {
+    "doc": "cat1",
+    "title": "pred",
+    "content": ". | Descriptions . | predicative | (Content to be added) | . | Tag . | pred | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/2_jj/2_cat1/#pred",
+    
+    "relUrl": "/docs/sub-cx%20tags/2_jj/2_cat1/#pred"
+  },"48": {
+    "doc": "cat1",
+    "title": "cat1",
+    "content": ". | attrb | pred | . ",
+    "url": "/docs/sub-cx%20tags/2_jj/2_cat1/",
+    
+    "relUrl": "/docs/sub-cx%20tags/2_jj/2_cat1/"
+  },"49": {
+    "doc": "cat2",
+    "title": "ing",
+    "content": ". | Descriptions . | present participle | (Content to be added) | . | Tag . | ing | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/2_jj/2_cat2/#ing",
+    
+    "relUrl": "/docs/sub-cx%20tags/2_jj/2_cat2/#ing"
+  },"50": {
+    "doc": "cat2",
+    "title": "ed",
+    "content": ". | Descriptions . | past participle | (Content to be added) | . | Tag . | ed | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/2_jj/2_cat2/#ed",
+    
+    "relUrl": "/docs/sub-cx%20tags/2_jj/2_cat2/#ed"
+  },"51": {
+    "doc": "cat2",
+    "title": "cat2",
+    "content": ". | ing | ed | . ",
+    "url": "/docs/sub-cx%20tags/2_jj/2_cat2/",
+    
+    "relUrl": "/docs/sub-cx%20tags/2_jj/2_cat2/"
+  },"52": {
+    "doc": "Adjective complement",
+    "title": "Adjective complement",
+    "content": " ",
+    "url": "/docs/cx%20tags/3_Dependent%20Phrase/3_Syntactic%20function3/",
+    
+    "relUrl": "/docs/cx%20tags/3_Dependent%20Phrase/3_Syntactic%20function3/"
+  },"53": {
+    "doc": "Adjective complement",
+    "title": "preposition phrases as adjective complement",
+    "content": ". | Descriptions . | Prepositional phrases can function as adjective complements when they follow an adjective and complete/enhance its meaning. | They begin with prepositions, commonly in, about, to, etc. | They cannot exist on their own due to being depedent (non-clausal) phrases. | . | Tag . | in+jcomp is tagged on the preposition of the complement prepositional phrase. | . | Examples . | The solution was obvious to everyone in the room. | She was happy about the promotion. | He is interested in ancient history. | The novel is relevant to current events. | . | Discussions . | …two is bigger than point one . | Q: We understand that the comparative structure is not a typical prepositional phrase as an adjective complement (e.g., I am happy about the solution). However, this structure does still fit the pattern of adjective + preposition (than) +noun phrase. Should we include it in this tag, or should comparatives simply be considered a different structure/pattern? | A: We’d vote for comparatives being a different structure. There are many different structural options for creating comparatives in English, and they are all idiosyncratic. | . | . | . ",
+    "url": "/docs/cx%20tags/3_Dependent%20Phrase/3_Syntactic%20function3/#preposition-phrases-as-adjective-complement",
+    
+    "relUrl": "/docs/cx%20tags/3_Dependent%20Phrase/3_Syntactic%20function3/#preposition-phrases-as-adjective-complement"
+  },"54": {
+    "doc": "Noun phrase modifier",
+    "title": "Noun phrase modifier",
+    "content": " ",
+    "url": "/docs/cx%20tags/1_Finite%20Clause/3_Syntactic%20function3/",
+    
+    "relUrl": "/docs/cx%20tags/1_Finite%20Clause/3_Syntactic%20function3/"
+  },"55": {
+    "doc": "Noun phrase modifier",
+    "title": "noun + finite relative clause",
+    "content": ". | Descriptions . | A finite relative clause follows the head noun phrase and contains a relativizer (a relative pronoun or adverb). | Relativizers are one of: . | Relative pronoun: which, who, whom, whose, that | Relative adverb: where, when, why, how | Zero relativizer: relativizer is ommited | . | Nominal postmodifiers are different from noun phrase complement clauses (p. 644, see the next section on noun phrase constituent: complement) | . | Tag . | finitecls+rel is tagged on the main verb of the that- of wh- relative clause (also include the relative clause with deleted relative pronoun). | . | Examples . | The lowest pressure ratio which will give an acceptable performance is always chosen. (p. 608) | There are plenty of existing owners who are already keen to make the move. (p. 608) | There was a slight, furtive boy whom no one knew. (p.608) | It was good for the fans, whose support so far this season has been fantastic. (p.608) | Zero relativizer: . | The next thing [that] she knows, she’s talking to Danny. (p.609) | Gwen gave the little frowning smile [that] she used when she was putting something to someone. (p.609) | . | . | . Complex noun phrases . Complex noun phrases typically consist of a sequence of elements: a determiner, any premodifiers, the head noun, and then any postmodification or complementation elements (See Table, adapted from p. 574 and modified). | Determiner | Premodifiers | Head Noun | Postmodifiers | . | a | sprawling urban | landscape | which is dotted with parks | . | an | ancient oak | tree | that has witnessed centuries | . | the | last remaining | specimen | of a rare species | . | some | innovative teaching | methods | designed for online learning | . | several | handcrafted | artifacts | from local artisans | . | every | major | breakthrough | in medical research | . This section focuses on postmodifiers. Postmodifiers . Postmodifiers come in various forms, primarily: . | Relative clauses: the proposal she drafted this morning | ing-clauses: the dog sleeping on the porch | ed-clauses: the message encoded in the document | to-infinitive clauses: a plan to renovate the old theater | Prepositional phrases: the students from the international program | Noun phrases in apposition: the novelist Alice Walker | . In this discussion of finite clauses serving as postmodifiers, the focus will be on relative clauses. The remaining postmodifier types will be addressed in subsequent sections. ",
+    "url": "/docs/cx%20tags/1_Finite%20Clause/3_Syntactic%20function3/#noun--finite-relative-clause",
+    
+    "relUrl": "/docs/cx%20tags/1_Finite%20Clause/3_Syntactic%20function3/#noun--finite-relative-clause"
+  },"56": {
+    "doc": "Noun phrase modifier",
+    "title": "Noun phrase modifier",
+    "content": " ",
+    "url": "/docs/cx%20tags/2_Non-finite%20Clause/3_Syntactic%20function3/",
+    
+    "relUrl": "/docs/cx%20tags/2_Non-finite%20Clause/3_Syntactic%20function3/"
+  },"57": {
+    "doc": "Noun phrase modifier",
+    "title": "noun + to relative clause",
+    "content": ". | Descriptions . | Noun + to relative clauses modify the noun phrase and provide infomation as to the direction, destination, intention, or subsequent action. | They are introduced by to, followed by a verb in infinitive form. | . | Tag . | tocls+rel is tagged on the main verb of the to relative clause. | . | Examples . | She brought a book to read on the train. | He has a lot of work to do before the deadline. | We found a nice place to stay for the weekend. | This is a great opportunity to learn new skills. | . | . ",
+    "url": "/docs/cx%20tags/2_Non-finite%20Clause/3_Syntactic%20function3/#noun--to-relative-clause",
+    
+    "relUrl": "/docs/cx%20tags/2_Non-finite%20Clause/3_Syntactic%20function3/#noun--to-relative-clause"
+  },"58": {
+    "doc": "Noun phrase modifier",
+    "title": "noun + ing relative clause",
+    "content": ". | Descriptions . | Noun + ing relative clauses modify the noun phrase and typically describe an ongoing action or activity related to the modified noun. | Introduced by verbs in present participle form (e.g lying, watching, waiting) | Most frequent in academic prose but moderately common across registers. | . | Tag . | ingcls+rel is tagged on the main verb of the ing relative clause. | . | Examples . | Elevated levels are treated with a diet consisting of low cholesterol foods. | The woman standing in the corner is my sister. | After the outer walls fell the soldiers found the nobles seeking shelter in the castle. | . | . ",
+    "url": "/docs/cx%20tags/2_Non-finite%20Clause/3_Syntactic%20function3/#noun--ing-relative-clause",
+    
+    "relUrl": "/docs/cx%20tags/2_Non-finite%20Clause/3_Syntactic%20function3/#noun--ing-relative-clause"
+  },"59": {
+    "doc": "Noun phrase modifier",
+    "title": "noun + ed relative clause",
+    "content": ". | Descriptions . | Noun + ed passive relative clauses exist to modify the noun phrase to provide additional information about the noun. | Introduced by a verb in past participle form (e.g donated, created, espoused). | Some verbs are irregular, such as see (seen), write (written), or sing (sung). | . | Most frequent in academic prose compared to other registers. | . | Tag . | edcls+rel is tagged on the main verb of the ed relative clause. | . | Examples . | This is a phrase used in the recruitment industry. | Abundant food and available healthcare are among the products required to support a huge and growing population. (p. 604) | The castle meeting between the three men produced the Three Musketeers. | The final thing the townspeople heard was the battalion’s anthem sung as they marched over the hill. | . | . ",
+    "url": "/docs/cx%20tags/2_Non-finite%20Clause/3_Syntactic%20function3/#noun--ed-relative-clause",
+    
+    "relUrl": "/docs/cx%20tags/2_Non-finite%20Clause/3_Syntactic%20function3/#noun--ed-relative-clause"
+  },"60": {
+    "doc": "cat1",
+    "title": "adjmod",
+    "content": ". | Descriptions . | adjective modifier | (Content to be added) | . | Tag . | adjmod | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/3_rb/3_cat1/#adjmod",
+    
+    "relUrl": "/docs/sub-cx%20tags/3_rb/3_cat1/#adjmod"
+  },"61": {
+    "doc": "cat1",
+    "title": "advl",
+    "content": ". | Descriptions . | adverbial | (Content to be added) | . | Tag . | advl | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/3_rb/3_cat1/#advl",
+    
+    "relUrl": "/docs/sub-cx%20tags/3_rb/3_cat1/#advl"
+  },"62": {
+    "doc": "cat1",
+    "title": "link",
+    "content": ". | Descriptions . | linking | (Content to be added) | . | Tag . | link | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/3_rb/3_cat1/#link",
+    
+    "relUrl": "/docs/sub-cx%20tags/3_rb/3_cat1/#link"
+  },"63": {
+    "doc": "cat1",
+    "title": "othr",
+    "content": ". | Descriptions . | other | (Content to be added) | . | Tag . | othr | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/3_rb/3_cat1/#othr",
+    
+    "relUrl": "/docs/sub-cx%20tags/3_rb/3_cat1/#othr"
+  },"64": {
+    "doc": "cat1",
+    "title": "cat1",
+    "content": ". | adjmod | advl | link | othr | . ",
+    "url": "/docs/sub-cx%20tags/3_rb/3_cat1/",
+    
+    "relUrl": "/docs/sub-cx%20tags/3_rb/3_cat1/"
+  },"65": {
+    "doc": "cat2",
+    "title": "ly",
+    "content": ". | Descriptions . | manner | (Content to be added) | . | Tag . | ly | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/3_rb/3_cat2/#ly",
+    
+    "relUrl": "/docs/sub-cx%20tags/3_rb/3_cat2/#ly"
+  },"66": {
+    "doc": "cat2",
+    "title": "cat2",
+    "content": ". | ly | . ",
+    "url": "/docs/sub-cx%20tags/3_rb/3_cat2/",
+    
+    "relUrl": "/docs/sub-cx%20tags/3_rb/3_cat2/"
+  },"67": {
+    "doc": "cat3",
+    "title": "splaux",
+    "content": ". | Descriptions . | split auxiliary | (Content to be added) | . | Tag . | splaux | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/3_rb/3_cat3/#splaux",
+    
+    "relUrl": "/docs/sub-cx%20tags/3_rb/3_cat3/#splaux"
+  },"68": {
+    "doc": "cat3",
+    "title": "cat3",
+    "content": ". | splaux | . ",
+    "url": "/docs/sub-cx%20tags/3_rb/3_cat3/",
+    
+    "relUrl": "/docs/sub-cx%20tags/3_rb/3_cat3/"
+  },"69": {
+    "doc": "Noun phrase complement",
+    "title": "Noun phrase complement",
+    "content": " ",
+    "url": "/docs/cx%20tags/2_Non-finite%20Clause/4_Syntactic%20function4/",
+    
+    "relUrl": "/docs/cx%20tags/2_Non-finite%20Clause/4_Syntactic%20function4/"
+  },"70": {
+    "doc": "Noun phrase complement",
+    "title": "noun + to complement clause",
+    "content": ". | Descriptions . | Noun + to complement clauses modify the noun and provide a purpose or potential action related to the noun. For example, in the sentence His decision to move to New York was influenced by the promise of better job prospects, the clause to move to New York modifies the noun decision, specifying what the decision involves. | Noun + to complement clauses are non-finite, and have missing subjects that can be reconstructed from the context of the sentence. | It is important to distinguish this tag with noun + to relative clause tag. | noun + to complement: For example, in a sentence You’ve been given permission to wear them, the clause to wear them is about the permission, defining what it implies but not necessarily needing any particular element from the main clause (You’ve been given permission) to be understood its meaning. | noun + to relative clause: For example, in a sentence You’re the best person to ask, the clause to ask describes why You’re the best person, which we can consider that this clause structure is more closely linked to explaining why the previous noun (person) is described as such. | . | . | Tag . | tocls+ncomp is tagged on the main verb of the to complement clause. | . | Examples . | You’ve been given permission to wear them. (p. 645) | Legal peers renewed their attack on the Government’s plans to shake up the legal profession yesterday. (p. 645) | She seized every opportunity to learn new skills during the workshop. | His decision to move to New York was influenced by the promise of better job prospects. | . | . ",
+    "url": "/docs/cx%20tags/2_Non-finite%20Clause/4_Syntactic%20function4/#noun--to-complement-clause",
+    
+    "relUrl": "/docs/cx%20tags/2_Non-finite%20Clause/4_Syntactic%20function4/#noun--to-complement-clause"
+  },"71": {
+    "doc": "Adjective/Adverb modifier",
+    "title": "Adjective/Adverb modifier",
+    "content": " ",
+    "url": "/docs/cx%20tags/3_Dependent%20Phrase/4_Syntactic%20function4/",
+    
+    "relUrl": "/docs/cx%20tags/3_Dependent%20Phrase/4_Syntactic%20function4/"
+  },"72": {
+    "doc": "Adjective/Adverb modifier",
+    "title": "adverb phrase as adjective/adverb modifier",
+    "content": ". | Descriptions . | Adverb phrases modify an adjective or another adverb when they provide more information about the adjective or adverb. | Commonly modifying the degree, intensity, or manner of the adjective/adverb. | . | They can often be a single word (e.g quite unsure, extremely unhelpful) but may extend to more than one (e.g a little dissappointed, not entirely sure). | Adverbs can be observed commonly ending with -ly. | . | They cannot exist on their own (independently) due to being depedent (non-clausal) phrases. | . | Tag . | rb+jjrbmod is tagged on the adverb of modifying adjective/adverb phrase. | . | Examples . | That cat was suprisingly fat. | We will see those impacts fairly quickly. | Depite the captain’s best efforts, the team was not entirely sure about the plan. | The boy was fairly certain that it would rain due to the heavy smell in the air. | . | Discussions . | We did NOT tag the prespotitional phrase working as an adverbial phrase. | …ran all over every hill and down every valley | . | . | . ",
+    "url": "/docs/cx%20tags/3_Dependent%20Phrase/4_Syntactic%20function4/#adverb-phrase-as-adjectiveadverb-modifier",
+    
+    "relUrl": "/docs/cx%20tags/3_Dependent%20Phrase/4_Syntactic%20function4/#adverb-phrase-as-adjectiveadverb-modifier"
+  },"73": {
+    "doc": "Noun phrase complement",
+    "title": "Noun phrase complement",
+    "content": " ",
+    "url": "/docs/cx%20tags/1_Finite%20Clause/4_Syntactic%20function4/",
+    
+    "relUrl": "/docs/cx%20tags/1_Finite%20Clause/4_Syntactic%20function4/"
+  },"74": {
+    "doc": "Noun phrase complement",
+    "title": "noun + that-complement clause",
+    "content": ". | Descriptions . | Noun phrase complement clause . | There are two types of noun complement clauses: (1) that-clauses and (2) to-infinitive clauses (pp. 644-645). | (1) that-clauses: There were also [rumors] that Ford had now taken its stake up to the maximum 15 percent allowed. | Here, the that-clause is NOT a complement for the verb, but a complement for the preceding noun (i.e., “adding some descriptive information about that noun”, p.645). | In noun complement that-clauses, the complementizer “that” CANNOT be omitted. | . | (2) to-infinitive clauses: You’ve been given [permission] to wear them. (Note: this is NOT included in the tag, but for reference) | . | . | Noun phrase postmodifiers are different from noun phrase complement clauses (p. 644) . | Peter reached out for the well-thumbed report that lay behind him on the cupboard top. (NP postmodifier; NOT included in this tag, it should be noun + finite relative clause). | Other semiconductor stocks eased folluwing an industry trade group’s [report] that its leading indicator fell in September. (NP complement clause; included) | . | . | Tag . | thatcls+ncomp is tagged on the main verb of the that-complement clause. | . | Examples . | The fact that no tracer particles were found indicates that these areas are not a pathway… (from a reference doc/table) | The observation that the species has adapted to urban environments challenges traditional views on wildlife habitat preferences. | The conclusion that global temperatures are rising faster than previously estimated is alarming. | . | . Noun phrase (NP) complements . Earlier discussions on the verb complement clauses have clarified that complement clauses serve as dependent clauses which fulfill the role of completing a verb’s meaning within a sentence. An NP complement is essentially a complement associated with a noun rather than a verb. This notion of NP complementation, as detailed by Haegeman &amp; Guéron (1998, pp.440-441), suggests that just as verbs can take a diverse array of complements ranging from finite to non-finite clauses, nouns too can select finite clauses to complement their meanings. Consider/compare following examples: . | He considers that she deserves a promotion. (verb-complement) | The consideration that she deserves a promotion weighs heavily on his mind. (NP-complement) | She believes that honesty is the best policy. (verb-complement) | Her belief that honesty is the best policy guides her actions. (NP-complement) | . NP modifier vs. NP complement . The relationsip between NP modifers and NP complements are often ambiguous (p.644). NP modifiers serve to describe and modify a noun by supplying additional details about the noun’s characteristics. These modifiers append descriptive information but are not necessary for the grammatical integrity of the noun phrase. In contrast, NP complements are clauses or phrases that furnish complete information, which is crucial to understanding the noun’s full meaning. NP complements are closely linked to the noun and are indispensable for the completeness of the noun phrase. For example, in the sentence His assumption that the work was easy turned out to be wrong, the NP complement clause that the work was easy is essential. Without this complement, the nature of the assumption would remain unclear. ",
+    "url": "/docs/cx%20tags/1_Finite%20Clause/4_Syntactic%20function4/#noun--that-complement-clause",
+    
+    "relUrl": "/docs/cx%20tags/1_Finite%20Clause/4_Syntactic%20function4/#noun--that-complement-clause"
+  },"75": {
+    "doc": "cat1",
+    "title": "vblex",
+    "content": ". | Descriptions . | lexical verb | (Content to be added) | . | Tag . | vblex | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat1/#vblex",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat1/#vblex"
+  },"76": {
+    "doc": "cat1",
+    "title": "be",
+    "content": ". | Descriptions . | copular verb | (Content to be added) | . | Tag . | be | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat1/#be",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat1/#be"
+  },"77": {
+    "doc": "cat1",
+    "title": "phrsv",
+    "content": ". | Descriptions . | phrasal verb | (Content to be added) | . | Tag . | phrsv | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat1/#phrsv",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat1/#phrsv"
+  },"78": {
+    "doc": "cat1",
+    "title": "prepv",
+    "content": ". | Descriptions . | prepositional verb | (Content to be added) | . | Tag . | prepv | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat1/#prepv",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat1/#prepv"
+  },"79": {
+    "doc": "cat1",
+    "title": "cat1",
+    "content": ". | vblex | be | phrsv | prepv | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat1/",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat1/"
+  },"80": {
+    "doc": "cat2",
+    "title": "pres",
+    "content": ". | Descriptions . | present | (Content to be added) | . | Tag . | pres | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat2/#pres",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat2/#pres"
+  },"81": {
+    "doc": "cat2",
+    "title": "past",
+    "content": ". | Descriptions . | past | (Content to be added) | . | Tag . | past | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat2/#past",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat2/#past"
+  },"82": {
+    "doc": "cat2",
+    "title": "vp_w_modal",
+    "content": ". | Descriptions . | verb phrase with modal | (Content to be added) | . | Tag . | vp_w_modal | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat2/#vp_w_modal",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat2/#vp_w_modal"
+  },"83": {
+    "doc": "cat2",
+    "title": "nonfinite",
+    "content": ". | Descriptions . | non-finite verb | (Content to be added) | . | Tag . | nonfinite | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat2/#nonfinite",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat2/#nonfinite"
+  },"84": {
+    "doc": "cat2",
+    "title": "cat2",
+    "content": ". | pres | past | vp_w_modal | nonfinite | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat2/",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat2/"
+  },"85": {
+    "doc": "cat3",
+    "title": "simple",
+    "content": ". | Descriptions . | simple present | (Content to be added) | . | Tag . | simple | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat3/#simple",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat3/#simple"
+  },"86": {
+    "doc": "cat3",
+    "title": "perf",
+    "content": ". | Descriptions . | perfect | (Content to be added) | . | Tag . | perf | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat3/#perf",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat3/#perf"
+  },"87": {
+    "doc": "cat3",
+    "title": "prog",
+    "content": ". | Descriptions . | progressive | (Content to be added) | . | Tag . | prog | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat3/#prog",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat3/#prog"
+  },"88": {
+    "doc": "cat3",
+    "title": "perfprog",
+    "content": ". | Descriptions . | perfect progressive | (Content to be added) | . | Tag . | perfprog | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat3/#perfprog",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat3/#perfprog"
+  },"89": {
+    "doc": "cat3",
+    "title": "cat3",
+    "content": ". | simple | perf | prog | perfprog | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat3/",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat3/"
+  },"90": {
+    "doc": "cat4",
+    "title": "active",
+    "content": ". | Descriptions . | active voice | (Content to be added) | . | Tag . | active | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat4/#active",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat4/#active"
+  },"91": {
+    "doc": "cat4",
+    "title": "pasv_agls",
+    "content": ". | Descriptions . | agentless passive | (Content to be added) | . | Tag . | pasv_agls | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat4/#pasv_agls",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat4/#pasv_agls"
+  },"92": {
+    "doc": "cat4",
+    "title": "pasv_by",
+    "content": ". | Descriptions . | by passive | (Content to be added) | . | Tag . | pasv_by | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat4/#pasv_by",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat4/#pasv_by"
+  },"93": {
+    "doc": "cat4",
+    "title": "cat4",
+    "content": ". | active | pasv_agls | pasv_by | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat4/",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat4/"
+  },"94": {
+    "doc": "cat5",
+    "title": "compcls",
+    "content": ". | Descriptions . | complement clause | (Content to be added) | . | Tag . | compcls | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat5/#compcls",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat5/#compcls"
+  },"95": {
+    "doc": "cat5",
+    "title": "advlcls",
+    "content": ". | Descriptions . | adverbial clause | (Content to be added) | . | Tag . | advlcls | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat5/#advlcls",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat5/#advlcls"
+  },"96": {
+    "doc": "cat5",
+    "title": "nmod_cls",
+    "content": ". | Descriptions . | noun modifier clause | (Content to be added) | . | Tag . | nmod_cls | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat5/#nmod_cls",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat5/#nmod_cls"
+  },"97": {
+    "doc": "cat5",
+    "title": "cat5",
+    "content": ". | compcls | advlcls | nmod_cls | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat5/",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat5/"
+  },"98": {
+    "doc": "cat6",
+    "title": "thatcls",
+    "content": ". | Descriptions . | that clause | (Content to be added) | . | Tag . | thatcls | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat6/#thatcls",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat6/#thatcls"
+  },"99": {
+    "doc": "cat6",
+    "title": "whcls",
+    "content": ". | Descriptions . | wh clause | (Content to be added) | . | Tag . | whcls | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat6/#whcls",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat6/#whcls"
+  },"100": {
+    "doc": "cat6",
+    "title": "tocls",
+    "content": ". | Descriptions . | to clause | (Content to be added) | . | Tag . | tocls | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat6/#tocls",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat6/#tocls"
+  },"101": {
+    "doc": "cat6",
+    "title": "ingcls",
+    "content": ". | Descriptions . | ing clause | (Content to be added) | . | Tag . | ingcls | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat6/#ingcls",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat6/#ingcls"
+  },"102": {
+    "doc": "cat6",
+    "title": "edcls",
+    "content": ". | Descriptions . | past participle | (Content to be added) | . | Tag . | edcls | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat6/#edcls",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat6/#edcls"
+  },"103": {
+    "doc": "cat6",
+    "title": "cat6",
+    "content": ". | thatcls | whcls | tocls | ingcls | edcls | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat6/",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat6/"
+  },"104": {
+    "doc": "cat7",
+    "title": "vcomp",
+    "content": ". | Descriptions . | complement clause controleld by a verb | (Content to be added) | . | Tag . | vcomp | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat7/#vcomp",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat7/#vcomp"
+  },"105": {
+    "doc": "cat7",
+    "title": "jcomp",
+    "content": ". | Descriptions . | complement clause controleld by an adjective | (Content to be added) | . | Tag . | jcomp | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat7/#jcomp",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat7/#jcomp"
+  },"106": {
+    "doc": "cat7",
+    "title": "ncomp",
+    "content": ". | Descriptions . | complement clause controleld by a noun | (Content to be added) | . | Tag . | ncomp | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat7/#ncomp",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat7/#ncomp"
+  },"107": {
+    "doc": "cat7",
+    "title": "incomp",
+    "content": ". | Descriptions . | complement clause controleld by a preposition | (Content to be added) | . | Tag . | incomp | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat7/#incomp",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat7/#incomp"
+  },"108": {
+    "doc": "cat7",
+    "title": "causative",
+    "content": ". | Descriptions . | causative clause | (Content to be added) | . | Tag . | causative | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat7/#causative",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat7/#causative"
+  },"109": {
+    "doc": "cat7",
+    "title": "conditional",
+    "content": ". | Descriptions . | conditional clause | (Content to be added) | . | Tag . | conditional | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat7/#conditional",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat7/#conditional"
+  },"110": {
+    "doc": "cat7",
+    "title": "concessive",
+    "content": ". | Descriptions . | concessive clause | (Content to be added) | . | Tag . | concessive | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat7/#concessive",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat7/#concessive"
+  },"111": {
+    "doc": "cat7",
+    "title": "other_advl",
+    "content": ". | Descriptions . | other adverbial clause | (Content to be added) | . | Tag . | other_advl | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat7/#other_advl",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat7/#other_advl"
+  },"112": {
+    "doc": "cat7",
+    "title": "rel",
+    "content": ". | Descriptions . | relative clause | (Content to be added) | . | Tag . | rel | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat7/#rel",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat7/#rel"
+  },"113": {
+    "doc": "cat7",
+    "title": "cat7",
+    "content": ". | vcomp | jcomp | ncomp | incomp | causative | conditional | concessive | other_advl | rel | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat7/",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat7/"
+  },"114": {
+    "doc": "cat8",
+    "title": "reldel",
+    "content": ". | Descriptions . | relativizer deletion | (Content to be added) | . | Tag . | reldel | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat8/#reldel",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat8/#reldel"
+  },"115": {
+    "doc": "cat8",
+    "title": "compdel",
+    "content": ". | Descriptions . | complementizer deletion | (Content to be added) | . | Tag . | compdel | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat8/#compdel",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat8/#compdel"
+  },"116": {
+    "doc": "cat8",
+    "title": "cat8",
+    "content": ". | reldel | compdel | . ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/4_cat8/",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/4_cat8/"
+  },"117": {
+    "doc": "Adjective complement",
+    "title": "Adjective complement",
+    "content": " ",
+    "url": "/docs/cx%20tags/1_Finite%20Clause/5_Syntactic%20function5/",
+    
+    "relUrl": "/docs/cx%20tags/1_Finite%20Clause/5_Syntactic%20function5/"
+  },"118": {
+    "doc": "Adjective complement",
+    "title": "adjective + that-complement clause",
+    "content": ". | Descriptions . | Post-predicate that-clauses feature adjectives that directly precede the clause, typically expressing affective psychological states or personal judgments. This construction emphasizes the subject’s direct response or state in relation to the content of the that-clause, as illustrated in: (1) levels of certainty (e.g., certain, confident, evident), (2) emotional states (e.g., annoyed, glad, sad), or (3) judgment on events (e.g., appropriate, good, important) (p. 671). | We counted the examples with omitted that as that is frequently omitted in nominal that-clauses (pp.660-669). | I’m amazed you know him. | . | . | Tag . | thatcls+jcomp is tagged on the main verb of the that-complement clause. | . | Examples . | We’re happy that the hunger strike has ended. | I’m glad that I found you again. | She was pleased that her family had remembered. | . | Discussions . | Comparative constructions should not be tagged (e.g., so (ADV) ADJ that…): . | It was so simple that it will become complex. | It’s only if the sample is so bad, so contradictory to the hypothesis that we’re going to rejct it | NOT tag either become or reject in two examples above. | . | . | . ",
+    "url": "/docs/cx%20tags/1_Finite%20Clause/5_Syntactic%20function5/#adjective--that-complement-clause",
+    
+    "relUrl": "/docs/cx%20tags/1_Finite%20Clause/5_Syntactic%20function5/#adjective--that-complement-clause"
+  },"119": {
+    "doc": "Adjective complement",
+    "title": "extraposed adjective + that-complement clause",
+    "content": ". | Descriptions . | Extraposed that-clauses utilize a structure where the adjective is part of a statement that often begins with “it” as a subject, slightly detaching the speaker’s or writer’s direct stance from the proposition. This can highlight the proposition itself or present the stance in a more generalized manner, as shown in: . | certainty adjectives: They indicate the extent to which the speaker/writer regards the embedded proposition is probable, accepted, apparent, certain, plain, inevitable. | affective/evaluative adjectives: They mark other assessments or attitudes twoards the proposition in the that-clause: (un)acceptable, preferable, sensible, amazing, bad, funny, dreadful, odd, suprising, neat, advisable, critical, crucial, essential, fitting, obligatory, vital. | hypothetical adjectives: These constructions are marked by should or subjunctive verb forms (e.g: It is preferable that the marked cells [should be] identical in their behaviour to the unmarked cells. (p. 674)) | . | . | Tag . | xtrapos+thatcls+jcomp is tagged on the main verb of the that-complement clause. | . | Examples . | It has been clear for some time that the demands of the arms control process would increasingly dominate military planning. (p. 673) | It is obvious that direct chilling of the udder depends as much on the thermal properties of the floor as on the air temperature. (p. 673) | It’s horrible that he put up with Claire’s nagging. (p. 673) | It is tragic that so many of his generation died as they did. (p. 673) | It is sensible that the breeding animals receive the highest protection. (p. 674) | It is important that it be well sealed from air leakage. (p. 674) | It is vital that leaking water is avoided. (p. 674) | . | Discussions . | It’s only if the sample is so bad, so contradictory to the (null) hypothesis, that we’re going to reject (it). | Q: Is this an ‘extraposed adjective+that-complement’ or a simple ‘adjective+that-complement clause’? Given that the phrase (‘so contradictory that~’) suggests a cause-effect relationship (e.g., it was so bad that I did not want to go there again), how does this affect its classification? | A1: This is not extraposed. The ‘it’ is referential. And so the ‘that’ clause is a adjective + that-complement clause (of the adjective ‘bad’ in this case). | A2 (added 091024-MS): This sounds controversial. See this example: It’s only if the sample is very bad, very contradictory to the (null) hypothesis, that we’re going to reject the argument. To me, that-clause looks like being extraposed. | . | . Adjective phrases . Adjective phrases feature an adjective as the core component, known as the head, and may include additional modifiers. These modifiers can be single words, extended phrases, or even full clauses. Modifiers in an adjective phrase typically intensify or specify the quality of the adjective (e.g., very fortunate, fortunate to meet her; modifiers answer to the question of ‘how fortunate’?). These accompanying elements, known as complements, often consist of prepositional phrases or clauses and serve to provide full meaning to the adjective (p. 101). Adjective complement clauses . Building on the discussion in the verb complement clauses section, complement clauses serve a role in completing the meaning of adjectival predicates within a main clause (p. 658). Both (1) adjective + that-complement clause and (2) extraposed adjective + that-complement clause are included, each conveying stance within three primary semantic domains: degrees of certainty (e.g., certain, confident, evident); affective psychological states (e.g., annoyed, glad, sad); and evaluations of situations, events, etc. (e.g., appropriate, odd, good, important, advisable). These structures, while similar, offer distinct ways of expressing adjectival predicates. ",
+    "url": "/docs/cx%20tags/1_Finite%20Clause/5_Syntactic%20function5/#extraposed-adjective--that-complement-clause",
+    
+    "relUrl": "/docs/cx%20tags/1_Finite%20Clause/5_Syntactic%20function5/#extraposed-adjective--that-complement-clause"
+  },"120": {
+    "doc": "Adjective complement",
+    "title": "Adjective complement",
+    "content": " ",
+    "url": "/docs/cx%20tags/2_Non-finite%20Clause/5_Syntactic%20function5/",
+    
+    "relUrl": "/docs/cx%20tags/2_Non-finite%20Clause/5_Syntactic%20function5/"
+  },"121": {
+    "doc": "Adjective complement",
+    "title": "adjective + to complement clause",
+    "content": ". | Descriptions . | Adjective + to complement clauses introduce an infinitive verb following the to. | Adjective + to complement clauses provide more information to the state or quality described by the adjective, and can specify potential actions or conditions related to the subject. | . | Tag . | tocls+jcomp is tagged on the main verb of the to compliment clause. | . | Examples . | Millar was obstinately determined to change the content of education. (p. 716) | They were excited to explore the new city, having heard so much about its vibrant culture. | They were excited to get the chance to play in the tournament. | . | . ",
+    "url": "/docs/cx%20tags/2_Non-finite%20Clause/5_Syntactic%20function5/#adjective--to-complement-clause",
+    
+    "relUrl": "/docs/cx%20tags/2_Non-finite%20Clause/5_Syntactic%20function5/#adjective--to-complement-clause"
+  },"122": {
+    "doc": "Adjective complement",
+    "title": "extraposed adjective + to complement clause",
+    "content": ". | Descriptions . | Extraposed adjective + to complement clauses semantically function as the predicate + the subject. | The true subject is often replaced by it. | . | Tag . | xtrapos+tocls+jcomp is tagged on the main verb of the extraposed to compliment clause. | . | Examples . | It was difficult to appreciate him when we thought we had more time. | It is important to understand other people’s feelings in a team enviornment. | It was necessary to adjust our plans due to the unexpected weather conditions. | . | . ",
+    "url": "/docs/cx%20tags/2_Non-finite%20Clause/5_Syntactic%20function5/#extraposed-adjective--to-complement-clause",
+    
+    "relUrl": "/docs/cx%20tags/2_Non-finite%20Clause/5_Syntactic%20function5/#extraposed-adjective--to-complement-clause"
+  },"123": {
+    "doc": "cat1",
+    "title": "mod",
+    "content": ". | Descriptions . | modal | (Content to be added) | . | Tag . | mod | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/5_vbaux/5_cat1/#mod",
+    
+    "relUrl": "/docs/sub-cx%20tags/5_vbaux/5_cat1/#mod"
+  },"124": {
+    "doc": "cat1",
+    "title": "cat1",
+    "content": ". | mod | . ",
+    "url": "/docs/sub-cx%20tags/5_vbaux/5_cat1/",
+    
+    "relUrl": "/docs/sub-cx%20tags/5_vbaux/5_cat1/"
+  },"125": {
+    "doc": "cat2",
+    "title": "pos",
+    "content": ". | Descriptions . | possibility | (Content to be added) | . | Tag . | pos | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/5_vbaux/5_cat2/#pos",
+    
+    "relUrl": "/docs/sub-cx%20tags/5_vbaux/5_cat2/#pos"
+  },"126": {
+    "doc": "cat2",
+    "title": "nec",
+    "content": ". | Descriptions . | necessity | (Content to be added) | . | Tag . | nec | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/5_vbaux/5_cat2/#nec",
+    
+    "relUrl": "/docs/sub-cx%20tags/5_vbaux/5_cat2/#nec"
+  },"127": {
+    "doc": "cat2",
+    "title": "prd",
+    "content": ". | Descriptions . | predictive | (Content to be added) | . | Tag . | prd | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/5_vbaux/5_cat2/#prd",
+    
+    "relUrl": "/docs/sub-cx%20tags/5_vbaux/5_cat2/#prd"
+  },"128": {
+    "doc": "cat2",
+    "title": "cat2",
+    "content": ". | pos | nec | prd | . ",
+    "url": "/docs/sub-cx%20tags/5_vbaux/5_cat2/",
+    
+    "relUrl": "/docs/sub-cx%20tags/5_vbaux/5_cat2/"
+  },"129": {
+    "doc": "Preposition complement",
+    "title": "preposition complement",
+    "content": " ",
+    "url": "/docs/cx%20tags/1_Finite%20Clause/6_Syntactic%20function6/#preposition-complement",
+    
+    "relUrl": "/docs/cx%20tags/1_Finite%20Clause/6_Syntactic%20function6/#preposition-complement"
+  },"130": {
+    "doc": "Preposition complement",
+    "title": "preposition + wh-complement clause",
+    "content": ". | Descriptions . | wh-complement clauses can be compliments of preopositions and objects of prepositional verbs. | wh-complements begin with who, what, when, how, where, why, or which. | Common prepositions are in, on, at, by, with, about, and through | Prepositional verbs are verbs that when combined with a preposition may take on new meaning. | . | Tag . | whcls+incomp is tagged on the main verb of the wh-complement clause. | . | Examples . | I’ll offer a suggestion for what we should do. | . | Discussions . | When wh-complement clauses are part of a comparative construction, they were not tagged. | e.g., this is the probability of getting a score bigger than what we calculate. | . | Q. Should we include that clauses? (e.g., He took comfort in that he was not alone in his struggles; The scientist found satisfaction in that her research was making a difference) | . | . Prepositional phrases . Prepositional phrases are structures that combine a preposition with a complement, typically a noun phrase. This combination extends a noun phrase, creating a link that integrates it into the larger context of a sentence. Examples include in the morning, to him, a street with no name, and in which she had to be expelled. Prepositions can be accompanied by nominal clauses (wh-complement clause, e.g., suggestion for what we need) and ing-clauses as complements (e.g., *interested in playing the piano) (p. 103). ",
+    "url": "/docs/cx%20tags/1_Finite%20Clause/6_Syntactic%20function6/#preposition--wh-complement-clause",
+    
+    "relUrl": "/docs/cx%20tags/1_Finite%20Clause/6_Syntactic%20function6/#preposition--wh-complement-clause"
+  },"131": {
+    "doc": "Preposition complement",
+    "title": "Preposition complement",
+    "content": " ",
+    "url": "/docs/cx%20tags/1_Finite%20Clause/6_Syntactic%20function6/",
+    
+    "relUrl": "/docs/cx%20tags/1_Finite%20Clause/6_Syntactic%20function6/"
+  },"132": {
+    "doc": "Preposition complement",
+    "title": "Preposition complement",
+    "content": " ",
+    "url": "/docs/cx%20tags/2_Non-finite%20Clause/6_Syntactic%20function6/",
+    
+    "relUrl": "/docs/cx%20tags/2_Non-finite%20Clause/6_Syntactic%20function6/"
+  },"133": {
+    "doc": "Preposition complement",
+    "title": "preposition + ing complement clause",
+    "content": ". | Descriptions . | Preposition + ing complement clauses are composed of a preposition followed by a verb in its -ing form. | These clauses are utilized to specify details about the method, process, or condition related to the word (typically a noun, but could be others) that precedes the preposition. | . | Tag . | ingcls+incomp is tagged on the main verb of the ing compliment clause. | . | Examples . | The formula for calculating the effective resistance is …. | The method for assessing project risks involves thorough analysis. | He is keen on improving his language skills. | She focused on my talking during the meeting to understand my concerns better. | …be able to put down without doing a whole lot of thinking. | … that was other thinkg like leaving where the hell would I go. | . | Discussions . | We’ve included some comparatives (e.g., ADJ+than+-ing). | It is more serious than distoring other items. | . | . | . ",
+    "url": "/docs/cx%20tags/2_Non-finite%20Clause/6_Syntactic%20function6/#preposition--ing-complement-clause",
+    
+    "relUrl": "/docs/cx%20tags/2_Non-finite%20Clause/6_Syntactic%20function6/#preposition--ing-complement-clause"
+  },"134": {
+    "doc": "cat1",
+    "title": "advl",
+    "content": ". | Descriptions . | adverbial | (Content to be added) | . | Tag . | advl | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/6_in/6_cat1/#advl",
+    
+    "relUrl": "/docs/sub-cx%20tags/6_in/6_cat1/#advl"
+  },"135": {
+    "doc": "cat1",
+    "title": "nmod",
+    "content": ". | Descriptions . | noun modifying | (Content to be added) | . | Tag . | nmod | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/6_in/6_cat1/#nmod",
+    
+    "relUrl": "/docs/sub-cx%20tags/6_in/6_cat1/#nmod"
+  },"136": {
+    "doc": "cat1",
+    "title": "jcomp",
+    "content": ". | Descriptions . | adjective complement | (Content to be added) | . | Tag . | jcomp | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/6_in/6_cat1/#jcomp",
+    
+    "relUrl": "/docs/sub-cx%20tags/6_in/6_cat1/#jcomp"
+  },"137": {
+    "doc": "cat1",
+    "title": "in_othr",
+    "content": ". | Descriptions . | other cases | (Content to be added) | . | Tag . | in_othr | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/6_in/6_cat1/#in_othr",
+    
+    "relUrl": "/docs/sub-cx%20tags/6_in/6_cat1/#in_othr"
+  },"138": {
+    "doc": "cat1",
+    "title": "cat1",
+    "content": ". | advl | nmod | jcomp | in_othr | . ",
+    "url": "/docs/sub-cx%20tags/6_in/6_cat1/",
+    
+    "relUrl": "/docs/sub-cx%20tags/6_in/6_cat1/"
+  },"139": {
+    "doc": "cat1",
+    "title": "cls",
+    "content": ". | Descriptions . | clausal | (Content to be added) | . | Tag . | cls | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/7_cc/7_cat1/#cls",
+    
+    "relUrl": "/docs/sub-cx%20tags/7_cc/7_cat1/#cls"
+  },"140": {
+    "doc": "cat1",
+    "title": "phrs",
+    "content": ". | Descriptions . | phrasal | (Content to be added) | . | Tag . | phrs | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/7_cc/7_cat1/#phrs",
+    
+    "relUrl": "/docs/sub-cx%20tags/7_cc/7_cat1/#phrs"
+  },"141": {
+    "doc": "cat1",
+    "title": "cat1",
+    "content": ". | cls | phrs | . ",
+    "url": "/docs/sub-cx%20tags/7_cc/7_cat1/",
+    
+    "relUrl": "/docs/sub-cx%20tags/7_cc/7_cat1/"
+  },"142": {
+    "doc": "cat1",
+    "title": "cnd",
+    "content": ". | Descriptions . | conditional | (Content to be added) | . | Tag . | cnd | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/8_cs/8_cat1/#cnd",
+    
+    "relUrl": "/docs/sub-cx%20tags/8_cs/8_cat1/#cnd"
+  },"143": {
+    "doc": "cat1",
+    "title": "con",
+    "content": ". | Descriptions . | concessive | (Content to be added) | . | Tag . | con | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/8_cs/8_cat1/#con",
+    
+    "relUrl": "/docs/sub-cx%20tags/8_cs/8_cat1/#con"
+  },"144": {
+    "doc": "cat1",
+    "title": "cos",
+    "content": ". | Descriptions . | causative | (Content to be added) | . | Tag . | cos | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/8_cs/8_cat1/#cos",
+    
+    "relUrl": "/docs/sub-cx%20tags/8_cs/8_cat1/#cos"
+  },"145": {
+    "doc": "cat1",
+    "title": "cs_othr",
+    "content": ". | Descriptions . | other | (Content to be added) | . | Tag . | cs_othr | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/8_cs/8_cat1/#cs_othr",
+    
+    "relUrl": "/docs/sub-cx%20tags/8_cs/8_cat1/#cs_othr"
+  },"146": {
+    "doc": "cat1",
+    "title": "cat1",
+    "content": ". | cnd | con | cos | cs_othr | . ",
+    "url": "/docs/sub-cx%20tags/8_cs/8_cat1/",
+    
+    "relUrl": "/docs/sub-cx%20tags/8_cs/8_cat1/"
+  },"147": {
+    "doc": "cat1",
+    "title": "art",
+    "content": ". | Descriptions . | article | (Content to be added) | . | Tag . | art | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/9_dt/9_cat1/#art",
+    
+    "relUrl": "/docs/sub-cx%20tags/9_dt/9_cat1/#art"
+  },"148": {
+    "doc": "cat1",
+    "title": "dt_dem",
+    "content": ". | Descriptions . | demonstrative | (Content to be added) | . | Tag . | dt_dem | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/9_dt/9_cat1/#dt_dem",
+    
+    "relUrl": "/docs/sub-cx%20tags/9_dt/9_cat1/#dt_dem"
+  },"149": {
+    "doc": "cat1",
+    "title": "poss",
+    "content": ". | Descriptions . | possessive | (Content to be added) | . | Tag . | poss | . | Examples . | (Content to be added) | . | . ",
+    "url": "/docs/sub-cx%20tags/9_dt/9_cat1/#poss",
+    
+    "relUrl": "/docs/sub-cx%20tags/9_dt/9_cat1/#poss"
+  },"150": {
+    "doc": "cat1",
+    "title": "cat1",
+    "content": ". | art | dt_dem | poss | . ",
+    "url": "/docs/sub-cx%20tags/9_dt/9_cat1/",
+    
+    "relUrl": "/docs/sub-cx%20tags/9_dt/9_cat1/"
+  },"151": {
+    "doc": "Discussions",
+    "title": "Discussions",
+    "content": ". | Semi-modals | Passive | Coordination | Multi-words prepositions and subordinators . | Two-word multi-words prepositions | Three-word multi-words prepositions | Two-word multi-words subordinators | . | . ",
+    "url": "/docs/Discussions/",
+    
+    "relUrl": "/docs/Discussions/"
+  },"152": {
+    "doc": "Discussions",
+    "title": "Semi-modals",
+    "content": "The following semi-modals were pre-processed before parsing and tagging sentence structures: have to, had to, got to, have/had got to, gotta, ought to, BE supposed to, BE going to, gonna, BE about to, and used to. Notes: . | BE includes all its inflected forms for person and tense. | used to is treated as a semi-modal only when it is not preceded by BE. | . ",
+    "url": "/docs/Discussions/#semi-modals",
+    
+    "relUrl": "/docs/Discussions/#semi-modals"
+  },"153": {
+    "doc": "Discussions",
+    "title": "Passive",
+    "content": "We tagged the passive construction, not the be-verb itself. | They knew what they were going to be asked. (verb-wh-complement) | . ",
+    "url": "/docs/Discussions/#passive",
+    
+    "relUrl": "/docs/Discussions/#passive"
+  },"154": {
+    "doc": "Discussions",
+    "title": "Coordination",
+    "content": "We tagged the first main verb, not the subsequent verbs. | A truck driver who just slammed and kicked at everything (noun-finite relative clause) | . ",
+    "url": "/docs/Discussions/#coordination",
+    
+    "relUrl": "/docs/Discussions/#coordination"
+  },"155": {
+    "doc": "Discussions",
+    "title": "Multi-words prepositions and subordinators",
+    "content": "We defined several lists of fixed multi‐word sequences that are used during the processing of prepositions and subordinators. Two-word multi-words prepositions . as for, but for, except for, save for, as from, as of, out of, depending on, according to, as to, on to, up to, along with, apart from, aside from, away from, ahead of, inside of, instead of, irrespective of, outside of, regardless of, close to, contrary to, next to, opposite to, owing to, preliminary to, preparatory to, previous to, prior to, relative to, subsequent to, together with, back to, sort of, kind of, devoid of, exclusive of, void of, because of, due to, exclusive of, owing to, thanks to, such as, upwards of . Three-word multi-words prepositions . as far as, as opposed to, as distinct from, in exchange for, in return for, by means of, by virtue of, by way of, for lack of, for want of, in aid of, in back of, in case of, in charge of, in consequence of, in favour of, in front of, in lieu of, in light of, in need of, in place of, in respect of, in search of, in spite of, in terms of, in view of, on account of, on behalf of, on grounds of, on top of, by reference to, in addition to, in contrast to, in reference to, in regard to, in relation to, with regard to, with reference to, with respect to, at variance with, in accordance with, in comparison with, in compliance with, in conformity with, in contact with, in line with, as a result of, at the expense of, for the sake of, in the case of, in the event of, in the light of, on the grounds of, on the ground of, on the part of, with the exception of, at the back of, in the middle of . Two-word multi-words subordinators . as if, as though, so that, in that . ",
+    "url": "/docs/Discussions/#multi-words-prepositions-and-subordinators",
+    
+    "relUrl": "/docs/Discussions/#multi-words-prepositions-and-subordinators"
+  },"156": {
+    "doc": "Overview",
+    "title": "Overview",
+    "content": "The example image below shows the LxGrtagger’s analysis of a sentence. You can also try it yourself in the web demo. Each token is placed in its own row, with columns describing the token’s form and syntactic function. Here is a brief explanation of the key columns: . | Cx tags: Details about the complexity tags. For instance, you may see tags like nn+npremod (a noun used as a noun-phrase premodifier) or finitecls+rel (a finite relative clause). | Sub-Cx tags . | main tag: Corresponds to POS tags (e.g., nn for nouns, jj for adjectives). | cat1-9: Each of these columns provides more specific morphological or syntactic information. For example, cat1 may indicate number or pronoun type in nn. | . | . ",
+    "url": "/docs/Overview/",
+    
+    "relUrl": "/docs/Overview/"
+  },"157": {
+    "doc": "Sub-cx Tags",
+    "title": "Sub-cx tags",
+    "content": "Sub-cx tags provide additional detail, supplementing the associated cx tags. The scheme is organized into the following structures: . | Associated cx tags Linked to the LxGrTagger complexity feature tags. | Main tag Closely related to the part-of-speech (POS) information. | Fine-Grained category tags (cat) Offer more specific morphological or syntactic details. | . ",
+    "url": "/docs/sub-cx%20tags/#sub-cx-tags",
+    
+    "relUrl": "/docs/sub-cx%20tags/#sub-cx-tags"
+  },"158": {
+    "doc": "Sub-cx Tags",
+    "title": "Sub-cx tags: Table",
+    "content": "| Main Tag | Associated Complexity Tags | cat1 | cat2 | cat3 | cat4 | cat5 | cat6 | cat7 | cat8 | cat9 | . | nn (noun) | nn+npremod appos+npostmod | pl | nom proper title | npremod nappos sgen |   |   |   |   |   |   | . | jj (adjective) | attr+npremod | attrb pred | ing ed |   |   |   |   |   |   |   | . | rb (adverb) | rb+advl rb+jjrbmod | adjmod advl link prtcle othr | ly | splaux |   |   |   |   |   |   | . | vbmain (main verb) | finitecls+advl thatcls+vcomp whcls+vcomp finitecls+rel thatcls+ncomp thatcls+jcomp xtrapos+thatcls+jcomp whcls+incomp tocls+advl ingcls+advl edcls+advl tocls+vcomp ingcls+vcomp tocls+rel ingcls+rel edcls+rel tocls+ncomp tocls+jcomp xtrapos+tocls+jcomp ingcls+incomp | vblex be phrsv prepv | pres past vp_w_modal nonfinite | simple perf prog perfprog | active pasv_agls pasv_by | compcls advlcls nmod_cls | thatcls whcls tocls ingcls edcls | vcomp jcomp ncomp incomp causative conditional concessive other_advl rel | reldel compdel |   | . | vbaux (auxiliary verb) |   | mod | pos nec prd |   |   |   |   |   |   |   | . | in (preposition) | in+advl of+npostmod in+npostmod in+jcomp | advl nmod jcomp in_othr |   |   |   |   |   |   |   |   | . | cc (coordinating conjunction) |   | cls phrs |   |   |   |   |   |   |   |   | . | cs (subordinating conjunction) |   | cnd con cos cs_othr |   |   |   |   |   |   |   |   | . | dt (determiner) |   | art dt_dem poss |   |   |   |   |   |   |   |   | . | pro (pronoun) |   | dem 1st 2nd 3rd othr | sg pl |   |   |   |   |   |   |   | . | comp (complementizer) |   | comp_that comp_wh |   |   |   |   |   |   |   |   | . | relpro (relative pronoun) |   | relpro_that relpro_wh |   |   |   |   |   |   |   |   | . | to (to) |   |   |   |   |   |   |   |   |   |   | . ",
+    "url": "/docs/sub-cx%20tags/#sub-cx-tags-table",
+    
+    "relUrl": "/docs/sub-cx%20tags/#sub-cx-tags-table"
+  },"159": {
+    "doc": "Sub-cx Tags",
+    "title": "Sub-cx Tags",
+    "content": " ",
+    "url": "/docs/sub-cx%20tags/",
+    
+    "relUrl": "/docs/sub-cx%20tags/"
+  },"160": {
+    "doc": "comp",
+    "title": "pro",
+    "content": " ",
+    "url": "/docs/sub-cx%20tags/11_comp/#pro",
+    
+    "relUrl": "/docs/sub-cx%20tags/11_comp/#pro"
+  },"161": {
+    "doc": "comp",
+    "title": "comp",
+    "content": " ",
+    "url": "/docs/sub-cx%20tags/11_comp/",
+    
+    "relUrl": "/docs/sub-cx%20tags/11_comp/"
+  },"162": {
+    "doc": "cs",
+    "title": "cs",
+    "content": " ",
+    "url": "/docs/sub-cx%20tags/8_cs/",
+    
+    "relUrl": "/docs/sub-cx%20tags/8_cs/"
+  },"163": {
+    "doc": "pro",
+    "title": "pro",
+    "content": " ",
+    "url": "/docs/sub-cx%20tags/10_pro/",
+    
+    "relUrl": "/docs/sub-cx%20tags/10_pro/"
+  },"164": {
+    "doc": "Non-Finite Dependent Clause",
+    "title": "Non-Finite dependent clause",
+    "content": "In contrast to finite dependent clauses, non-finite dependent clauses are distinct from their finite counterparts in that they do not contain a verb phrase marking tense or modality. Therefore, structurally they are more succinct and implicit compared to finite clauses. They typically omit an explicit subject and often do not require a subordinator, which leads to a lack of explicitness and a compact semantic structure. Interpreting a non-finite clause often requires context from the main clause and sometimes from the broader context of the discourse. There are three primary types of non-finite clauses, each characterized by a different form of verb phrase: to-infinitive clauses, ing-clauses, and ed-clauses (pp. 198-201). Below are some examples to compare between non-finite and finite clauses: . ",
+    "url": "/docs/cx%20tags/2_Non-finite%20Clause/#non-finite-dependent-clause",
+    
+    "relUrl": "/docs/cx%20tags/2_Non-finite%20Clause/#non-finite-dependent-clause"
+  },"165": {
+    "doc": "Non-Finite Dependent Clause",
+    "title": "Non-Finite Dependent Clause",
+    "content": " ",
+    "url": "/docs/cx%20tags/2_Non-finite%20Clause/",
+    
+    "relUrl": "/docs/cx%20tags/2_Non-finite%20Clause/"
+  },"166": {
+    "doc": "relpro",
+    "title": "pro",
+    "content": " ",
+    "url": "/docs/sub-cx%20tags/12_relpro/#pro",
+    
+    "relUrl": "/docs/sub-cx%20tags/12_relpro/#pro"
+  },"167": {
+    "doc": "relpro",
+    "title": "relpro",
+    "content": " ",
+    "url": "/docs/sub-cx%20tags/12_relpro/",
+    
+    "relUrl": "/docs/sub-cx%20tags/12_relpro/"
+  },"168": {
+    "doc": "dt",
+    "title": "cs",
+    "content": " ",
+    "url": "/docs/sub-cx%20tags/9_dt/#cs",
+    
+    "relUrl": "/docs/sub-cx%20tags/9_dt/#cs"
+  },"169": {
+    "doc": "dt",
+    "title": "dt",
+    "content": " ",
+    "url": "/docs/sub-cx%20tags/9_dt/",
+    
+    "relUrl": "/docs/sub-cx%20tags/9_dt/"
+  },"170": {
+    "doc": "in",
+    "title": "in",
+    "content": " ",
+    "url": "/docs/sub-cx%20tags/6_in/",
+    
+    "relUrl": "/docs/sub-cx%20tags/6_in/"
+  },"171": {
+    "doc": "vbmain",
+    "title": "vbmain",
+    "content": " ",
+    "url": "/docs/sub-cx%20tags/4_vbmain/",
+    
+    "relUrl": "/docs/sub-cx%20tags/4_vbmain/"
+  },"172": {
+    "doc": "vbaux",
+    "title": "vbaux",
+    "content": " ",
+    "url": "/docs/sub-cx%20tags/5_vbaux/",
+    
+    "relUrl": "/docs/sub-cx%20tags/5_vbaux/"
+  },"173": {
+    "doc": "to",
+    "title": "pro",
+    "content": " ",
+    "url": "/docs/sub-cx%20tags/13_to/#pro",
+    
+    "relUrl": "/docs/sub-cx%20tags/13_to/#pro"
+  },"174": {
+    "doc": "to",
+    "title": "to",
+    "content": " ",
+    "url": "/docs/sub-cx%20tags/13_to/",
+    
+    "relUrl": "/docs/sub-cx%20tags/13_to/"
+  },"175": {
+    "doc": "Finite Dependent Clause",
+    "title": "Finite dependent clause",
+    "content": "Finite dependent clauses are characterized by their inclusion of a verb phrase that marks a clear tense or modality (pp. 193-198). Typically, finite dependent clauses include a subject unless it’s omitted due to ellipsis. These clauses are often introduced by a clause link, such as a subordinator (e.g., because, although) or a wh-word. ",
+    "url": "/docs/cx%20tags/1_Finite%20Clause/#finite-dependent-clause",
+    
+    "relUrl": "/docs/cx%20tags/1_Finite%20Clause/#finite-dependent-clause"
+  },"176": {
+    "doc": "Finite Dependent Clause",
+    "title": "Finite Dependent Clause",
+    "content": " ",
+    "url": "/docs/cx%20tags/1_Finite%20Clause/",
+    
+    "relUrl": "/docs/cx%20tags/1_Finite%20Clause/"
+  },"177": {
+    "doc": "rb",
+    "title": "rb",
+    "content": " ",
+    "url": "/docs/sub-cx%20tags/3_rb/",
+    
+    "relUrl": "/docs/sub-cx%20tags/3_rb/"
+  },"178": {
+    "doc": "nn",
+    "title": "nn",
+    "content": " ",
+    "url": "/docs/sub-cx%20tags/1_nn/",
+    
+    "relUrl": "/docs/sub-cx%20tags/1_nn/"
+  },"179": {
+    "doc": "Cx Tags",
+    "title": "Cx tags",
+    "content": "The tagging scheme is organized into hierarchical structures: . | Structural type The highest level of linguistic structure categorization. | Syntactic function Classifies elements based on their function within the structural type. | Complexity feature The focus of tagging, which includes: . | Descriptions: Detailed explanations of the complexity features. | Tag: Guidelines on where to apply the tag (TAG NAME) within the structure. | Examples: Examples, where the target complexity feature is underlined and the tagging location is highlighted in bold. | Discussions | . | . ",
+    "url": "/docs/cx%20tags/#cx-tags",
+    
+    "relUrl": "/docs/cx%20tags/#cx-tags"
+  },"180": {
+    "doc": "Cx Tags",
+    "title": "Cx tags: Table &amp; Example",
+    "content": ". Finite Dependent Clause . | Syntactic Function | Complexity Feature (Tag) | Examples | . | Adverbial | finitecls+advl | She finished her work before the deadline arrived. | . | Verb Complement | thatcls+vcomp | That the team won the championship was unexpected. | . | Verb Complement | whcls+vcomp | I wonder what that could be about. | . | Noun Phrase Modifier | finitecls+rel | The idea which comes up with great frequency involves several steps. | . | Noun Phrase Complement | thatcls+ncomp | The conclusion that global temperatures are rising is alarming. | . | Adjective Complement | thatcls+jcomp | We’re happy that the hunger strike has ended. | . | Adjective Complement | xtrapos+thatcls+jcomp | It’s horrible that he put up with Claire’s nagging. | . | Preposition Complement | whcls+incomp | She is interested in what you believe. | . Non-finite Dependent Clause . | Syntactic Function | Complexity Feature (Tag) | Examples | . | Adverbial | tocls+advl | To verify this hypothesis, sections of fixed cells were examined. | . | Adverbial | ingcls+advl | Running along the beach, she found a rare shell. | . | Adverbial | edcls+advl | The sky had grown leaden-grey, tinged with a glow somewhere between orange and violet. | . | Verb Complement | tocls+vcomp | I want to hold your hand. | . | Verb Complement | ingcls+vcomp | I like running south Amazon running trail. | . | Noun Phrase Modifier | tocls+rel | Where is the best place to eat dinner near me? | . | Noun Phrase Modifier | ingcls+rel | The person sitting on the chair is my colleague. | . | Noun Phrase Modifier | edcls+rel | The book published last year won several awards. | . | Noun Phrase Complement | tocls+ncomp | His decision to leave early surprised everyone. | . | Adjective Complement | tocls+jcomp | He was determined to find out the truth. | . | Adjective Complement | xtrapos+tocls+jcomp | It is possible to get things back on track. | . | Preposition Complement | ingcls+incomp | The process for washing dishes by hand is attached. | . Dependent Phrase . | Syntactic Function | Complexity Feature (Tag) | Examples | . | Adverbial Phrase | rb+advl | The car entered a curved road slowly. | . | Prepositional Phrase | in+advl | He spoke with enthusiasm. | . | Noun Phrase Modifier | attr+npremod | She had a really cute idea. | . | Noun Phrase Modifier | nn+npremod | I’m not into coffee cake. | . | Noun Phrase Modifier | of+npostmod | Do you know the name of this flower? | . | Noun Phrase Modifier | in+npostmod | The competition is open to young people under the age of 18. | . | Noun Phrase Modifier | appos+npostmod | The boss, John Harris is a passionate figure. | . | Adjective Complement | in+jcomp | She was thrilled with her completion of the PhD program. | . | Adjective/Adverb Modifier | rb+jjrbmod | The movie was surprisingly good. | . ",
+    "url": "/docs/cx%20tags/#cx-tags-table--example",
+    
+    "relUrl": "/docs/cx%20tags/#cx-tags-table--example"
+  },"181": {
+    "doc": "Cx Tags",
+    "title": "Cx Tags",
+    "content": " ",
+    "url": "/docs/cx%20tags/",
+    
+    "relUrl": "/docs/cx%20tags/"
+  },"182": {
+    "doc": "jj",
+    "title": "jj",
+    "content": " ",
+    "url": "/docs/sub-cx%20tags/2_jj/",
+    
+    "relUrl": "/docs/sub-cx%20tags/2_jj/"
+  },"183": {
+    "doc": "Home",
+    "title": "LxGrTagger doc",
+    "content": ". | This is a live documentation for LxGrTagger. This page provides a reference for interpreting the tags used in LxGrTagger. Each tag is explained with descriptions, associated complexity features (cx tags), and fine-grained category (sub-cx tags) details. | The guidelines are primarily based on Longman Grammar of Spoken and Written English by Biber et al. (1999). We paraphrase the content while specifying the referenced pages. When citing other works, we provide both the full reference and corresponding page numbers. | . Last updated: Feb. 2025 Currently maintained by: LCR-ADS lab at the University of Oregon Contributed by: Douglas Biber, Jacobb Dirkx, Jesse Egbert, Kristopher Kyle, Augustus Paddock, Randi Reppen, Hakyung Sung &amp; others ",
+    "url": "/#lxgrtagger-doc",
+    
+    "relUrl": "/#lxgrtagger-doc"
+  },"184": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"185": {
+    "doc": "cc",
+    "title": "cc",
+    "content": " ",
+    "url": "/docs/sub-cx%20tags/7_cc/",
+    
+    "relUrl": "/docs/sub-cx%20tags/7_cc/"
+  },"186": {
+    "doc": "Dependent Phrase",
+    "title": "Dependent phrase",
+    "content": " ",
+    "url": "/docs/cx%20tags/3_Dependent%20Phrase/#dependent-phrase",
+    
+    "relUrl": "/docs/cx%20tags/3_Dependent%20Phrase/#dependent-phrase"
+  },"187": {
+    "doc": "Dependent Phrase",
+    "title": "Dependent Phrase",
+    "content": " ",
+    "url": "/docs/cx%20tags/3_Dependent%20Phrase/",
+    
+    "relUrl": "/docs/cx%20tags/3_Dependent%20Phrase/"
+  }
+}

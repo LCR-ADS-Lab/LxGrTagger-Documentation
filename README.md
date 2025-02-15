@@ -1,8 +1,7 @@
 # LxGrTagger Annotation Guidelines
 
 - This project is under the [LCR-ADS lab](https://lcr-ads-lab.github.io/LCR-ADS-Home/) at the University of Oregon's Linguistics Department, led by Dr. Kristopher Kyle (Student researchers: Jacob Dirkx, Hana Dussan, Augustus Paddock, Hakyung Sung, and Ryan Walker). 
-- We are currently developing tag descriptions and detailed annotation guidelines for complexity features for [LxGrTagger](https://github.com/kristopherkyle/LxGrTgr).
-  
+
 - The documentation for the LxGrTagger is available [here](https://lcr-ads-lab.github.io/LxGrTagger-Documentation/).
 
 ## License
