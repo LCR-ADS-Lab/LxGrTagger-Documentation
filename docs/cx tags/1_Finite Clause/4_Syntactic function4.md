@@ -17,7 +17,7 @@ nav_order: 4
             -  (2) *to*-infinitive clauses: *You've been given [permission] <ins>to wear them.</ins>* (Note: this is NOT included in the tag, but for reference)
 
     - Noun phrase postmodifiers are different from noun phrase complement clauses (p. 644)
-        - *Peter reached out for the well-thumbed report <ins>that **lay** behind him on the cupboard top.</ins>* (NP postmodifier; NOT included in this tag, it should be [noun + finite relative clause](../1_structural%20type1/3_Syntactic%20function3.html#1-3-1-noun--finite-relative-clause)).
+        - *Peter reached out for the well-thumbed report <ins>that **lay** behind him on the cupboard top.</ins>* (NP postmodifier; NOT included in this tag, it should be `finitecls+rel`).
         - *Other semiconductor stocks eased folluwing an industry trade group's [report] <ins>that its leading indicator **fell** in September.</ins>* (NP complement clause; included)
 
 2. Tag
@@ -31,7 +31,7 @@ nav_order: 4
 
 **Noun phrase (NP) complements**
 
-Earlier discussions on the [verb complement clauses](2_Syntactic%20function2.html#1-2-clause-constituent-verb-complement) have clarified that complement clauses serve as dependent clauses which fulfill the role of completing a verb's meaning within a sentence. An NP complement is essentially a complement associated with a noun rather than a verb. This notion of NP complementation, as detailed by Haegeman & Guéron (1998, pp.440-441), suggests that just as verbs can take a diverse array of complements ranging from finite to non-finite clauses, nouns too can select finite clauses to complement their meanings. Consider/compare following examples: 
+Earlier discussions on the verb complement clauses have clarified that complement clauses serve as dependent clauses which fulfill the role of completing a verb's meaning within a sentence. An NP complement is essentially a complement associated with a noun rather than a verb. This notion of NP complementation, as detailed by Haegeman & Guéron (1998, pp.440-441), suggests that just as verbs can take a diverse array of complements ranging from finite to non-finite clauses, nouns too can select finite clauses to complement their meanings. Consider/compare following examples: 
 - *He considers <ins>that she deserves a promotion</ins>*. (verb-complement)
 - *The consideration <ins>that she deserves a promotion</ins> weighs heavily on his mind.* (NP-complement)
 - *She believes <ins>that honesty is the best policy</ins>.* (verb-complement)
@@ -39,6 +39,6 @@ Earlier discussions on the [verb complement clauses](2_Syntactic%20function2.htm
 
 **NP modifier vs. NP complement**   
 
-The relationsip between [NP modifers](/3_Syntactic%20function3.md) and NP complements are often ambiguous (p.644). 
+The relationsip between NP modifers and NP complements are often ambiguous (p.644). 
 
 NP modifiers serve to describe and modify a noun by supplying additional details about the noun's characteristics. These modifiers append descriptive information but are not necessary for the grammatical integrity of the noun phrase. In contrast, NP complements are clauses or phrases that furnish complete information, which is crucial to understanding the noun's full meaning. NP complements are closely linked to the noun and are indispensable for the completeness of the noun phrase. For example, in the sentence *His assumption <ins>that the work was easy</ins> turned out to be wrong*, the NP complement clause *<ins>that the work was easy</ins>* is essential. Without this complement, the nature of the *assumption* would remain unclear.

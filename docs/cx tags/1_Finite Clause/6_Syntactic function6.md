@@ -26,4 +26,4 @@ nav_order: 6
 
 **Prepositional phrases**
 
-Prepositional phrases are structures that combine a preposition with a complement, typically a noun phrase. This combination extends a noun phrase, creating a link that integrates it into the larger context of a sentence. Examples include *in the morning*, *to him*, *a street with no name*, and *in which she had to be expelled*. Prepositions can be accompanied by nominal clauses (*wh*-complement clause, e.g., *suggestion for <ins>what we need</ins>*) and *ing*-clauses as complements (e.g., *interested in <ins>playing the piano</ins>) (p. 103).
+Prepositional phrases are structures that combine a preposition with a complement, typically a noun phrase. This combination extends a noun phrase, creating a link that integrates it into the larger context of a sentence. Examples include *in the morning*, *to him*, *a street with no name*, and *in which she had to be expelled*. Prepositions can be accompanied by nominal clauses (*wh*-complement clause, e.g., *suggestion for <ins>what we need</ins>*) and *ing*-clauses as complements (e.g., *interested in <ins>playing the piano</ins>*) (p. 103).
