@@ -15,7 +15,7 @@ nav_order: 3
         -  Relative pronoun: *which*, *who*, *whom*, *whose*, *that*
         -  Relative adverb: *where*, *when*, *why*, *how* 
         -  Zero relativizer: relativizer is _ommited_
-    - Nominal postmodifiers are different from noun phrase complement clauses (p. 644, see the next section on [noun phrase complement](/4_Syntactic%20function4.md)
+    - Nominal postmodifiers are different from noun phrase complement clauses (p. 644, see the next section on noun phrase complement.
 2. Tag
     - `finitecls+rel` is tagged on the **main verb** of the *that*- of *wh*- relative clause (also include the relative clause with deleted relative pronoun).
 3. Examples
