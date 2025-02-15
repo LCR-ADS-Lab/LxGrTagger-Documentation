@@ -6,8 +6,7 @@ nav_order: 1
 
 # LxGrTagger Documentation
 
-- This is a live documentation for [LxGrTagger](https://github.com/kristopherkyle/LxGrTgr).
-This page provides a reference for interpreting the tags used in LxGrTagger.
+- This is a live documentation for [LxGrTagger](https://github.com/kristopherkyle/LxGrTgr), which provides a reference for interpreting the tags used in LxGrTagger.
 Each `tag` is explained with descriptions and examples.
 
 - The guidelines are primarily based on *Longman Grammar of Spoken and Written English* by Biber et al. (1999). We paraphrase the content while specifying the referenced pages. When citing other works, we provide both the reference and corresponding page numbers.
