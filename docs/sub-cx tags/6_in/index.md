@@ -1,6 +1,6 @@
 ---
 title: in
-parent: Sub-Cx Tags
+parent: Fine-grained Tags
 nav_order: 6
 ---
 

@@ -1,22 +1,22 @@
 ---
-title: Sub-Cx Tags
+title: Fine-grained Tags
 nav_order: 4
 ---
 
-# Sub-Cx tags
+# Fine-grained tags
 
-Sub-Cx tags provide additional detail, supplementing the associated cx tags. The scheme is organized into the following structures:
+Fine-grained tags provide additional detail, supplementing the associated complexity (cx) tags. The scheme is organized into the following structures:
 
    1. **Associated cx tags**
    	Linked to the LxGrTagger complexity feature tags.
    2. **Main tag**
    	Closely related to the part-of-speech (POS) information.
-   3. **Fine-Grained category tags** (cat)
+   3. **Category tags** (cat)
 	Offer more specific morphological or syntactic details.
 
-## Sub-Cx tags: Table
+## Fine-grained tags: Table
 
-| Main Tag                         | Associated Complexity Tags                                                                                                                                                                                                                                                                                                                                                                                                                                             | cat1                                        | cat2                                  | cat3                    | cat4                                     | cat5                     | cat6                              | cat7                                                         | cat8                      | cat9  |
+| Main Tag                         | Associated cx Tags                                                                                                                                                                                                                                                                                                                                                                                                                                             | cat1                                        | cat2                                  | cat3                    | cat4                                     | cat5                     | cat6                              | cat7                                                         | cat8                      | cat9  |
 |----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|---------------------------------------|-------------------------|-----------------------------------------|--------------------------|-----------------------------------|--------------------------------------------------------------|---------------------------|-------|
 | nn (noun)                        | [nn+npremod](../cx%20tags/3_Dependent%20Phrase/2_Syntactic%20function2/#noun-as-noun-pre-modifier)<br>[appos+npostmod](../cx%20tags/3_Dependent%20Phrase/2_Syntactic%20function2/#appositive-noun-phrase-as-noun)                                                                                                                                                                                                                                             | pl                                          | nom<br>proper<br>title                | npremod<br>nappos<br>sgen |                                         |                          |                                   |                                                              |                           |       |
 | jj (adjective)                   | [attr+npremod](../cx%20tags/3_Dependent%20Phrase/2_Syntactic%20function2/#attributive-adjectives-as-noun-pre-modifier)                                                                                                                                                                                                                                                                                                                                               | attrb<br>pred                               | ing<br>ed                            |                         |                                         |                          |                                   |                                                              |                           |       |

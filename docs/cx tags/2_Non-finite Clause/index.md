@@ -1,6 +1,6 @@
 ---
 title: Non-Finite Dependent Clause
-parent: Cx Tags
+parent: Complexity Tags
 nav_order: 2
 ---
 

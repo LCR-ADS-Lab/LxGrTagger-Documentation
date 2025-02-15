@@ -1,9 +1,9 @@
 ---
-title: Cx Tags
+title: Complexity Tags
 nav_order: 3
 ---
 
-## Cx tags
+## Complexity tags (Cx tags)
 
 The tagging scheme is organized into hierarchical structures:
 
@@ -20,8 +20,6 @@ The tagging scheme is organized into hierarchical structures:
 
 
 ## Cx tags: Table & Example
-
----
 
 ### Finite Dependent Clause
 {: #finite-clause}

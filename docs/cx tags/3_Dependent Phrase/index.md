@@ -1,6 +1,6 @@
 ---
 title: Dependent Phrase
-parent: Cx Tags
+parent: Complexity Tags
 nav_order: 3
 ---
 
