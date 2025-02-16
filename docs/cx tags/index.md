@@ -3,7 +3,7 @@ title: Complexity Tags
 nav_order: 3
 ---
 
-## Complexity (cx) tags
+# Complexity (cx) tags
 
 The tagging scheme is organized into hierarchical structures:
 
