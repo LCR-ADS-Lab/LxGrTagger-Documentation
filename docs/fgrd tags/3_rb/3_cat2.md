@@ -14,4 +14,7 @@ nav_order: 2
 2. Tag
     - `ly`
 3. Examples
-    - *(Content to be added)*
+    - I think i told you you'd <ins>**probably**</ins> be very happy in Mexico. (MICASE SEM140JG070, sentid = 105)
+    - Chris i'll tell you very <ins>**quickly**</ins> how we got to that. (MICASE STP125JG050, sentid = 234)
+    - <ins>****</ins>
+    - <ins>****</ins>
