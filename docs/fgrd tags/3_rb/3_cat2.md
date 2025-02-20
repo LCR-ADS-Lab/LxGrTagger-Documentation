@@ -9,7 +9,7 @@ nav_order: 2
 # ly
 
 1. Descriptions
-    - manner
+    - adverb of manner
     - *(Content to be added)*
 2. Tag
     - `ly`
