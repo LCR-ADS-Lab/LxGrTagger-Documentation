@@ -21,7 +21,7 @@ nav_order: 6
    - When *wh*-complement clauses are part of a comparative construction, they were not tagged.
       - e.g., *this is the probability of getting **a score bigger than** <ins>what we calculate</ins>.*
    - Q. Should we include *that* clauses? (e.g., *He took comfort in <ins>that he was not alone in his struggles</ins>*; *The scientist found satisfaction in <ins>that her research was making a difference</ins>*)
-   - Check out the list of the multi-word prepositions [here](https://lcr-ads-lab.github.io/LxGrTagger-Documentation/docs/Discussions/#multi-word-prepositions-and-subordinators).
+   - Check out the list of the multi-word prepositions [here](https://lcr-ads-lab.github.io/LxGrTagger-Documentation/docs/Discussions/#multi-words).
 
 ---
 
