@@ -20,10 +20,14 @@ nav_order: 1
    - *I raved about it <ins>**afterwards**</ins>.*
    - *He entered the room <ins>**quietly**</ins>.*
 4. Discussions
-   - We do NOT tag linking adverbs such as *however*, *so*, *therefore*, *thus*, etc.
-      - *He was feeling bad. He went to work, **however**, and tried to concentrate.*
-      - ***So** there’s nothing we can do about it?*
-
+   - We do not tag linking adverbs such as:
+   ```markdown
+   first, second, secondly, thirdly, lastly, altogether, overall, namely, ie, therefore, thus, however, alternatively, incidentally, now, next, further, similarly, also, likewise, moreover, i.e., e.g., consequently, so, then, anyway, yet, conversely, instead, anyhow, besides, nevertheless, still
+   ```
+   - Check out the list of the multi-word linking adverbs [here](https://lcr-ads-lab.github.io/LxGrTagger-Documentation/docs/Discussions/#multi-words).
+   - Interpretation of some linking adverbs is based on the context in which they appear. For example,
+      - *<ins>**Now**</ins>, let's examine the results of the experiment.* (The adverb "now" serves as an introductory adverb to transition into the analysis, so it is not tagged.)
+      - *I need the report <ins>**now**.</ins>* (The adverb "now" is used as a temporal indicator to denote immediacy, rather than serving as a linking adverb, so it is tagged.)
 ---
 
 ## preposition phrase
