@@ -20,7 +20,7 @@ nav_order: 1
    - *I raved about it <ins>**afterwards**</ins>.*
    - *He entered the room <ins>**quietly**</ins>.*
 4. Discussions
-   - We do not tag linking adverbs such as (pp. 558-559, pp. 875-879):
+   - We do not tag linking adverbs such as (pp. 558-559; 875-879):
    ```markdown
    first, second, secondly, thirdly, lastly, altogether, overall, namely, ie, therefore, thus, however, alternatively, incidentally, now, next, further, similarly, also, likewise, moreover, i.e., e.g., consequently, so, then, anyway, yet, conversely, instead, anyhow, besides, nevertheless, still
    ```
