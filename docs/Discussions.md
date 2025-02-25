@@ -45,7 +45,7 @@ as for, but for, except for, save for, as from, as of, out of, depending on, acc
 as far as, as opposed to, as distinct from, in exchange for, in return for, by means of, by virtue of, by way of, for lack of, for want of, in aid of, in back of, in case of, in charge of, in consequence of, in favour of, in front of, in lieu of, in light of, in need of, in place of, in respect of, in search of, in spite of, in terms of, in view of, on account of, on behalf of, on grounds of, on top of, by reference to, in addition to, in contrast to, in reference to, in regard to, in relation to, with regard to, with reference to, with respect to, at variance with, in accordance with, in comparison with, in compliance with, in conformity with, in contact with, in line with, as a result of, at the expense of, for the sake of, in the case of, in the event of, in the light of, on the grounds of, on the ground of, on the part of, with the exception of, at the back of, in the middle of
 ```
 
-### Multi-words subordinators
+### Multi-word subordinators
 
 ```markdown
 as if, as though, so that, in that
