@@ -31,7 +31,7 @@ We tagged the first main verb, not the subsequent verbs.
 
 ## Multi-words
 
-We defined several lists of fixed multi‐word sequences that are used during the processing of linking adverbs, prepositions, subordinators. 
+We defined several lists of fixed multi‐word sequences that are used during the processing of linking adverbs (pp. 558-559; 875-879), prepositions (p. 75), subordinators (pp.842-843). 
 
 ### Multi-word linking adverbs
 
@@ -39,7 +39,7 @@ We defined several lists of fixed multi‐word sequences that are used during th
 for one thing, in other words, for another, for another thing, in the first place, in the second place, first of all, to begin with, in addition, in sum, to conclude, by the same token, all in all, in conclusion, to summarize, which is to say, for example, for instance, on the other hand, in contrast, on the contrary, by comparison, in any case, at any rate, in spite of, after all, by the way
 ```
 
-### Two-word prepositions
+### Two-word prepositions 
 
 ```markdown
 as for, but for, except for, save for, as from, as of, out of, depending on, according to, as to, on to, up to, along with, apart from, aside from, away from, ahead of, inside of, instead of, irrespective of, outside of, regardless of, close to, contrary to, next to, opposite to, owing to, preliminary to, preparatory to, previous to, prior to, relative to, subsequent to, together with, back to, sort of, kind of, devoid of, exclusive of, void of, because of, due to, exclusive of, owing to, thanks to, such as, upwards of
