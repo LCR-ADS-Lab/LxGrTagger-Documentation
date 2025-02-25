@@ -14,7 +14,10 @@ nav_order: 4
 2. Tag
     - `active`
 3. Examples
-    - *(Content to be added)*
+    - Is this <ins>**working**</ins>? (MICASE INT175SF003, sentid = 0)
+    - It<ins>**'s**</ins> really cool. (MICASE LAB500SU089, sentid = 1)
+    - <ins>****</ins>
+    - <ins>****</ins>
 
 ---
 
@@ -26,7 +29,8 @@ nav_order: 4
 2. Tag
     - `pasv_agls`
 3. Examples
-    - *(Content to be added)*
+    - So different subsistence strategies have already been <ins>**introduced**</ins> to you. (MICASE LEL115JU090, sentid = 11)
+    - It has to be <ins>**exposed**</ins>, right? (MICASE LES305MU108, sentid = 80)
 
 ---
 
@@ -38,5 +42,8 @@ nav_order: 4
 2. Tag
     - `pasv_by`
 3. Examples
-    - *(Content to be added)*
+    - So it hasn't been <ins>**affected**</ins> by any of these other processes. (MICASE LES425SU093, sentid = 312)
+    - This poem is <ins>**structured**</ins> by seven four-line stanzas, with a rhyme scheme. (MICASE OFC300JU149, sentid = 125)
+    - <ins>****</ins>
+    - <ins>****</ins>
 
