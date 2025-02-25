@@ -29,9 +29,15 @@ We tagged the first main verb, not the subsequent verbs.
 
 - *A truck driver <ins>who just **slammed** and kicked at everything</ins>* (noun-finite relative clause)
 
-## Multi-word prepositions and subordinators
+## Multi-words
 
-We defined several lists of fixed multi‐word sequences that are used during the processing of prepositions and subordinators. 
+We defined several lists of fixed multi‐word sequences that are used during the processing of linking adverbs, prepositions, subordinators. 
+
+### Multi-word linking adverbs
+
+```markdown
+for one thing, in other words, for another, for another thing, in the first place, in the second place, first of all, to begin with, in addition, in sum, to conclude, by the same token, all in all, in conclusion, to summarize, which is to say, for example, for instance, on the other hand, in contrast, on the contrary, by comparison, in any case, at any rate, in spite of, after all, by the way
+```
 
 ### Two-word prepositions
 
