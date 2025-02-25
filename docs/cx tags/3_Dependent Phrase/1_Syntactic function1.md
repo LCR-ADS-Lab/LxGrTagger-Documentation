@@ -28,6 +28,7 @@ nav_order: 1
    - Interpretation of some linking adverbs is based on the context in which they appear. For example,
       - *<ins>**Now**</ins>, let's examine the results of the experiment.* (The adverb "now" serves as an introductory adverb to transition into the analysis, so it is not tagged.)
       - *I need the report <ins>**now**.</ins>* (The adverb "now" is used as a temporal indicator to denote immediacy, rather than serving as a linking adverb, so it is tagged.)
+        
 ---
 
 ## preposition phrase
