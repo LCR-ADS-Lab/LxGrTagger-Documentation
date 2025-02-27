@@ -14,4 +14,7 @@ nav_order: 1
 2. Tag
     - `mod`
 3. Examples
-    - *(Content to be added)*
+    - *I think the story <ins>**can**</ins> be read in three, separate levels* (MICASE SEM140JG070, sentid = 1303)
+    - *Sorry we <ins>**could**</ins> only get the old book*. (MICASE SGR175SU123, sentid = 0)
+    - <ins>****</ins>
+    - <ins>****</ins>

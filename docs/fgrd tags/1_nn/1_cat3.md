@@ -15,7 +15,7 @@ nav_order: 3
 2. Tag
     - `npremod`
 3. Examples
-    - *So you wanna print out the uh <ins>**lecture**</ins> notes for opiates next*. (MICASE LEL500SU088, sentid = 6)
+    - *Any questions about the <ins>**lecture**</ins> schedule, or the exam*? (MICASE LEL500SU088, sentid = 11)
     - *But we know there's the <ins>**independence**</ins> formula*. (MICASE LAB575JU095, sentid = 45)
     - <ins>****</ins>
     - <ins>****</ins>
@@ -30,7 +30,7 @@ nav_order: 3
 2. Tag
     - `nappos`
 3. Examples
-    - *They have a a a very extensice, team of people, through the country, primarily <ins>**volunteers**</ins>*. (MICASE DIS175SU027, sentid = 10)
+    - *They had no way of knowing, no <ins>**way**</ins>* of measuring, population changes. (MICASE DIS175SU027, sentid = 9)
     - *We, the <ins>**Students**</ins> Honoring Outstanding University Teaching, would now like to invite Dr Brenda Gunderson to the stage*. (MICASE COL575MX055, sentid = 22)
     - <ins>****</ins>
     - <ins>****</ins>
