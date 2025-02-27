@@ -23,3 +23,4 @@ nav_order: 6
 4. Discussions
    - We've included some comparatives (e.g., ADJ+*than*+**-ing**).
       - *It is more serious than <ins>**distoring** other items</ins>.*
+   - Check out the list of the multi-word prepositions [here](https://lcr-ads-lab.github.io/LxGrTagger-Documentation/docs/Discussions/#multi-words).

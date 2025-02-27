@@ -23,7 +23,7 @@ nav_order: 1
     - *They kept playing, <ins>until it **started** to rain</ins>.* 
 4. Discussions
     - Comparative structures (e.g., *being more unethical <ins>than if you indicate</ins>*) don’t pass movement tests for adverbials, and no other subordinator fits. Comparatives should be ignored in annotation.
-    - Multi-word subordinators (potentially be treated as a list): *as if, as though, even though, so that, such that, in order that, as long as.*
+    - Check out the list of the multi-word subordinators [here](https://lcr-ads-lab.github.io/LxGrTagger-Documentation/docs/Discussions/#multi-word-subordinators).
 
 
 ---
