@@ -16,8 +16,8 @@ nav_order: 6
 3. Examples
     - *I should have brought the plane that <ins>**runs**</ins> down*. (MICASE DEF270SF061, sentid = 7)
     - *So I'm going to crank this around and hope that you don't <ins>**get**</ins> sick*. (MICASE DIS150JU130, sentid = 38)
-    - *<ins>****</ins>
-    - *<ins>****</ins>
+    - *They are realities that <ins>**shape**</ins> our lives, our actions, our opportunities, and our judgements*.
+    - *First, the case study focuses on a setting that <ins>**is**</ins> neither unique nor incommensurable*.
 
 ---
 
@@ -31,8 +31,8 @@ nav_order: 6
 3. Examples
     - *Yeah, somebody who <ins>**knows**</ins> how to use their watch*. (MICASE LAB175SU026, sentid = 13)
     - *That's how they <ins>**measure**</ins> wealth*. (MICASE LEL115JU090, sentid = 237)
-    - *<ins>****</ins>
-    - *<ins>****</ins>
+    - *For Durkheim, the agent is the society itself which <ins>**transcend\[s\]**</ins> the level of social actors*.
+    - *Following that point, this paper will discuss how these authors <ins>**view**</ins> \[the\] emergence of a society and the state with regard to their relationships with individuals*.
 
 ---
 
@@ -46,8 +46,8 @@ nav_order: 6
 3. Examples
     - *Well why is it so hard to <ins>**remove**</ins> the second, proton*? (MICASE LEL200MU110, sentid = 31)
     - *You think how much earlier we learn to <ins>**walk**</ins> than we learn to <ins>**speak**</ins>*. (MICASE LES165JG121, sentid = 71)
-    - *<ins>****</ins>
-    - *<ins>****</ins>
+    - *Recent publications, such as Via (2001), have attempted to <ins>**review**</ins> and bolster the newest evidence for speciation in sympatry*.
+    - *The brood parasitic indigobirds rely on a novel method to <ins>**choose**</ins> their parasitized host*.
 
 ---
 
@@ -61,8 +61,8 @@ nav_order: 6
 3. Examples
     - *So, as soon as I recognize that as <ins>**being**</ins> on the list, I know I have a dative object here*. (MICASE LES215MU056, sentid = 101)
     - *So, here's an example of how to do the search <ins>**using**</ins> the online thesaurus and an easy shortcut*. (MICASE LES335JG065, sentid = 70)
-    - *<ins>****</ins>*
-    - *<ins>****</ins>*    
+    - *Recombination events happen when insertion sequences are present <ins>**flanking**</ins> certain genes*.
+    - *Reading is an interaction with a text, a form of <ins>**engaging**</ins> in a dialogue with another (Bakhtin, 1981)*.    
 
 ---
 
@@ -76,6 +76,6 @@ nav_order: 6
 3. Examples
     - *I have some stuff <ins>**written**</ins> on here*. (MICASE MTG425JG004, sentid = 153)
     - *I can just think of myself as <ins>**composed**</ins> of both body and brain*. (MICASE SEM475JU084, sentid = 107)
-    - *<ins>****</ins>*
-    - *<ins>****</ins>*
+    - *It will then discuss the differing interpretations of progressivism, as <ins>**exemplified**</ins> by Bowels and Gintis on the one hand and Diane Ravitch on the other*.
+    - *Almost every story ever <ins>**written**</ins> has a moral*.
 

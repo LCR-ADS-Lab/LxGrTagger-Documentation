@@ -16,8 +16,8 @@ nav_order: 8
 3. Examples
     - *That's it I'm <ins>**leaving**</ins>* (MICASE MTG999SU043, sentid = 123)
     - *It is the kind of city she's <ins>**talking**</ins> about*. (MICASE OFC115SU060, sentid = 1219)
-    - <ins>****</ins>
-    - <ins>****</ins>
+    - *The Magistrate's intentional forgetting is due to the guilt he <ins>**feels**</ins> for letting torture and hunting of the barbarians happen*.
+    - *It is like a game in which we <ins>**lose**</ins> ourselves, but are occasionally taken back to our position as spectator*.
 
 ---
 
@@ -31,6 +31,6 @@ nav_order: 8
 3. Examples
     - *Oh that's where they <ins>**get**</ins> that from*. (MICASE OFC175JU145, sentid = 35)
     - *I think the story can be <ins>**read**</ins> in three, separate levels*. (MICASE SEM140JG070, sentid = 1303)
-    - <ins>****</ins>
-    - <ins>****</ins>
+    - *That's the evil destiny out of the past I haven't dared <ins>**predict**</ins>*.
+    - *However, no matter how highly Amy <ins>**esteems**</ins> Roxana, Roxana esteems Amy to a much lesser extent*.
 
