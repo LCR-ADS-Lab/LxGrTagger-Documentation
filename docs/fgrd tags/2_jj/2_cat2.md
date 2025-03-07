@@ -14,8 +14,8 @@ nav_order: 2
 2. Tag
     - `ing`
 3. Examples
-    - *So an <ins>**interbreeding**</ins> group of individuals*. (MICASE OFC175JU145, sentid = 455)
-    - *We're gonna use the <ins>**existing**</ins> parking*. (MICASE STP125JG050, sentid = 34)
+    - *So an <ins>**interbreeding**</ins> group of individuals*. 
+    - *We're gonna use the <ins>**existing**</ins> parking*. 
     - *Note. Single-<ins>**sourcing**</ins> base material could positively or negatively affect Rubberland's cost for base material*.
     - *Surveys are given regularly to keep track of the <ins>**changing**</ins> environment*.
 
@@ -29,8 +29,8 @@ nav_order: 2
 2. Tag
     - `ed`
 3. Examples
-    - *Oh I have to make sure you have a <ins>**diversified**</ins> Starburst experience*. (MICASE TOU999JU030, sent id = 355)
-    - *And what they recommend is do all of the <ins>**assigned**</ins> problems*. (MICASE ADV700JU047, sentid = 640)
+    - *Oh I have to make sure you have a <ins>**diversified**</ins> Starburst experience*. 
+    - *And what they recommend is do all of the <ins>**assigned**</ins> problems*. 
     - *Due to the <ins>**increased**</ins> enrollment, Midville Academy has expressed concern regarding overcrowing in the cafeteria*.
     - *The current layout and processes are inefficient in handling the <ins>**increased**</ins> enrollment since the cafeteria opened*.
 
