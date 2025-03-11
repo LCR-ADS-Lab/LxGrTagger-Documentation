@@ -14,8 +14,8 @@ nav_order: 1
 2. Tag
     - `art`
 3. Examples
-    - *I mean you stop and think about it for <ins>**a**</ins> minute*. 
-    - *Yeah go ahead and use <ins>**the**</ins> first person*. 
+    - *I mean you stop and think about it for <ins>**a**</ins> minute*. (MICASE LES280JG138, Spoken)
+    - *Yeah go ahead and use <ins>**the**</ins> first person*. (MICASE LES300SU103, Spoken)
     - *People feel strongly about education and <ins>**the**</ins> effects of educational policy on their kids and their country*.
     - *<ins>**A**</ins> second problem with <ins>**the**</ins> federal mandate for educational reforms is funding*.
 
@@ -29,8 +29,8 @@ nav_order: 1
 2. Tag
     - `dt_dem`
 3. Examples
-    - *Do you want me to read <ins>**this**</ins> little thing*? 
-    - *And so <ins>**these**</ins> things have come a long way before they got any public attention*. 
+    - *Do you want me to read <ins>**this**</ins> little thing*? (MICASE LES355SU009, Spoken)
+    - *And so <ins>**these**</ins> things have come a long way before they got any public attention*. (MICASE LES405JG078, Spoken)
     - *<ins>**These**</ins> categories correspond to different areas of NLP and the entailments are representative of the type of texts that arise in <ins>**that**</ins> area*.
     - *Thus, one would expect to see similar judgements for <ins>**those**</ins> pairs of unmodified/modified tokens*.
 
@@ -44,8 +44,8 @@ nav_order: 1
 2. Tag
     - `poss`
 3. Examples
-    - *The site has lost <ins>**my**</ins> bookmark* 
-    - *Okay flip over <ins>**your**</ins> review sheet and do the second page*. 
+    - *The site has lost <ins>**my**</ins> bookmark* (MICASE LES445SU067, Spoken)
+    - *Okay flip over <ins>**your**</ins> review sheet and do the second page*. (MICASE LES500JU136, Spoken) 
     - *<ins>**Their**</ins> proposal seems to over-generate and predict the subject able to bind either of the objects*.
     - *VP-external subjects requires two positions from which the <ins>**predicate**</ins>'s theta roles are assigned but no movement*.
 

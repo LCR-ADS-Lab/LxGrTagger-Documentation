@@ -14,7 +14,7 @@ nav_order: 1
 2. Tag
     - `pl`
 3. Examples
-    - *Mhm, like forty <ins>**minutes**</ins> from here* 
-    - *No <ins>**thanks**</ins>* 
+    - *Mhm, like forty <ins>**minutes**</ins> from here*. (MICASE ADV700JU023, Spoken)
+    - *No <ins>**thanks**</ins>*. (MICASE SGR385SU057, Spoken)
     - *The majority of literature on plague dates back to the Middle <ins>**Ages**</ins>, when the disease was much more rampant*.
     - *Lactococcal <ins>**strains**</ins> have several important industrial <ins>**applications**</ins>*.
