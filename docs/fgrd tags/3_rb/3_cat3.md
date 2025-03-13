@@ -16,6 +16,6 @@ nav_order: 3
 3. Examples
     - *At the same time sometimes repitition, can sort <ins>**of**</ins> devalue things*. (MICASE TOU999MX062, Spoken)
     - *They've <ins>**also**</ins>, individually, changed courses*. (MICASE COL285MX038, Spoken)
-    - *Both movements are almost <ins>**always**</ins> addressing a negative change to the status quo*.
-    - *Despite these gains, however, Obama will <ins>**likely**</ins> take a hit from environmental groups as a result of his stance*.
+    - *Both movements are almost <ins>**always**</ins> addressing a negative change to the status quo*. (MICUSP NRE.G0.06.1, Written)
+    - *Despite these gains, however, Obama will <ins>**likely**</ins> take a hit from environmental groups as a result of his stance*. (MICUSP NRE.G1.01.1, Written)
     
