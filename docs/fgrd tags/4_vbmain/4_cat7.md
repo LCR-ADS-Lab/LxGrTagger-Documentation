@@ -9,7 +9,7 @@ nav_order: 7
 # vcomp
 
 1. Descriptions
-    - complement clause controleld by a verb
+    - complement clause controlled by a verb
     - *(Content to be added)*
 2. Tag
     - `vcomp`
@@ -39,7 +39,7 @@ nav_order: 7
 # ncomp
 
 1. Descriptions
-    - complement clause controleld by a noun
+    - complement clause controlled by a noun
     - *(Content to be added)*
 2. Tag
     - `ncomp`
@@ -54,7 +54,7 @@ nav_order: 7
 # incomp
 
 1. Descriptions
-    - complement clause controleld by a preposition
+    - complement clause controlled by a preposition
     - *(Content to be added)*
 2. Tag
     - `incomp`

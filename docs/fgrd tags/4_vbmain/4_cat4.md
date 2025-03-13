@@ -32,7 +32,7 @@ nav_order: 4
     - *So different subsistence strategies have already been <ins>**introduced**</ins> to you*. (MICASE LEL115JU090, Spoken)
     - *It has to be <ins>**exposed**</ins>, right*? (MICASE LES305MU108, Spoken)
     - *It can be <ins>**observed**</ins> through the individual level in the formation of gender identity*. (MICUSP SOC.G0.11.2, Written)
-    - *Judaism has an element of respect for the body that is <ins>**derived**</ins> from their holy book, the Torah*. (MICUSP SOC.G0.13.2, Written)
+    - *Judaism has an element of respect for the body that is **<ins>derived</ins>** from their holy book, the Torah*. (MICUSP SOC.G0.13.2, Written)
 ---
 
 # pasv_by
