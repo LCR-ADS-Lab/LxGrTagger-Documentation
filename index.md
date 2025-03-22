@@ -4,9 +4,9 @@ layout: home
 nav_order: 1
 ---
 
-# LxGrTagger Documentation
+# LxGrTagger Annotation Guidelines
 
-- This is documentation for [LxGrTagger](https://github.com/kristopherkyle/LxGrTgr), which provides a reference for interpreting the tags used in LxGrTagger. Note that this is a living document and is updated regularly.
+- This document represents the annotation guidelines for the tags used in [LxGrTagger](https://github.com/kristopherkyle/LxGrTgr). Note that this is a living document and is updated regularly.
 Each `tag` is explained with descriptions and examples.
 
 - The guidelines are primarily based on *Longman Grammar of Spoken and Written English* by Biber et al. (1999). We paraphrase the content while specifying the referenced pages. When citing other works, we provide both the reference and corresponding page numbers.
