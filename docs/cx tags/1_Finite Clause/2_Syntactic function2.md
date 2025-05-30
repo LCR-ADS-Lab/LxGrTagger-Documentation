@@ -20,10 +20,10 @@ nav_order: 2
     - *I suggested <ins>that she **sit** down on the chair and wait.</ins>* (p. 662)
     - *I would hope <ins>that we can **have** more control over them.</ins>*
     - *I propose <ins>that Mary should be **invited**.</ins>* (Haegeman & Guéron, 1998, p. 441)
-4. Discussions
+4. Discussions/Open Questions
     - *It seems <ins>that he brought that cup to his house</ins>.*
-    - **Q:** How do we tag extraposing verbs?
-    - **Q:** Should we include *if/wether-*complement clause here? or into the next category?
+    - **Q:** How do we tag extraposed verbs?
+    - **Q:** Should we include *if/whether-*complement clause here? or into the next category?
 
 
 ## verb + *wh*-complement
