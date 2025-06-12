@@ -53,6 +53,31 @@ nav_order: 1
 
 ---
 
+## adjective + *wh*-complement clause
+
+1. Descriptions
+    - This construction consists of a predicate adjective followed by a *wh*-complement clause. *Wh*-clauses can function as complements not only to verbs but also to adjectival predicates (p. 683)
+2. Tag
+    - `whcls+jcomp` is tagged on the **main verb** of the *wh*-complement clause.
+3. Examples
+    - *It is unclear <ins>who **wrote** the message</ins>*.
+    - *She’s unsure <ins>what he **meant** by that</ins>*.
+
+---
+
+## extraposed adjective + *wh*-complement clause 
+
+1. Descriptions
+    - Similar to *that*-complement clauses, *wh*-complement clauses can occasionally be extraposed, especially when functioning as complements to adjectival predicates (p. 683).
+2. Tag
+    - `xtrapos+whcl+jcomp` is tagged on the **main verb** of the *wh*-complement clause.
+3. Examples
+    - *It was incredible <ins>what had **happened** to them</ins>.*
+    - *It seemed incredible <ins>how much had **happened**</ins>.*
+
+
+---
+
 **Adjective phrases**
 
 Adjective phrases feature an adjective as the core component, known as the *head*, and may include additional modifiers. These modifiers can be single words, extended phrases, or even full clauses. Modifiers in an adjective phrase typically intensify or specify the quality of the adjective (e.g., *very fortunate*, *fortunate to meet her*; modifiers answer to the question of 'how fortunate'?). These accompanying elements, known as *complements*, often consist of prepositional phrases or clauses and serve to provide full meaning to the adjective (p. 101).

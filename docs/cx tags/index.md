@@ -26,15 +26,15 @@ The tagging scheme is organized into hierarchical structures:
 
 | Syntactic Function     | Complexity Feature (`Tag`) | Examples                                                        |
 |------------------------|----------------------------|-----------------------------------------------------------------|
-| Adjective Complement   | [thatcls+jcomp](./1_Finite%20Clause/5_Syntactic%20function5/#adjective--that-complement-clause)           | *We’re happy <ins>that the hunger strike has **ended**</ins>.*  |
-| Adjective Complement   | [xtrapos+thatcl+jcomp](./1_Finite%20Clause/5_Syntactic%20function5/#extraposed-adjective--that-complement-clause)   | *It's horrible <ins>that he **put** up with Claire’s nagging</ins>.* |
-| Adjective Complement   | [whcls+jcomp]           | *I'm sure <ins>why he **likes** it.</ins>*  |
-| Adjective Complement   | [xtrapos+whcl+jcomp]  | *It's great <ins>that he **ended** up working with the team</ins>.* |
-| Adverbial              | [finitecls+advl](./1_Finite%20Clause/1_Syntactic%20function1/#finite-adverbial-clause)          | *She finished her work <ins>before the deadline **arrived**</ins>.* |
-| Noun Phrase Modifier   | [finitecls+rel](./1_Finite%20Clause/3_Syntactic%20function3/#noun--finite-relative-clause)           | *The idea <ins>which **comes** up with great frequency</ins> involves several steps.* |
-| Noun Phrase Complement | [thatcls+ncomp](./1_Finite%20Clause/4_Syntactic%20function4/#noun--that-complement-clause)           | *The conclusion <ins>that global temperatures are **rising**</ins> is alarming.* |
-| Preposition Complement | [whcls+incomp](./1_Finite%20Clause/6_Syntactic%20function6/#preposition--wh-complement-clause)            | *She is interested in <ins>what you **believe**</ins>.*         |
-| Verb Complement        | [thatcls+vcomp](./1_Finite%20Clause/2_Syntactic%20function2/#verb--that-complement)          | *<ins>That the team **won** the championship</ins> was unexpected.* |
+| Adjective Complement   | [thatcls+jcomp](./1_Finite%20Clause/1_Syntactic%20function1/#adjective--that-complement-clause)           | *We’re happy <ins>that the hunger strike has **ended**</ins>.*  |
+| Adjective Complement   | [xtrapos+thatcl+jcomp](./1_Finite%20Clause/1_Syntactic%20function1/#extraposed-adjective--that-complement-clause)   | *It's horrible <ins>that he **put** up with Claire’s nagging</ins>.* |
+| Adjective Complement   | [whcls+jcomp](./1_Finite%20Clause/1_Syntactic%20function1/#adjective--wh-complement-clause)            | *I'm unsure <ins>why he **likes** it.</ins>*  |
+| Adjective Complement   | [xtrapos+whcl+jcomp](./1_Finite%20Clause/1_Syntactic%20function1/#extraposed-adjective--wh-complement-clause)  | *It's great <ins>that he **ended** up working with the team</ins>.* |
+| Adverbial              | [finitecls+advl](./1_Finite%20Clause/2_Syntactic%20function2/#finite-adverbial-clause)          | *She finished her work <ins>before the deadline **arrived**</ins>.* |
+| Noun Phrase Complement | [thatcls+ncomp](./1_Finite%20Clause/3_Syntactic%20function3/#noun--that-complement-clause)           | *The conclusion <ins>that global temperatures are **rising**</ins> is alarming.* |
+| Noun Phrase Modifier   | [finitecls+rel](./1_Finite%20Clause/4_Syntactic%20function4/#noun--finite-relative-clause)           | *The idea <ins>which **comes** up with great frequency</ins> involves several steps.* |
+| Preposition Complement | [whcls+incomp](./1_Finite%20Clause/5_Syntactic%20function5/#preposition--wh-complement-clause)            | *She is interested in <ins>what you **believe**</ins>.*         |
+| Verb Complement        | [thatcls+vcomp](./1_Finite%20Clause/6_Syntactic%20function6/#verb--that-complement)          | *<ins>That the team **won** the championship</ins> was unexpected.* |
 | Verb Complement        | [thatcls+BEcomp]         | *The finding is <ins>that fear **improved** the partial memory</ins>.* |
 | Verb Complement        | [xtrapos+thatcls+vcomp]         | *It seems <ins>that the experiment **changed** everything</ins>.* |
 | Verb Complement        | [whcls+vcomp](./1_Finite%20Clause/2_Syntactic%20function2/#verb--wh-complement)             | *I wonder <ins>what that could **be** about</ins>.*             |
