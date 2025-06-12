@@ -35,11 +35,11 @@ The tagging scheme is organized into hierarchical structures:
 | Noun Phrase Modifier   | [finitecls+rel](./1_Finite%20Clause/4_Syntactic%20function4/#noun--finite-relative-clause)           | *The idea <ins>which **comes** up with great frequency</ins> involves several steps.* |
 | Preposition Complement | [whcls+incomp](./1_Finite%20Clause/5_Syntactic%20function5/#preposition--wh-complement-clause)            | *She is interested in <ins>what you **believe**</ins>.*         |
 | Verb Complement        | [thatcls+vcomp](./1_Finite%20Clause/6_Syntactic%20function6/#verb--that-complement)          | *<ins>That the team **won** the championship</ins> was unexpected.* |
-| Verb Complement        | [thatcls+BEcomp]         | *The finding is <ins>that fear **improved** the partial memory</ins>.* |
-| Verb Complement        | [xtrapos+thatcls+vcomp]         | *It seems <ins>that the experiment **changed** everything</ins>.* |
+| Verb Complement        | [thatcls+BEcomp](./1_Finite%20Clause/6_Syntactic%20function6/#beverb--that-complement)         | *The finding is <ins>that fear **improved** the partial memory</ins>.* |
+| Verb Complement        | [xtrapos+thatcls+vcomp](./1_Finite%20Clause/6_Syntactic%20function6/#extraposed-verb--that-complement-clause)          | *It seems <ins>that the experiment **changed** everything</ins>.* |
 | Verb Complement        | [whcls+vcomp](./1_Finite%20Clause/2_Syntactic%20function2/#verb--wh-complement)             | *I wonder <ins>what that could **be** about</ins>.*             |
-| Verb Complement        | [whcls+BEcomp]         | *The question is <ins>what the real motive **was**</ins>.* |
-| Verb Complement        | [xtrapos+whcls+vcomp]         | *It turned out <ins>what they had **planned** all along</ins>.* |
+| Verb Complement        | [whcls+BEcomp](./1_Finite%20Clause/6_Syntactic%20function6/#beverb--wh-complement)         | *The question is <ins>what the real motive **was**</ins>.* |
+| Verb Complement        | [xtrapos+whcls+vcomp](./1_Finite%20Clause/6_Syntactic%20function6/#extraposed-verb--wh-complement-clause)          | *It turned out <ins>what they had **planned** all along</ins>.* |
 
 
 ---
