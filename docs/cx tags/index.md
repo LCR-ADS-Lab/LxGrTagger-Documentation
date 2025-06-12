@@ -71,13 +71,13 @@ The tagging scheme is organized into hierarchical structures:
 | Syntactic Function        | Complexity Feature (`Tag`) | Examples                                                        |
 |---------------------------|----------------------------|-----------------------------------------------------------------|
 | Adjective Complement      | [in+jcomp](./3_Dependent%20Phrase/1_Syntactic%20function1/#preposition-phrases-as-adjective-complement)                | *She was thrilled <ins>**with** her completion of the PhD program</ins>.* |
-| Adjective/Adverb Modifier | [rb+jjrbmod](./3_Dependent%20Phrase/1_Syntactic%20function1/#adverb-phrase-as-adjectiveadverb-modifier)              | *The movie was <ins>**surprisingly**</ins> good.*              |
+| Adjective/Adverb Modifier | [rb+jjrbmod](./3_Dependent%20Phrase/2_Syntactic%20function2/#adverb-phrase-as-adjectiveadverb-modifier)              | *The movie was <ins>**surprisingly**</ins> good.*              |
 | Adverbial Phrase          | [rb+advl](./3_Dependent%20Phrase/3_Syntactic%20function3/#adverb-phrase)                 | *The car entered a curved road <ins>**slowly**</ins>.*          |
-| Adverbial (Prepositional) Phrase      | [in+advl](./3_Dependent%20Phrase/1_Syntactic%20function1/#prepositional-phrase)                 | *He spoke <ins>**with** enthusiasm</ins>.*                     |
-| Noun Phrase Modifier      | [attr+npremod](./3_Dependent%20Phrase/2_Syntactic%20function2/#attributive-adjectives-as-noun-pre-modifier)            | *She had <ins>a really **cute**</ins> idea.*                   |
-| Noun Phrase Modifier      | [nn+npremod](./3_Dependent%20Phrase/2_Syntactic%20function2/#noun-as-noun-pre-modifier)            | *I'm not into <ins>**coffee**</ins> cake.*                     |
-| Noun Phrase Modifier      | [of+npostmod](./3_Dependent%20Phrase/2_Syntactic%20function2/#of-phrases-as-noun)            | *Do you know the name <ins>**of** this flower</ins>?*          |
-| Noun Phrase Modifier      | [in+npostmod](./3_Dependent%20Phrase/2_Syntactic%20function2/#other-prepositional-phrases-as-noun)             | *The competition is open to young people <ins>**under** the age of 18</ins>.* |
-| Noun Phrase Modifier      | [appos+npostmod](./3_Dependent%20Phrase/2_Syntactic%20function2/#appositive-noun-phrase-as-noun)          | *The boss, <ins>John **Harris**</ins> is a passionate figure.* |
+| Adverbial (Prepositional) Phrase      | [in+advl](./3_Dependent%20Phrase/3_Syntactic%20function3/#prepositional-phrase)                 | *He spoke <ins>**with** enthusiasm</ins>.*                     |
+| Noun Phrase Modifier      | [attr+npremod](./3_Dependent%20Phrase/4_Syntactic%20function4/#attributive-adjectives-as-noun-pre-modifier)            | *She had <ins>a really **cute**</ins> idea.*                   |
+| Noun Phrase Modifier      | [nn+npremod](./3_Dependent%20Phrase/4_Syntactic%20function4/#noun-as-noun-pre-modifier)            | *I'm not into <ins>**coffee**</ins> cake.*                     |
+| Noun Phrase Modifier      | [of+npostmod](./3_Dependent%20Phrase/4_Syntactic%20function4/#of-phrases-as-noun)            | *Do you know the name <ins>**of** this flower</ins>?*          |
+| Noun Phrase Modifier      | [in+npostmod](./3_Dependent%20Phrase/4_Syntactic%20function4/#other-prepositional-phrases-as-noun)             | *The competition is open to young people <ins>**under** the age of 18</ins>.* |
+| Noun Phrase Modifier      | [appos+npostmod](./3_Dependent%20Phrase/4_Syntactic%20function4/#appositive-noun-phrase-as-noun)          | *The boss, <ins>John **Harris**</ins> is a passionate figure.* |
 
 
