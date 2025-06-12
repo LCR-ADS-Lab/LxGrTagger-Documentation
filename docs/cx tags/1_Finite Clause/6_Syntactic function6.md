@@ -6,7 +6,7 @@ nav_order: 6
 
 # Verb complement
 
-## verb + *that*-complement {#verb--that-complement}
+## verb + *that*-complement
 
 1. Descriptions
     - Verbs controlling *that*-clauses are categorized into three domains (p. 661):
@@ -25,6 +25,36 @@ nav_order: 6
     - **Q:** How do we tag extraposed verbs?
     - **Q:** Should we include *if/whether-*complement clause here? or into the next category?
 
+---
+
+## *BE*verb + *that*-complement
+
+1. Descriptions
+    - This feature involves a copular verb (*be*) followed by a *that*-complement clause, typically introduced by *that* but sometimes with a zero complementizer. 
+2. Tag
+    - `thatcls+BEcomp` is tagged to the **main verb** within the *that*-complement clause.
+3. Examples
+    - *The finding is <ins>that fear **improved** the partial memory.</ins>*
+    - *The point is <ins>that we need to **act** quickly</ins>.*
+
+---
+
+## extraposed verb + *that*-complement clause 
+
+1. Descriptions
+    - The *that*-complement clause is often extraposed , and a dummy subject (*it*) occupies the subject position. The matrix verb is typically cognitive or communicative (e.g., *seem, appear, make clear*). Both active and passive voice constructions are common: 
+        - Active voice: *It seems that..., It appears that...*
+        - Passive voice: *It is said that..., It was found that..., It has been shown that...*
+2. Tag
+    - `xtrapos+thatcls+vcomp` is tagged to the **main verb** within the *that*-complement clause.
+3. Examples
+    - *It seems <ins>that he **lied** about the whole thing</ins>.*
+    - *It appears <ins>that she **was** right all along</ins>.*
+    - *It is said <ins>that the company will **expand** next year</ins>.*
+    - *It was found <ins>that participants **performed** better under pressure</ins>.*
+    - *It has been shown <ins>that stress **affects** memory</ins>.*
+
+---
 
 ## verb + *wh*-complement
 
@@ -45,6 +75,33 @@ nav_order: 6
     - *No one knows <ins>how long the journey will **take**.</ins>*
     - *"What I don't understand," she said, "is <ins>why they don't **let** me know anything.</ins>"* (p. 193)
     - *that's <ins>how I **did** it.</ins>* (dataset)
+
+---
+
+## *BE*verb + *wh*-complement
+
+1. Descriptions
+    - This feature involves a copular verb (*be*) followed by a *wh*-complement clause, where the clause serves as the complement to a subject noun phrase.
+2. Tag
+    - `whcls+BEcomp` is tagged to the **main verb** within the *wh*-complement clause.
+3. Examples
+    - *The question is <ins>who **called** last night</ins>.*
+    - *The issue was <ins>where they **went** afterward</ins>.*
+    - *The mystery is <ins>how he **escaped** unnoticed</ins>.*
+
+---
+
+## extraposed verb + *wh*-complement clause 
+
+1. Descriptions
+    - The *wh*-complement clause can be extraposed to the end of the sentence, and a dummy subject (*it*) occupies the initial subject position.
+2. Tag
+    - `xtrapos+whcls+vcomp` is tagged to the **main verb** within the *wh*-complement clause.
+3. Examples
+    - *It depends on <ins>how they **respond**</ins>.*
+    - *It is unclear <ins>who **started** the fire</ins>.*
+    - *It doesn’t matter <ins>what she **thinks**</ins>.*
+    - *It remains to be seen <ins>how the public will **react**</ins>.*
 
 ---
 
