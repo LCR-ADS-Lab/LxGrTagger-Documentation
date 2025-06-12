@@ -1,7 +1,7 @@
 ---
 title: Adverbial
 parent: Finite Dependent Clause
-nav_order: 1
+nav_order: 2
 ---
 
 # Adverbial

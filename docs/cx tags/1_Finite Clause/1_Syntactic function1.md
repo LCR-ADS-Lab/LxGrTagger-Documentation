@@ -1,7 +1,7 @@
 ---
 title: Adjective complement
 parent: Finite Dependent Clause
-nav_order: 2
+nav_order: 1
 ---
 
 # Adjective complement
