@@ -1,30 +1,70 @@
 ---
-title: Preposition complement
+title: Verb complement
 parent: Finite Dependent Clause
 nav_order: 6
 ---
 
-# preposition complement
+# Verb complement
 
-## preposition + *wh*-complement clause
+## verb + *that*-complement {#verb--that-complement}
 
 1. Descriptions
-   -  *wh*-complement clauses can be compliments of preopositions and objects of prepositional verbs.
-   -  *wh*-complements begin with *who*, *what*, *when*, *how*, *where*, *why*, or *which*.
-   -  Common prepositions are *in*, *on*, *at*, *by*, with, about, and through
-   -  Prepositional verbs are verbs that when combined with a preposition may take on new meaning.
+    - Verbs controlling *that*-clauses are categorized into three domains (p. 661):
+        - Mental verbs: Pertaining to cognition and often including emotive/affective content (e.g., *hope*, *believe*, *feel*, *find*, *guess*, *know*, *see*, *think*, *assume*, *conclude*).
+        - Speech act verbs: Specifically denote speech activities (e.g., *say*, *admit*, *agree*, *announce*, *argue*, *bet*, *insist*).
+        - Other communication verbs: May not directly involve speech (e.g., *show*, *suggest*, *ensure*, *indicate*, *prove*).
 2. Tag
-   - `whcls+incomp` is tagged on the **main verb** of the *wh*-complement clause.
+    - `thatcls+vcomp` (including a ZERO complementizer) is tagged to the **main verb** within the *that*-complement clause.
 3. Examples
-   - *I’ll offer a suggestion for <ins>what we should **do**.</ins>*
-4. Discussions
-   - When *wh*-complement clauses are part of a comparative construction, they were not tagged.
-      - e.g., *this is the probability of getting **a score bigger than** <ins>what we calculate</ins>.*
-   - Q. Should we include *that* clauses? (e.g., *He took comfort in <ins>that he was not alone in his struggles</ins>*; *The scientist found satisfaction in <ins>that her research was making a difference</ins>*)
-   - Check out the list of the multi-word prepositions [here](https://lcr-ads-lab.github.io/LxGrTagger-Documentation/docs/Discussions/#multi-words).
+    - *I didn't agree <ins>that he should be **compelled** to do singing.</ins>* (p. 661)
+    - *I suggested <ins>that she **sit** down on the chair and wait.</ins>* (p. 662)
+    - *I would hope <ins>that we can **have** more control over them.</ins>*
+    - *I propose <ins>that Mary should be **invited**.</ins>* (Haegeman & Guéron, 1998, p. 441)
+4. Discussions/Open Questions
+    - *It seems <ins>that he brought that cup to his house</ins>.*
+    - **Q:** How do we tag extraposed verbs?
+    - **Q:** Should we include *if/whether-*complement clause here? or into the next category?
+
+
+## verb + *wh*-complement
+
+1. Descriptions
+    - *wh*-clauses can be either dependent (1) interrogative clauses or (2) nominal relative clauses (p. 683).
+    - Common *wh*-words: *what*, *who*, *where*, *when*, *why*, *how*, and *whether*
+    - Types:
+        - Interrogative clauses: Used with verbs like *ask* and *wonder* to present indirect questions.
+            - e.g., *I wonder <ins>what that could **be** about</ins>.*
+        - Nominal relative clauses: Can be paraphrased by a general head noun modified by the *wh*-clause (e.g., *<ins>Whoever **solves** this problem</ins> will be successful.* → *The person who solves this problem will be successful.*)
+            - e.g., *<ins>What **baffles** me</ins> is how few of them can spell.* 
+2. Tag
+    -  `whcls+vcomp` is tagged on the **main verb** of the *wh*-complement clause.
+3. Examples
+    - *I don't know <ins>how they **do** it.</ins>*
+    - *She showed me <ins>where we should **plant** the tree.</ins>*
+    - *He described <ins>what he **saw** at the event.</ins>*
+    - *No one knows <ins>how long the journey will **take**.</ins>*
+    - *"What I don't understand," she said, "is <ins>why they don't **let** me know anything.</ins>"* (p. 193)
+    - *that's <ins>how I **did** it.</ins>* (dataset)
 
 ---
 
-**Prepositional phrases**
+**Complements**
 
-Prepositional phrases are structures that combine a preposition with a complement, typically a noun phrase. This combination extends a noun phrase, creating a link that integrates it into the larger context of a sentence. Examples include *in the morning*, *to him*, *a street with no name*, and *in which she had to be expelled*. Prepositions can be accompanied by nominal clauses (*wh*-complement clause, e.g., *suggestion for <ins>what we need</ins>*) and *ing*-clauses as complements (e.g., *interested in <ins>playing the piano</ins>*) (p. 103).
+Complements are often required to form a grammatically complete and meaningful sentence. Consider the following examples, where grammatically incorrect sentences are indicated with <sup>*</sup> (Haegeman & Guéron, 1998, pp. 21-22):
+
+- a. *He abandoned the project.*
+- b. *<sup>*</sup>He abandoned.*
+- c. *<sup>*</sup>He abandoned after the project.*
+- d. *He abandoned the book.*
+- e. *He abandoned the project, then the book.*
+
+These examples show that the verb *abandon* must be followed by a noun phrase (e.g., *the project*). If the verb is not accompanied by a noun phrase, the sentence is incomplete and therefore ungrammatical (as seen in examples b and c).
+
+**Verb complement clauses**
+
+Verb complement clauses are dependent clauses that serve to complete the meaning of a verb in a main clause (e.g., *I think <ins>that this doc looks good</ins>*; *that*-clause functions a complement to the verb *think*). These clauses are also called **nominal clauses** because they frequently occupy a noun phrase slot in the sentence, acting as subjects, objects, or predicatives. Depending on the controlling predicate, they can be found in both pre-predicate (subject) and post-predicate (e.g., direct object) positions (For more information, see Chapter 9).
+
+However, complement clauses can also complete the meaning of an adjectival predicate rather than a verb in the main clause (e.g., *I've gotta be careful <ins>that I don't sound too formal</ins>*). Here, the term *predicate* refers to both lexical verbs and copula+adjective combinations capable of governing a complement clause. This aspect will be further explored in the section on adjective complement.
+
+There are four types of **verb complement clauses**: (1) *that*-clause, (2) *wh*-clause, (3) *to*-infinitive clause, and (4) *ing*-clause. In this section, (1) and (2) are discussed because they are finite clauses, while (3) and (4) will be discussed in the section on non-finite clause verb complements.
+
