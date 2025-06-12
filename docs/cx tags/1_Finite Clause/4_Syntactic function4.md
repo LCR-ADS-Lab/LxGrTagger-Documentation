@@ -1,44 +1,58 @@
 ---
-title: Noun phrase complement
+title: Noun phrase modifier
 parent: Finite Dependent Clause
 nav_order: 4
 ---
 
-# Noun phrase complement 
 
-## noun + *that*-complement clause
+# Noun phrase modifier
 
-1. Descriptions 
-    - Noun phrase complement clause
-        - There are two types of noun complement clauses: (1) *that*-clauses and (2) *to*-infinitive clauses (pp. 644-645).
-            - (1) *that*-clauses: *There were also [rumors] <ins>that Ford had now taken its stake up to the maximum 15 percent allowed.</ins>*
-                - Here, the *that*-clause is NOT a complement for the verb, but a complement for the preceding noun (i.e., "adding some descriptive information about that noun", p.645).
-                - In noun complement *that*-clauses, the complementizer "that" CANNOT be omitted.
-            -  (2) *to*-infinitive clauses: *You've been given [permission] <ins>to wear them.</ins>* (Note: this is NOT included in the tag, but for reference)
+## noun + finite relative clause 
 
-    - Noun phrase postmodifiers are different from noun phrase complement clauses (p. 644)
-        - *Peter reached out for the well-thumbed report <ins>that **lay** behind him on the cupboard top.</ins>* (NP postmodifier; NOT included in this tag, it should be `finitecls+rel`).
-        - *Other semiconductor stocks eased folluwing an industry trade group's [report] <ins>that its leading indicator **fell** in September.</ins>* (NP complement clause; included)
-
+1. Descriptions
+    -  A finite relative clause follows the head noun phrase and contains a relativizer (a relative pronoun or adverb).
+    -  _Relativizers_ are one of:
+        -  Relative pronoun: *which*, *who*, *whom*, *whose*, *that*
+        -  Relative adverb: *where*, *when*, *why*, *how* 
+        -  Zero relativizer: relativizer is _ommited_
+    - Nominal postmodifiers are different from noun phrase complement clauses (p. 644, see the next section on noun phrase complement.
 2. Tag
-    - `thatcls+ncomp` is tagged on the **main verb** of the *that*-complement clause.
+    - `finitecls+rel` is tagged on the **main verb** of the *that*- of *wh*- relative clause (also include the relative clause with deleted relative pronoun).
 3. Examples
-    - *The fact <ins>that no tracer particles were **found**</ins> indicates that these areas are not a pathway…* (from a reference doc/table)
-    - *The observation <ins>that the species has **adapted** to urban environments</ins> challenges traditional views on wildlife habitat preferences.*
-    - *The conclusion <ins>that global temperatures are **rising** faster than previously estimated</ins> is alarming.*
-
+    -  *The lowest pressure ratio <ins>which will **give** an acceptable performance</ins> is always chosen.* (p. 608)
+    -  *There are plenty of existing owners <ins>who **are** already keen to make the move.</ins>* (p. 608)
+    -  *There was a slight, furtive boy <ins>whom no one **knew**.</ins>* (p.608)
+    -  *It was good for the fans, <ins>whose support so far this season has **been** fantastic.</ins>* (p.608)
+    -  Zero relativizer:
+        -  *The next thing <ins>[that] she **knows**</ins>, she's talking to Danny.* (p.609)
+        -  *Gwen gave the little frowning smile <ins>[that] she **used** when she was putting something to someone.</ins>* (p.609)
+       
 ---
 
-**Noun phrase (NP) complements**
+**Complex noun phrases**
 
-Earlier discussions on the verb complement clauses have clarified that complement clauses serve as dependent clauses which fulfill the role of completing a verb's meaning within a sentence. An NP complement is essentially a complement associated with a noun rather than a verb. This notion of NP complementation, as detailed by Haegeman & Guéron (1998, pp.440-441), suggests that just as verbs can take a diverse array of complements ranging from finite to non-finite clauses, nouns too can select finite clauses to complement their meanings. Consider/compare following examples: 
-- *He considers <ins>that she deserves a promotion</ins>*. (verb-complement)
-- *The consideration <ins>that she deserves a promotion</ins> weighs heavily on his mind.* (NP-complement)
-- *She believes <ins>that honesty is the best policy</ins>.* (verb-complement)
-- *Her belief <ins>that honesty is the best policy</ins> guides her actions.* (NP-complement)
+Complex noun phrases typically consist of a sequence of elements: a determiner, any premodifiers, the head noun, and then any postmodification or complementation elements (See Table, adapted from p. 574 and modified).
 
-**NP modifier vs. NP complement**   
+| Determiner | Premodifiers        | Head Noun     | **Postmodifiers**                           |
+|------------|---------------------|---------------|---------------------------------------------|
+| a          | sprawling urban     | landscape     | which is dotted with parks                  |
+| an         | ancient oak         | tree          | that has witnessed centuries                |
+| the        | last remaining      | specimen      | of a rare species                           |
+| some       | innovative teaching | methods       | designed for online learning                |
+| several    | handcrafted         | artifacts     | from local artisans                         |
+| every      | major               | breakthrough  | in medical research                         |
 
-The relationsip between NP modifers and NP complements are often ambiguous (p.644). 
+This section focuses on postmodifiers. 
 
-NP modifiers serve to describe and modify a noun by supplying additional details about the noun's characteristics. These modifiers append descriptive information but are not necessary for the grammatical integrity of the noun phrase. In contrast, NP complements are clauses or phrases that furnish complete information, which is crucial to understanding the noun's full meaning. NP complements are closely linked to the noun and are indispensable for the completeness of the noun phrase. For example, in the sentence *His assumption <ins>that the work was easy</ins> turned out to be wrong*, the NP complement clause *<ins>that the work was easy</ins>* is essential. Without this complement, the nature of the *assumption* would remain unclear.
+**Postmodifiers**
+
+Postmodifiers come in various forms, primarily:
+
+- Relative clauses: *the proposal <ins>she drafted this morning</ins>*
+- *ing*-clauses: *the dog <ins>sleeping on the porch</ins>*
+- *ed*-clauses: *the message <ins>encoded in the document</ins>*
+- *to*-infinitive clauses: *a plan <ins>to renovate the old theater</ins>*
+- Prepositional phrases: *the students <ins>from the international program</ins>*
+- Noun phrases in apposition: *the novelist <ins>Alice Walker</ins>*
+
+In this discussion of finite clauses serving as postmodifiers, the focus will be on **relative clauses**. The remaining postmodifier types will be addressed in subsequent sections.

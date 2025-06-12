@@ -1,26 +1,44 @@
 ---
-title: Preposition complement
+title: Verb complement
 parent: Non-Finite Dependent Clause
 nav_order: 6
 ---
 
-# Preposition complement
+# Verb complement
 
-## preposition + *ing* complement clause
+## verb + *to* complement clause
 
 1. Descriptions
-   - Preposition + *ing* complement clauses are composed of a preposition followed by a verb in its *-ing* form.
-   - These clauses are utilized to specify details about the method, process, or condition related to the word (typically a noun, but could be others) that precedes the preposition.
+   - Infinitive clauses can have a range of syntactic roles which include direct objects (pp. 198-199).
 2. Tag
-   - `ingcls+incomp` is tagged on the **main verb** of the *ing* compliment clause.
+   - `tocls+vcomp` is tagged on the **main verb** of the *to* complement clause.
 3. Examples
-   - *The formula for <ins>**calculating** the effective resistance</ins> is ….*
-   - *The method for <ins>**assessing** project risks</ins> involves thorough analysis.*
-   - *He is keen on <ins>**improving** his language skills</ins>.*
-   - *She focused on <ins>my **talking** during the meeting</ins> to understand my concerns better.*
-   - *...be able to put down without <ins>**doing** a whole lot of thinking</ins>*.
-   - *... that was other thinkg like <ins> leaving where</ins> the hell would I go*.
+    - *I really want <ins>to **fix** this room up</ins>.*
+    - *He upset you very much, and I hate <ins>to **see** that</ins>.* (p. 199)
+    - *I believe Mary <ins>to **be** innocent</ins>*. (Haegeman & Guéron, 1998, p. 126)
+    - *I promised John <ins>to **buy** a new bicycle</ins>*. (Haegeman & Guéron, 1998, p. 35)
 4. Discussions
-   - We've included some comparatives (e.g., ADJ+*than*+**-ing**).
-      - *It is more serious than <ins>**distoring** other items</ins>.*
-   - Check out the list of the multi-word prepositions [here](https://lcr-ads-lab.github.io/LxGrTagger-Documentation/docs/Discussions/#multi-words).
+   - An infinitive construction may express either the perfect aspect (e.g., *She seems <ins>to have **completed**</ins> the project on time.*) or the progressive aspect (e.g., *He appears <ins>to be **studying**</ins> for his exams.*). 
+
+---
+
+## verb + *ing* complement clause
+
+1. Descriptions
+   - Similar to the infinitive clauses, *ing* complement clauses can also act as a complement to the main verb.
+   - This structure is commonly known as the gerund. Gerunds function as a hybrid category, possessing characteristics of both verbs and nouns (Haegeman & Guéron, 1998, p.481).
+2. Tag
+   - `ingcls+vcomp` is tagged on the **main verb** of the *ing* complement clause.
+3. Examples
+   - *I like <ins>**watching** the traffic go by</ins>.*
+   - *I started <ins>**thinking** about Christmas</ins>.* (p. 200)
+   - *It's as if the guy never stops <ins>**thinking** about the issue</ins>.* (p.200)
+   - *I enjoy <ins>**running** in the morning</ins>.*
+   - *He considers <ins>**moving** to a new city</ins>.*
+   - *He avoids <ins>**talking** about his problems</ins>.*
+4. Discussions
+   - Several of the controlling verbs related this tag are not transitive (e.g., **come**, **go**, **stand**, and **sit**). In such cases, the *-ing* clause does not function as a direct object but still acts as a complement to the verb and is therefore tagged as such.
+      - *He sat <ins>**waiting** for the bus</ins>.* 
+      - *She stood <ins>**staring** at the stars</ins>.*
+      - *They went <ins>**running** in the park</ins>.* 
+      - *The ship came <ins>**plowing** through the waves</ins>.* 

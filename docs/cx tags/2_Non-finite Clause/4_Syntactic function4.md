@@ -1,24 +1,52 @@
 ---
-title: Noun phrase complement
+title: Noun phrase modifier
 parent: Non-Finite Dependent Clause
 nav_order: 4
 ---
 
-# Noun phrase complement 
+# Noun phrase modifier
 
-## noun + *to* complement clause
+## noun + *to* relative clause
 
-1. Descriptions 
-   - Noun + *to* complement clauses modify the noun and provide a purpose or potential action related to the noun. For example, in the sentence *His **decision** <ins>to move to New York</ins> was influenced by the promise of better job prospects*, the clause *to move to New York* modifies the noun *decision*, specifying what the decision involves.
-   - Noun + *to* complement clauses are non-finite, and have missing subjects that can be reconstructed from the context of the sentence.
-   - It is important to distinguish this tag with [noun + *to* relative clause](./3_Syntactic%20function3.md#2_structural%20type2/3_Syntactic%20function3.html#2-3-1-noun--to-relative-clause) tag. 
-      - noun + *to* complement: For example, in a sentence *You've been given permission <ins>to wear them</ins>*, the clause *to wear them* is about the permission, defining what it implies but not necessarily needing any particular element from the main clause (*You've been given permission*) to be understood its meaning.
-      - noun + *to* relative clause: For example, in a sentence *You're the best person to ask*, the clause *to ask* describes why *You're the best person*, which we can consider that this clause structure is more closely linked to explaining why the previous noun (*person*) is described as such.
-
+1. Descriptions
+   - Noun + *to* relative clauses modify the noun phrase and provide infomation as to the direction, destination, intention, or subsequent action.
+   - They are introduced by *to*, followed by a verb in infinitive form.
 2. Tag
-   - `tocls+ncomp` is tagged on the **main verb** of the *to* complement clause.
+   - `tocls+rel` is tagged on the **main verb** of the *to* relative clause.
 3. Examples
-   - *You've been given permission <ins>to **wear** them.</ins>* (p. 645)
-   - *Legal peers renewed their attack on the Government's plans <ins>to **shake** up the legal profession</ins> yesterday.* (p. 645)
-   - *She seized every opportunity <ins> to **learn** new skills</ins> during the workshop.*
-   - *His decision <ins>to **move** to New York</ins> was influenced by the promise of better job prospects.*
+   - *She brought a book <ins>to **read** on the train.</ins>*
+   - *He has a lot of work <ins>to **do** before the deadline.</ins>*
+   - *We found a nice place <ins>to **stay** for the weekend.</ins>*
+   - *This is a great opportunity <ins>to **learn** new skills.</ins>*
+
+---
+
+## noun + *ing* relative clause
+
+1. Descriptions
+    - Noun + *ing* relative clauses modify the noun phrase and typically describe an ongoing action or activity related to the modified noun.
+    - Introduced by verbs in **present** participle form (e.g *lying*, *watching*, *waiting*)
+    - Most frequent in academic prose but moderately common across registers.
+2. Tag
+   - `ingcls+rel` is tagged on the **main verb** of the *ing* relative clause.
+3. Examples
+   - *Elevated levels are treated with a diet <ins>**consisting** of low cholesterol foods.</ins>*
+   - *The woman <ins>**standing** in the corner</ins> is my sister.*
+   - *After the outer walls fell the soldiers found the nobles <ins>**seeking** shelter in the castle.</ins>*
+
+---
+
+## noun + *ed* relative clause
+
+1. Descriptions
+   - Noun + *ed* passive relative clauses exist to modify the noun phrase to provide additional information about the noun.
+   - Introduced by a verb in **past** participle form (e.g *donated*, *created*, *espoused*).
+       - Some verbs are irregular, such as see (*seen*), write (*written*), or sing (*sung*).
+   - Most frequent in academic prose compared to other registers.
+2. Tag
+   - `edcls+rel` is tagged on the **main verb** of the *ed* relative clause.
+3. Examples
+   - *This is a phrase <ins>**used** in the recruitment industry</ins>.*
+   - *Abundant food and available healthcare are among the products <ins>**required** to support a huge and growing population.</ins>* (p. 604)
+   - *The castle meeting between the three men <ins>**produced** the Three Musketeers.</ins>*
+   - *The final thing the townspeople heard was the battalion's anthem <ins>**sung** as they marched over the hill.</ins>*

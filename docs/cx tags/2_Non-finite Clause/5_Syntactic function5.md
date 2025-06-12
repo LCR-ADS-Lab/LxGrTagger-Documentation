@@ -1,33 +1,26 @@
 ---
-title: Adjective complement
+title: Preposition complement
 parent: Non-Finite Dependent Clause
 nav_order: 5
 ---
 
-# Adjective complement
+# Preposition complement
 
-## adjective + *to* complement clause
-
-1. Descriptions
-   - Adjective + *to* complement clauses introduce an infinitive verb following the *to*.
-   - Adjective + *to* complement clauses provide more information to the state or quality described by the adjective, and can specify potential actions or conditions related to the subject.
-2. Tag
-   - `tocls+jcomp` is tagged on the **main verb** of the *to* compliment clause.
-3. Examples
-   - *Millar was obstinately determined <ins>to **change** the content of education.</ins>* (p. 716)
-   - *They were excited <ins>to **explore** the new city</ins>, having heard so much about its vibrant culture.*
-   - *They were excited <ins>to **get** the chance</ins> to play in the tournament.*
-
----
-
-## extraposed adjective + *to* complement clause
+## preposition + *ing* complement clause
 
 1. Descriptions
-   - Extraposed adjective + *to* complement clauses semantically function as the predicate + the subject.
-   - The true subject is often replaced by *it.*
+   - Preposition + *ing* complement clauses are composed of a preposition followed by a verb in its *-ing* form.
+   - These clauses are utilized to specify details about the method, process, or condition related to the word (typically a noun, but could be others) that precedes the preposition.
 2. Tag
-   - `xtrapos+tocls+jcomp` is tagged on the **main verb** of the extraposed *to* compliment clause.
+   - `ingcls+incomp` is tagged on the **main verb** of the *ing* compliment clause.
 3. Examples
-   - *It was difficult <ins>to **appreciate** him</ins> when we thought we had more time.*
-   - *It is important <ins>to **understand** other people's feelings</ins> in a team enviornment.*
-   - *It was necessary <ins> to **adjust** our plans</ins> due to the unexpected weather conditions.*
+   - *The formula for <ins>**calculating** the effective resistance</ins> is ….*
+   - *The method for <ins>**assessing** project risks</ins> involves thorough analysis.*
+   - *He is keen on <ins>**improving** his language skills</ins>.*
+   - *She focused on <ins>my **talking** during the meeting</ins> to understand my concerns better.*
+   - *...be able to put down without <ins>**doing** a whole lot of thinking</ins>*.
+   - *... that was other thinkg like <ins> leaving where</ins> the hell would I go*.
+4. Discussions
+   - We've included some comparatives (e.g., ADJ+*than*+**-ing**).
+      - *It is more serious than <ins>**distoring** other items</ins>.*
+   - Check out the list of the multi-word prepositions [here](https://lcr-ads-lab.github.io/LxGrTagger-Documentation/docs/Discussions/#multi-words).
