@@ -25,9 +25,18 @@ We tagged the **passive** construction, not the *be*-verb itself.
 
 ## Coordination
 
+### Verb
+
 We tagged the first main verb, not the subsequent verbs.
 
 - *A truck driver <ins>who just **slammed** and kicked at everything</ins>* (noun-finite relative clause)
+- *He suggested <ins>that they should **stop** and go</ins>* (verb *that*-complement clause) 
+
+### Clause
+
+We tagged every verb in each clause.
+
+- *He said <ins>he was **tired**</ins></ins> but <ins>he **needed** a break</ins>* (coordinated *that*-complement clauses)
 
 ## Multi-words
 
