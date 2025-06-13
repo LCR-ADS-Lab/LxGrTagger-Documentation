@@ -29,7 +29,7 @@ nav_order: 3
 
 ---
 
-## extraposed noun *that*-complement clause
+## extraposed noun + *that*-complement clause
 
 1. Descriptions 
     - An extraposed *that*-clause functioning as a noun-phrase complement 
