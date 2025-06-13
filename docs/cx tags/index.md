@@ -32,8 +32,8 @@ The tagging scheme is organized into hierarchical structures:
 | Adjective Complement   | [xtrapos+whcls+jcomp](./1_Finite%20Clause/1_Syntactic%20function1/#extraposed-adjective--wh-complement-clause)  | *It's great <ins>that he **ended** up working with the team</ins>.* |
 | Adverbial              | [finitecls+advl](./1_Finite%20Clause/2_Syntactic%20function2/#finite-adverbial-clause)          | *She finished her work <ins>before the deadline **arrived**</ins>.* |
 | Noun Phrase Complement | [thatcls+ncomp](./1_Finite%20Clause/3_Syntactic%20function3/#noun--that-complement-clause)           | *The conclusion <ins>that global temperatures are **rising**</ins> is alarming.* |
-| Noun Phrase Complement | [xtrapos+thatcls+ncomp](./1_Finite%20Clause/3_Syntactic%20function3/#extraposed-noun--that-complement-clause)         | *It was a surprise <ins>that they would **need** more time.</ins>* |
-| Noun Phrase Modifier   | [finitecls+rel](./1_Finite%20Clause/4_Syntactic%20function4/#noun--finite-relative-clause)           | *The idea <ins>which **comes** up with great frequency</ins> involves several steps.* |
+| Noun Phrase Complement | [xtrapos+thatcls+ncomp](./1_Finite%20Clause/3_Syntactic%20function3/#extraposed-noun--that-complement-clause)     | *It was a surprise <ins>that they would **need** more time.</ins>* |
+| Noun Phrase Modifier  | [finitecls+rel](./1_Finite%20Clause/4_Syntactic%20function4/#noun--finite-relative-clause)           | *The idea <ins>which **comes** up with great frequency</ins> involves several steps.* |
 | Preposition Complement | [whcls+incomp](./1_Finite%20Clause/5_Syntactic%20function5/#preposition--wh-complement-clause)            | *She is interested in <ins>what you **believe**</ins>.*         |
 | Verb Complement        | [thatcls+vcomp](./1_Finite%20Clause/6_Syntactic%20function6/#verb--that-complement)          | *<ins>That the team **won** the championship</ins> was unexpected.* |
 | Verb Complement        | [thatcls+BEcomp](./1_Finite%20Clause/6_Syntactic%20function6/#beverb--that-complement)         | *The finding is <ins>that fear **improved** the partial memory</ins>.* |
