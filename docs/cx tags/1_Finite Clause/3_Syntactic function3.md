@@ -29,6 +29,22 @@ nav_order: 3
 
 ---
 
+## extraposed noun *that*-complement clause
+
+1. Descriptions 
+    - An extraposed *that*-clause functioning as a noun-phrase complement 
+
+2. Tag
+    - `xtrapos+thatcls+ncomp` is tagged on the **main verb** of the *that*-complement clause.
+    
+3. Examples
+    - *It was a relief <ins>that she had **passed** the exam.</ins>*
+    - *It was a shame <ins>that he couldn't **attend** the workshop.</ins>*
+    - *It was a tragedy <ins>that so many houses were **destroyed** in the storm.</ins>*
+
+
+---
+
 **Noun phrase (NP) complements**
 
 Earlier discussions on the verb complement clauses have clarified that complement clauses serve as dependent clauses which fulfill the role of completing a verb's meaning within a sentence. An NP complement is essentially a complement associated with a noun rather than a verb. This notion of NP complementation, as detailed by Haegeman & Guéron (1998, pp.440-441), suggests that just as verbs can take a diverse array of complements ranging from finite to non-finite clauses, nouns too can select finite clauses to complement their meanings. Consider/compare following examples: 
