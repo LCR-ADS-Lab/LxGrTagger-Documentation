@@ -4,7 +4,7 @@ parent: Finite Dependent Clause
 nav_order: 5
 ---
 
-# preposition complement
+# Preposition complement
 
 ## preposition + *wh*-complement clause
 
