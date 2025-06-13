@@ -91,20 +91,6 @@ nav_order: 6
 
 ---
 
-## extraposed verb + *wh*-complement clause 
-
-1. Descriptions
-    - The *wh*-complement clause can be extraposed to the end of the sentence, and a dummy subject (*it*) occupies the initial subject position.
-2. Tag
-    - `xtrapos+whcls+vcomp` is tagged to the **main verb** within the *wh*-complement clause.
-3. Examples
-    - *It depends on <ins>how they **respond**</ins>.*
-    - *It is unclear <ins>who **started** the fire</ins>.*
-    - *It doesn’t matter <ins>what she **thinks**</ins>.*
-    - *It remains to be seen <ins>how the public will **react**</ins>.*
-
----
-
 **Complements**
 
 Complements are often required to form a grammatically complete and meaningful sentence. Consider the following examples, where grammatically incorrect sentences are indicated with <sup>*</sup> (Haegeman & Guéron, 1998, pp. 21-22):

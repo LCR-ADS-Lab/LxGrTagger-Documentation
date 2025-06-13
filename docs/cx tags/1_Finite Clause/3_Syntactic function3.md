@@ -42,7 +42,6 @@ nav_order: 3
     - *It was a shame <ins>that he couldn't **attend** the workshop.</ins>*
     - *It was a tragedy <ins>that so many houses were **destroyed** in the storm.</ins>*
 
-
 ---
 
 **Noun phrase (NP) complements**

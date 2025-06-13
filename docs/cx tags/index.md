@@ -40,7 +40,6 @@ The tagging scheme is organized into hierarchical structures:
 | Verb Complement        | [xtrapos+thatcls+vcomp](./1_Finite%20Clause/6_Syntactic%20function6/#extraposed-verb--that-complement-clause)          | *It seems <ins>that the experiment **changed** everything</ins>.* |
 | Verb Complement        | [whcls+vcomp](./1_Finite%20Clause/2_Syntactic%20function2/#verb--wh-complement)             | *I wonder <ins>what that could **be** about</ins>.*             |
 | Verb Complement        | [whcls+BEcomp](./1_Finite%20Clause/6_Syntactic%20function6/#beverb--wh-complement)         | *The question is <ins>what the real motive **was**</ins>.* |
-| Verb Complement        | [xtrapos+whcls+vcomp](./1_Finite%20Clause/6_Syntactic%20function6/#extraposed-verb--wh-complement-clause)          | *It turned out <ins>what they had **planned** all along</ins>.* |
 
 
 ---
