@@ -36,7 +36,7 @@ We tagged the first main verb, not the subsequent verbs.
 
 We tagged every verb in each clause.
 
-- *He said <ins>he was **tired**</ins></ins> but <ins>he **needed** a break</ins>* (coordinated *that*-complement clauses)
+- *He said <ins>he was **tired**</ins> but <ins>he **needed** a break</ins>* (coordinated *that*-complement clauses)
 
 ## Multi-words
 
