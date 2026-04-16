@@ -1,0 +1,4 @@
+04-16-26
+Hakyung: I updated the LxGrTagger doc - (1) fixed typos, (2) added descriptions/links to the fine-grained tags.
+
+While working on this, I noticed that `prtcle` (rb, cat1) and `to` (main tag) are currently missing. I’ve left a note, as these might be worth to add in the next round of documentation/annotation updates.

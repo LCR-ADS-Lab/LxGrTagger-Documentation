@@ -9,8 +9,7 @@ nav_order: 2
 
 # nom
 
-1. Descriptions
-    - nominalization
+1. Description
     - Refers to nouns derived from other word classes (typically verbs or adjectives) that encode processes, actions, or states as entities (e.g., *contribute* → *contribution*, *injure* → *injury*).
 2. Tag
     - `nom`

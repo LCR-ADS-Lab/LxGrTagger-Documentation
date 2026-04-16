@@ -8,8 +8,7 @@ nav_order: 1
 
 # adjmod
 
-1. Descriptions
-    - adjective modifier
+1. Description
     - Refers to elements (typically adverbs or degree markers) that modify adjectives, providing information about degree, intensity, or manner.
 2. Tag
     - `adjmod`
@@ -23,8 +22,7 @@ nav_order: 1
 
 # advl
 
-1. Descriptions
-    - adverbial
+1. Description
     - Refers to elements (typically adverbs or adverbial phrases) that modify verbs, adjectives, or entire clauses, providing information such as time, place, manner, degree, or condition.
 2. Tag
     - `advl`

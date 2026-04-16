@@ -37,8 +37,7 @@ nav_order: 3
 
 # sgen
 
-1. Descriptions
-    - genitive *s*
+1. Description
     - Marks the possessive *'s* attached to a noun, indicating relationships such as ownership, association, or origin.
 2. Tag
     - `sgen`

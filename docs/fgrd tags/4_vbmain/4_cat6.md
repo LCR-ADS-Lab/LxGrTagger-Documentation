@@ -8,8 +8,7 @@ nav_order: 6
 
 # thatcls
 
-1. Descriptions
-    - that clause
+1. Description
     - Refers to clauses introduced by *that*.
 2. Tag
     - `thatcls`

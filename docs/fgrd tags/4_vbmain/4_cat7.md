@@ -50,8 +50,7 @@ nav_order: 7
 
 # incomp
 
-1. Descriptions
-    - complement clause controlled by a preposition
+1. Description
     - Refers to clauses that function as complements of prepositions.
 2. Tag
     - `incomp`
@@ -66,8 +65,7 @@ nav_order: 7
 # causative
 
 1. Descriptions
-    - causative clause
-    - *(Content to be added)*
+    - Refers to clauses that express a cause, reason, or motivation for the situation in the main clause.
 2. Tag
     - `causative`
 3. Examples
@@ -80,9 +78,8 @@ nav_order: 7
 
 # conditional
 
-1. Descriptions
-    - conditional clause
-    - *(Content to be added)*
+1. Description
+    - Refers to clauses that express a condition under which the main clause holds.
 2. Tag
     - `conditional`
 3. Examples
@@ -95,9 +92,8 @@ nav_order: 7
 
 # concessive
 
-1. Descriptions
-    - concessive clause
-    - *(Content to be added)*
+1. Description
+    - Refers to clauses that express a contrast or unexpected outcome relative to the main clause.
 2. Tag
     - `concessive`
 3. Examples
@@ -111,8 +107,7 @@ nav_order: 7
 # other_advl
 
 1. Descriptions
-    - other adverbial clause
-    - *(Content to be added)*
+    - Refers to adverbial clauses that do not clearly fall into the specific categories mentioned above.
 2. Tag
     - `other_advl`
 3. Examples
@@ -126,8 +121,7 @@ nav_order: 7
 # rel
 
 1. Descriptions
-    - relative clause
-    - *(Content to be added)*
+    - Refers to clauses that modify a noun or noun phrase.
 2. Tag
     - `rel`
 3. Examples

@@ -8,8 +8,7 @@ nav_order: 3
 
 # simple
 
-1. Descriptions
-    - simple present
+1. Description
     - Refers to verb forms that express habitual actions, general truths, or states in the present, without aspectual marking.
 2. Tag
     - `simple`
