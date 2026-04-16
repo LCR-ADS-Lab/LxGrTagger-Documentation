@@ -40,7 +40,7 @@ We tagged every verb in each clause.
 
 ## Multi-words
 
-We defined several lists of fixed multi‐word sequences that are used during the processing of linking adverbs (pp. 558-559; 875-879), prepositions (p. 75), subordinators (pp.842-843). 
+We defined several lists of fixed multi‐word sequences that are used during the processing of linking adverbs (pp. 558-559; 875-879), prepositions (p. 75), subordinators (pp. 842-843). 
 
 ### Multi-word linking adverbs
 
@@ -51,7 +51,7 @@ for one thing, in other words, for another, for another thing, in the first plac
 ### Two-word prepositions 
 
 ```markdown
-as for, but for, except for, save for, as from, as of, out of, depending on, according to, as to, on to, up to, along with, apart from, aside from, away from, ahead of, inside of, instead of, irrespective of, outside of, regardless of, close to, contrary to, next to, opposite to, owing to, preliminary to, preparatory to, previous to, prior to, relative to, subsequent to, together with, back to, sort of, kind of, devoid of, exclusive of, void of, because of, due to, exclusive of, owing to, thanks to, such as, upwards of
+as for, but for, except for, save for, as from, as of, out of, depending on, according to, as to, on to, up to, along with, apart from, aside from, away from, ahead of, inside of, instead of, irrespective of, outside of, regardless of, close to, contrary to, next to, opposite to, preliminary to, preparatory to, previous to, prior to, relative to, subsequent to, together with, back to, sort of, kind of, devoid of, void of, because of, due to, exclusive of, owing to, thanks to, such as, upwards of
 ```
 
 ### Three-word prepositions
