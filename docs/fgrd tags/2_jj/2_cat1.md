@@ -8,24 +8,22 @@ nav_order: 1
 
 # attr
 
-1. Descriptions
-    - attributive
-    - *(Content to be added)*
+1. Description
+    - Refers to adjectives used attributively within a noun phrase.
 2. Tag
     - `attr`
 3. Examples
     - *Here's a picture of the Nabon Basin, it's approximately a hundred and twenty kilometers <ins>**square**</ins>*. (MICASE DEF305MX131, Spoken)
     - *I put a sign up on the <ins>**old**</ins> room*. (MICASE LEL115SU107, Spoken)
-    - *Lady Catherine acknowledges this existence of spheres based on <ins>**inherent**</ins> <ins>**social**</ins> limits, addressing Elizabth*. (MICUSP ENG.G0.18.2, Written)
+    - *Lady Catherine acknowledges this existence of spheres based on <ins>**inherent**</ins> <ins>**social**</ins> limits, addressing Elizabeth*. (MICUSP ENG.G0.18.2, Written)
     - *It is against this <ins>**false**</ins>, <ins>**simplifying**</ins> image that I write*. (MICUSP HIS.G1.04.1, Written)
 
 ---
 
 # pred
 
-1. Descriptions
-    - predicative
-    - *(Content to be added)*
+1. Description
+    - Refers to adjectives that function as predicate complements.
 2. Tag
     - `pred`
 3. Examples

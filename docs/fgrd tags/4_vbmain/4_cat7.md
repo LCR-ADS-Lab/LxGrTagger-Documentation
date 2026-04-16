@@ -8,9 +8,8 @@ nav_order: 7
 
 # vcomp
 
-1. Descriptions
-    - complement clause controlled by a verb
-    - *(Content to be added)*
+1. Description
+    - Refers to clauses that function as complements of verbs.
 2. Tag
     - `vcomp`
 3. Examples
@@ -23,9 +22,8 @@ nav_order: 7
 
 # jcomp
 
-1. Descriptions
-    - complement clause controlled by an adjective
-    - *(Content to be added)*
+1. Description
+    - Refers to clauses that function as complements of adjectives.
 2. Tag
     - `jcomp`
 3. Examples
@@ -38,14 +36,13 @@ nav_order: 7
 
 # ncomp
 
-1. Descriptions
-    - complement clause controlled by a noun
-    - *(Content to be added)*
+1. Description
+    - Refers to clauses that function as complements of nouns.
 2. Tag
     - `ncomp`
 3. Examples
     - *Another device <ins>**made**</ins> by Enabling Devices is a Step Talk*. (MICASE STP165JG122, Spoken) 
-    - *All items <ins>**selected**</ins> are positive statement*. (MICASE STP450SG128, Spoken)
+    - *All items <ins>**selected**</ins> are positive statements*. (MICASE STP450SG128, Spoken)
     - *The innocent animals <ins>**involved**</ins> in each story suffer needlessly at the hands of the two men*. (MICUSP ENG.G0.06.3, Written)
     - *Poem two, specifically, speaks to an inability to completely <ins>**remove**</ins> oneself from one's history, both personal and public*. (MICUSP ENG.G0.09.2, Written)
 
@@ -55,7 +52,7 @@ nav_order: 7
 
 1. Descriptions
     - complement clause controlled by a preposition
-    - *(Content to be added)*
+    - Refers to clauses that function as complements of prepositions.
 2. Tag
     - `incomp`
 3. Examples
@@ -106,7 +103,7 @@ nav_order: 7
 3. Examples
     - *That sand bar didn't exist last time although the shallow area <ins>**was**</ins> there*. (MICASE LAB175SU032, Spoken)
     - *Now, unfortunately though Maslow's hierarchy <ins>**is**</ins> incredibly appealing there's been no empirical research supporting it*. (MICASE LEL185SU066, Spoken)
-    - *While even the hypocritical, monetary-minded Friar is <ins>**placed**</ins> directly after the Monk, the Pardoner appear with the coarsest of the pilgrims*. (MICUSP ENG.G0.24.1, Written)
+    - *While even the hypocritical, monetary-minded Friar is <ins>**placed**</ins> directly after the Monk, the Pardoner appears with the coarsest of the pilgrims*. (MICUSP ENG.G0.24.1, Written)
     - *Although succumbing to sleepiness <ins>**humanizes**</ins> Bloom, it also serves as a relatively unremarkable climax for Joyce's modern epic*. (MICUSP ENG.G0.28.1, Written)
 
 ---

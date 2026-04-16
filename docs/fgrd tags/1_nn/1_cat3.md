@@ -9,9 +9,8 @@ nav_order: 3
 
 # npremod
 
-1. Descriptions
-    - premodifier
-    - *(Content to be added)*
+1. Description
+    - Refers to elements (e.g., nouns or adjectives) that occur before the head noun within a noun phrase.
 2. Tag
     - `npremod`
 3. Examples
@@ -24,15 +23,14 @@ nav_order: 3
 
 # nappos
 
-1. Descriptions
-    - appositive
-    - *(Content to be added)*
+1. Description
+    - Refers to nouns that occur in apposition.
 2. Tag
     - `nappos`
 3. Examples
     - *They had no way of knowing, no <ins>**way**</ins>* of measuring, population changes. (MICASE DIS175SU027, Spoken)
     - *We, the <ins>**Students**</ins> Honoring Outstanding University Teaching, would now like to invite Dr Brenda Gunderson to the stage*. (MICASE COL575MX055, Spoken)
-    - *The calculated respective gravities (<ins>**SG**</ins>) of the coarse and fine aggregate lie within accpeted ranges*. (MICUSP CEE.G0.02.1, Written)
+    - *The calculated respective gravities (<ins>**SG**</ins>) of the coarse and fine aggregate lie within accepted ranges*. (MICUSP CEE.G0.02.1, Written)
     - *Here Cash, the <ins>**bringer**</ins> of financial prosperity, has fallen off a church*. (MICUSP ENG.G0.03.2, Written)
 
 ---
@@ -40,8 +38,8 @@ nav_order: 3
 # sgen
 
 1. Descriptions
-    - genetive s
-    - *(Content to be added)*
+    - genitive *s*
+    - Marks the possessive *'s* attached to a noun, indicating relationships such as ownership, association, or origin.
 2. Tag
     - `sgen`
 3. Examples

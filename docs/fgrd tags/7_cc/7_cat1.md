@@ -8,9 +8,8 @@ nav_order: 1
 
 # cls
 
-1. Descriptions
-    - clausal
-    - *(Content to be added)*
+1. Description
+    - Refers to coordinating conjunctions that link clauses.
 2. Tag
     - `cls`
 3. Examples
@@ -23,9 +22,8 @@ nav_order: 1
 
 # phrs
 
-1. Descriptions
-    - phrasal
-    - *(Content to be added)*
+1. Description
+    - Refers to coordinating conjunctions that link smaller units such as words or phrases within a clause.
 2. Tag
     - `phrs`
 3. Examples

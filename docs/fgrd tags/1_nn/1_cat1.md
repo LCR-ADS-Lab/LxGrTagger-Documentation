@@ -8,9 +8,8 @@ nav_order: 1
 
 # pl
 
-1. Descriptions
-    - plural
-    - *(Content to be added)*
+1. Description
+    - Marks nouns that are morphologically **plural**, typically indicating more than one entity (e.g., through *-s*, *-es*, or irregular plural forms).
 2. Tag
     - `pl`
 3. Examples

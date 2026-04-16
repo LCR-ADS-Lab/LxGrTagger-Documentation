@@ -8,9 +8,8 @@ nav_order: 2
 
 # ing
 
-1. Descriptions
-    - present participle
-    - *(Content to be added)*
+1. Description
+    - Refers to verb forms ending in *-ing* that function as modifiers (e.g., adjectives) within noun phrases.
 2. Tag
     - `ing`
 3. Examples
@@ -23,14 +22,13 @@ nav_order: 2
 
 # ed
 
-1. Descriptions
-    - past participle
-    - *(Content to be added)*
+1. Description
+    - Refers to verb forms in the past participle (often ending in *-ed*) that function as modifiers (e.g., adjectives) within noun phrases.
 2. Tag
     - `ed`
 3. Examples
     - *Oh I have to make sure you have a <ins>**diversified**</ins> Starburst experience*. (MICASE TOU999JU030, Spoken)
     - *And what they recommend is do all of the <ins>**assigned**</ins> problems*. (MICASE ADV700JU047, Spoken)
-    - *Due to the <ins>**increased**</ins> enrollment, Midville Academy has expressed concern regarding overcrowing in the cafeteria*. (MICUSP IOE.G0.12.2, Written)
+    - *Due to the <ins>**increased**</ins> enrollment, Midville Academy has expressed concern regarding overcrowding in the cafeteria*. (MICUSP IOE.G0.12.2, Written)
     - *The current layout and processes are inefficient in handling the <ins>**increased**</ins> enrollment since the cafeteria opened*. (MICUSP IOE.G0.12.2, Written)
 

@@ -10,7 +10,7 @@ nav_order: 1
 
 1. Descriptions
     - adjective modifier
-    - *(Content to be added)*
+    - Refers to elements (typically adverbs or degree markers) that modify adjectives, providing information about degree, intensity, or manner.
 2. Tag
     - `adjmod`
 3. Examples
@@ -25,22 +25,21 @@ nav_order: 1
 
 1. Descriptions
     - adverbial
-    - *(Content to be added)*
+    - Refers to elements (typically adverbs or adverbial phrases) that modify verbs, adjectives, or entire clauses, providing information such as time, place, manner, degree, or condition.
 2. Tag
     - `advl`
 3. Examples
     - *You're the main reason I'm up <ins>**here**</ins> tonight*. (MICASE COL575MX055, Spoken)
     - *It <ins>**really**</ins> serves no research purpose*. (MICASE DEF270SF061, Spoken)
     - *(4) It performs massively parallel computations extremely <ins>**efficiently**</ins>*. (MICUSP IOE.G1.06.1, Written)
-    - *MSC manages a 9,000 square foot warehouse <ins>**where**</ins> an inventory value of approximately $1.35 million is maintained and represent an inventory turnover of 24 times per year*. (MICUSP IOE.G1.07.1, Written)
+    - *MSC manages a 9,000 square foot warehouse <ins>**where**</ins> an inventory value of approximately $1.35 million is maintained and represents an inventory turnover of 24 times per year*. (MICUSP IOE.G1.07.1, Written)
 
 ---
 
 # link
 
-1. Descriptions
-    - linking
-    - *(Content to be added)*
+1. Description
+    - Refers to linking adverbs or discourse markers that connect clauses or sentences, signaling sequence, transition, or logical relationships (e.g., addition, contrast, result).
 2. Tag
     - `link`
 3. Examples
@@ -53,9 +52,8 @@ nav_order: 1
 
 # othr
 
-1. Descriptions
-    - other
-    - *(Content to be added)*
+1. Description
+    - Refers to miscellaneous items that do not clearly fit into other predefined categories.
 2. Tag
     - `othr`
 3. Examples

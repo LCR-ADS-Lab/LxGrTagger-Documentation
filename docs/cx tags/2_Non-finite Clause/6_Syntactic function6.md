@@ -9,7 +9,7 @@ nav_order: 6
 ## verb + *to* complement clause
 
 1. Descriptions
-   - Infinitive clauses can have a range of syntactic roles which include direct objects (pp. 198-199).
+   - Infinitive clauses can have a range of syntactic roles, including direct objects (pp. 198-199).
 2. Tag
    - `tocls+vcomp` is tagged on the **main verb** of the *to* complement clause.
 3. Examples
@@ -25,19 +25,19 @@ nav_order: 6
 ## verb + *ing* complement clause
 
 1. Descriptions
-   - Similar to the infinitive clauses, *ing* complement clauses can also act as a complement to the main verb.
-   - This structure is commonly known as the gerund. Gerunds function as a hybrid category, possessing characteristics of both verbs and nouns (Haegeman & Guéron, 1998, p.481).
+   - Similar to infinitive clauses, *ing* complement clauses can also act as a complement to the main verb.
+   - This structure is commonly known as the gerund. Gerunds function as a hybrid category, possessing characteristics of both verbs and nouns (Haegeman & Guéron, 1998, p. 481).
 2. Tag
    - `ingcls+vcomp` is tagged on the **main verb** of the *ing* complement clause.
 3. Examples
    - *I like <ins>**watching** the traffic go by</ins>.*
    - *I started <ins>**thinking** about Christmas</ins>.* (p. 200)
-   - *It's as if the guy never stops <ins>**thinking** about the issue</ins>.* (p.200)
+   - *It's as if the guy never stops <ins>**thinking** about the issue</ins>.* (p. 200)
    - *I enjoy <ins>**running** in the morning</ins>.*
    - *He considers <ins>**moving** to a new city</ins>.*
    - *He avoids <ins>**talking** about his problems</ins>.*
 4. Discussions
-   - Several of the controlling verbs related this tag are not transitive (e.g., **come**, **go**, **stand**, and **sit**). In such cases, the *-ing* clause does not function as a direct object but still acts as a complement to the verb and is therefore tagged as such.
+   - Several of the controlling verbs related to this tag are not transitive (e.g., **come**, **go**, **stand**, and **sit**). In such cases, the *-ing* clause does not function as a direct object but still acts as a complement to the verb and is therefore tagged accordingly.
       - *He sat <ins>**waiting** for the bus</ins>.* 
       - *She stood <ins>**staring** at the stars</ins>.*
       - *They went <ins>**running** in the park</ins>.* 

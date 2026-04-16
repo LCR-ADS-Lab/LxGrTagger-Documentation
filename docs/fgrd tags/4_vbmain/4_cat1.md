@@ -8,24 +8,22 @@ nav_order: 1
 
 # vblex
 
-1. Descriptions
-    - lexical verb
-    - *(Content to be added)*
+1. Description
+    - Refers to main (lexical) verbs that carry core semantic meaning in a clause, as opposed to auxiliary verbs that primarily express tense, aspect, or modality.
 2. Tag
     - `vblex`
 3. Examples
     - *I expect we'll have people <ins>**joining**</ins> us, throughout the morning*. (MICASE COL999MX040, Spoken)
     - *I <ins>**have**</ins> some questions to <ins>**ask**</ins> you*. (MICASE INT425JG002, Spoken) 
     - *Even so, Obama should <ins>**pursue**</ins> this course of action*. (MICUSP NRE.G1.01.1, Written)
-    - *She <ins>**presented**</ins> to <ins>**triage**</ins> with spontaneous repture of membranes and signs of labor*. (MICUSP NUR.G0.11.1, Written)
+    - *She <ins>**presented**</ins> to <ins>**triage**</ins> with spontaneous rupture of membranes and signs of labor*. (MICUSP NUR.G0.11.1, Written)
 
 ---
 
 # be
 
-1. Descriptions
-    - copular verb
-    - *(Content to be added)*
+1. Description
+    - Refers to forms of the verb *be* that function as copular verbs, linking the subject to a subject complement (e.g., an adjective or noun phrase).
 2. Tag
     - `be`
 3. Examples
@@ -38,9 +36,8 @@ nav_order: 1
 
 # phrsv
 
-1. Descriptions
-    - phrasal verb
-    - *(Content to be added)*
+1. Description
+    - Refers to phrasal verbs that combine with particles (e.g., *up*, *out*, *on*) to form a single semantic unit whose meaning is often idiomatic or not fully predictable from the individual parts.
 2. Tag
     - `phrsv`
 3. Examples
@@ -53,9 +50,8 @@ nav_order: 1
 
 # prepv
 
-1. Descriptions
-    - prepositional verb
-    - *(Content to be added)*
+1. Description
+    - Refers to prepositional verbs that are typically followed by a fixed preposition.
 2. Tag
     - `prepv`
 3. Examples

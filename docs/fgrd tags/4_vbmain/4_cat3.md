@@ -10,12 +10,11 @@ nav_order: 3
 
 1. Descriptions
     - simple present
-    - *(Content to be added)*
+    - Refers to verb forms that express habitual actions, general truths, or states in the present, without aspectual marking.
 2. Tag
     - `simple`
 3. Examples
-    - *Okay, we'll <ins>**address**</ins> this term's, data*. (MICASE LEL200JU105, Spoken)
-    - *Basically there<ins>**'s**</ins> two strategies when they're developing products*. (MICASE LES405JG078, Spoken)
+    - *Okay, we'll <ins>**address**</ins> this term's data*. (MICASE LEL200JU105, Spoken)
     - *Research <ins>**conducted**</ins> on the epidemiology of eating disorders <ins>**reveals**</ins> a spectrum of symptoms and risk factors*. (MICUSP PSY.G0.17.1, Written)
     - *Ideology <ins>**influences**</ins> us as individuals - our values, our norms, and our goals*. (MICUSP SOC.G0.01.1, Written)
 
@@ -23,9 +22,8 @@ nav_order: 3
 
 # perf
 
-1. Descriptions
-    - perfect
-    - *(Content to be added)*
+1. Description
+    - Refers to verb phrases marked by the perfect aspect.
 2. Tag
     - `perf`
 3. Examples
@@ -38,9 +36,8 @@ nav_order: 3
 
 # prog
 
-1. Descriptions
-    - progressive
-    - *(Content to be added)*
+1. Description
+    - Refers to verb phrases marked by the progressive aspect.
 2. Tag
     - `prog`
 3. Examples
@@ -53,9 +50,8 @@ nav_order: 3
 
 # perfprog
 
-1. Descriptions
-    - perfect progressive
-    - *(Content to be added)*
+1. Description
+    - Refers to verb phrases combining perfect progressive aspects.
 2. Tag
     - `perfprog`
 3. Examples

@@ -11,27 +11,27 @@ nav_order: 4
 
 1. Descriptions
     -  A finite relative clause follows the head noun phrase and contains a relativizer (a relative pronoun or adverb).
-    -  _Relativizers_ are one of:
+    -  *Relativizers* are one of the following:
         -  Relative pronoun: *which*, *who*, *whom*, *whose*, *that*
         -  Relative adverb: *where*, *when*, *why*, *how* 
-        -  Zero relativizer: relativizer is _ommited_
-    - Nominal postmodifiers are different from noun phrase complement clauses (p. 644, see the next section on noun phrase complement.
+        -  Zero relativizer: relativizer is *omitted*
+    - Nominal postmodifiers differ from noun phrase complement clauses (p. 644, see the next section on noun phrase complement).
 2. Tag
-    - `finitecls+rel` is tagged on the **main verb** of the *that*- of *wh*- relative clause (also include the relative clause with deleted relative pronoun).
+    - `finitecls+rel` is tagged on the **main verb** of the *that*- or *wh*- relative clause (also includes relative clauses with a deleted relative pronoun).
 3. Examples
     -  *The lowest pressure ratio <ins>which will **give** an acceptable performance</ins> is always chosen.* (p. 608)
     -  *There are plenty of existing owners <ins>who **are** already keen to make the move.</ins>* (p. 608)
-    -  *There was a slight, furtive boy <ins>whom no one **knew**.</ins>* (p.608)
+    -  *There was a slight, furtive boy <ins>whom no one **knew**.</ins>* (p. 608)
     -  *It was good for the fans, <ins>whose support so far this season has **been** fantastic.</ins>* (p.608)
     -  Zero relativizer:
-        -  *The next thing <ins>[that] she **knows**</ins>, she's talking to Danny.* (p.609)
+        -  *The next thing <ins>[that] she **knows**</ins>, she's talking to Danny.* (p. 609)
         -  *Gwen gave the little frowning smile <ins>[that] she **used** when she was putting something to someone.</ins>* (p.609)
        
 ---
 
 **Complex noun phrases**
 
-Complex noun phrases typically consist of a sequence of elements: a determiner, any premodifiers, the head noun, and then any postmodification or complementation elements (See Table, adapted from p. 574 and modified).
+Complex noun phrases typically consist of the following sequence of elements: a determiner, any premodifiers, the head noun, and then any postmodification or complementation elements (See Table, adapted from p. 574 and modified).
 
 | Determiner | Premodifiers        | Head Noun     | **Postmodifiers**                           |
 |------------|---------------------|---------------|---------------------------------------------|

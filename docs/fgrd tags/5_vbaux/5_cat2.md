@@ -8,9 +8,8 @@ nav_order: 2
 
 # pos
 
-1. Descriptions
-    - possibility
-    - *(Content to be added)*
+1. Description
+    - Refers to modal auxiliaries that express possibility or potential.
 2. Tag
     - `pos`
 3. Examples
@@ -23,9 +22,8 @@ nav_order: 2
 
 # nec
 
-1. Descriptions
-    - necessity
-    - *(Content to be added)*
+1. Description
+    - Refers to modal auxiliaries that express necessity, obligation, or requirement.
 2. Tag
     - `nec`
 3. Examples
@@ -38,9 +36,8 @@ nav_order: 2
 
 # prd
 
-1. Descriptions
-    - predictive
-    - *(Content to be added)*
+1. Description
+    - Refers to modal auxiliaries that express prediction or future-oriented meaning.
 2. Tag
     - `prd`
 3. Examples

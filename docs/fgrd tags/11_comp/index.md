@@ -4,8 +4,9 @@ parent: Fine-grained Tags
 nav_order: 11
 ---
 
-# pro
+# comp
 {: .no_toc }
+Refers to complementizers.
 
 1. TOC
 {:toc}

@@ -11,7 +11,7 @@ nav_order: 2
 
 1. Descriptions
     - nominalization
-    - *(Content to be added)*
+    - Refers to nouns derived from other word classes (typically verbs or adjectives) that encode processes, actions, or states as entities (e.g., *contribute* → *contribution*, *injure* → *injury*).
 2. Tag
     - `nom`
 3. Examples
@@ -24,13 +24,12 @@ nav_order: 2
 
 # proper
 
-1. Descriptions
-    - proper
-    - *(Content to be added)*
+1. Description
+    - Refers to proper nouns that denote specific, unique entities such as names of people, places, organizations, or other identifiable entities.
 2. Tag
     - `proper`
 3. Examples
-    - *We go to <ins>**North Campus**</ins> (for) tomorrow right*? (MICASE TOU999JU030, Spoken)
+    - *We go to <ins>**North Campus**</ins> tomorrow right*? (MICASE TOU999JU030, Spoken)
     - *I know <ins>**Emily**</ins>*. (MICASE SGR999SU146, Spoken) 
     - *The flies were prepared for observation and handling by anesthetization using <ins>**CO2**</ins>*. (MICUSP BIO.G0.08.1, Written)
     - *<ins>**God**</ins>, however, never had a point of creation*. (MICUSP CLS.G0.02.1, Written)
@@ -38,9 +37,8 @@ nav_order: 2
 ---
 
 # title
-1. Descriptions
-    - title
-    - *(Content to be added)*
+1. Description
+    - Refers to honorifics or titles used before names to indicate social status, profession, or form of address.
 2. Tag
     - `title`
 3. Examples

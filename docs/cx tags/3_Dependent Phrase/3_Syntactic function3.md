@@ -4,14 +4,13 @@ parent: Dependent Phrase
 nav_order: 3
 ---
 
-
 # Adverbial
 
 ## adverb phrase
 
 1. Descriptions
-   - An adverb phrase is adverbial when an adverb phrase is used to modify a verb or an entire sentence.
-   - Adverbial adverb phrases give more information about when, where, how, what degree, or under what conditions applied to the component they modify.
+   - An adverb phrase is adverbial when it is used to modify a verb or an entire sentence.
+   - Adverbial adverb phrases provide more information about when, where, how, what degree, or under what conditions, applied to the component they modify.
 2. Tag
    - `rb+advl` is tagged on the **adverb** of the adverb phrase.
 3. Examples
@@ -34,21 +33,21 @@ nav_order: 3
 ## prepositional phrase
 
 1. Descriptions
-   - A prepositional phrase as adverbial is tagged when a prepositional phrase acts like an adverbial, modifying a verb or entire sentence.
+   - A prepositional phrase as adverbial is tagged as adverbial when it functions as an adverbial.
    - Adverbial prepositional phrases typically correspond to one of these major groups:
        - Location/Place: conveys distance, direction, or position (*she sat **on the bench***)
-       - Time: indicate position in time, duration, frequency, or the temporal relation between two states (*We will leave **in the morning***)
-       - Process: describe the way something was done, as comparison between two states, accompaniment/grouping, demonstrate the explicit means through which an action was carried out, the item relevant to the state, or the agent of an action. (*He spoke **with enthusiasm***)
-       - Contingency: describe the cause, reason, purpose, concession, condition, and/or result (*She could not see you **under the spotlight***)
-   - They cannot exist on their own due to being depedent phrases.
+       - Time: indicates position in time, duration, frequency, or the temporal relation between two states (*We will leave **in the morning***)
+       - Process: describes the way something was done, including comparison between two states, accompaniment/grouping, demonstrate the explicit means through which an action was carried out, the item relevant to the state, or the agent of an action. (*He spoke **with enthusiasm***)
+       - Contingency: describes the cause, reason, purpose, concession, condition, and/or result (*She could not see you **under the spotlight***)
+   - They cannot stand on their own, as they are dependent phrases.
 2. Tag
-   - `in+advl` is tagged on the **preposotion** of the prepositional phrase.
+   - `in+advl` is tagged on the **preposition** of the prepositional phrase.
 3. Examples
    - *Alright, we'll talk to you <ins>**in** the morning</ins>.*
    - *He left <ins>**because** of the rain</ins>.* (Q. Do we tag *because*? or *of*?)
    - *<ins>**During** the concert,</ins> they remained silent.*
 4. Discussions
-   - We are currently not tagging prepositional verbs, so the prepositions in such cases should be tagged.
+   - We are currently not tagging prepositional verbs, so the prepositions in such cases are tagged.
       - *...we're looking <ins>**at** the rate of return versus what?</ins>*
    - Comparative constructions can be complex in English grammar, often involving combinations with prepositions. We currently tag these as prepositions.
       - *She is as tall <ins>**as** her brother</ins>.*

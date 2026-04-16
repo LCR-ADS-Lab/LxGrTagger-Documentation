@@ -5,8 +5,8 @@ nav_order: 2
 ---
 
 # jj
-adjective
 {: .no_toc }
+Refers to adjective.
 
 1. TOC
 {:toc}

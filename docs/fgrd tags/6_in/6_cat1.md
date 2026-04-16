@@ -8,9 +8,8 @@ nav_order: 1
 
 # advl
 
-1. Descriptions
-    - adverbial
-    - *(Content to be added)*
+1. Description
+    - Refers to prepositions that introduce adverbial phrases.
 2. Tag
     - `advl`
 3. Examples
@@ -23,9 +22,8 @@ nav_order: 1
 
 # nmod
 
-1. Descriptions
-    - noun modifying
-    - *(Content to be added)*
+1. Description
+    - Refers to prepositions that introduce noun-modifying phrases.
 2. Tag
     - `nmod`
 3. Examples
@@ -38,9 +36,8 @@ nav_order: 1
 
 # jcomp
 
-1. Descriptions
-    - adjective complement
-    - *(Content to be added)*
+1. Description
+    - Refers to prepositions that introduce complements of adjectives.
 2. Tag
     - `jcomp`
 3. Examples
@@ -53,14 +50,13 @@ nav_order: 1
 
 # in_othr
 
-1. Descriptions
-    - other cases
-    - *(Content to be added)*
+1. Description
+    - Refers to prepositions or similar forms that do not clearly fit into specific categories mentioned above.
 2. Tag
     - `in_othr`
 3. Examples
     - *<ins>**With**</ins> a different set of primers*? (MICASE MTG400MX008, Spoken)
     - *That<ins>**'s**</ins> a nice ambiguity*. (MICASE OFC355SU094, Spoken)
     - *Another shared theme is that <ins>**of**</ins> medicine evolving into an industry*. (MICUSP HIS.G0.04.1, Written)
-    - *Ultimately, women are portrayed more as passive objects <ins>**than**</ins> <ins>**as**</ins> active subject*. (MICUSP HIS.G1.03.1, Written)
+    - *Ultimately, women are portrayed more as passive objects <ins>**than**</ins> <ins>**as**</ins> active subjects*. (MICUSP HIS.G1.03.1, Written)
 

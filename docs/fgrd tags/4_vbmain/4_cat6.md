@@ -10,37 +10,35 @@ nav_order: 6
 
 1. Descriptions
     - that clause
-    - *(Content to be added)*
+    - Refers to clauses introduced by *that*.
 2. Tag
     - `thatcls`
 3. Examples
     - *I should have brought the plane that <ins>**runs**</ins> down*. (MICASE DEF270SF061, Spoken)
     - *So I'm going to crank this around and hope that you don't <ins>**get**</ins> sick*. (MICASE DIS150JU130, Spoken)
-    - *They are realities that <ins>**shape**</ins> our lives, our actions, our opportunities, and our judgements*. (MICUSP SOC.G1.09.1, Written)
+    - *They are realities that <ins>**shape**</ins> our lives, our actions, our opportunities, and our judgments*. (MICUSP SOC.G1.09.1, Written)
     - *First, the case study focuses on a setting that <ins>**is**</ins> neither unique nor incommensurable*. (MICUSP SOC.G1.09.1, Written)
 
 ---
 
 # whcls
 
-1. Descriptions
-    - wh clause
-    - *(Content to be added)*
+1. Description
+    - Refers to clauses introduced by *wh*.
 2. Tag
     - `whcls`
 3. Examples
     - *Yeah, somebody who <ins>**knows**</ins> how to use their watch*. (MICASE LAB175SU026, Spoken)
     - *That's how they <ins>**measure**</ins> wealth*. (MICASE LEL115JU090, Spoken)
-    - *For Durkheim, the agent is the society itself which <ins>**transcend\[s\]**</ins> the level of social actors*. (MICUSP SOC.G1.10.7, Written)
+    - *For Durkheim, the agent is the society itself which <ins>**transcends**</ins> the level of social actors*. (MICUSP SOC.G1.10.7, Written)
     - *Following that point, this paper will discuss how these authors <ins>**view**</ins> \[the\] emergence of a society and the state with regard to their relationships with individuals*. (MICUSP SOC.G3.02.1, Written)
 
 ---
 
 # tocls
 
-1. Descriptions
-    - to clause
-    - *(Content to be added)*
+1. Description
+    - Refers to non-finite clauses introduced by *to* followed by a base verb.
 2. Tag
     - `tocls`
 3. Examples
@@ -53,9 +51,8 @@ nav_order: 6
 
 # ingcls
 
-1. Descriptions
-    - ing clause
-    - *(Content to be added)*
+1. Description
+    - Refers to non-finite clauses formed with *-ing* verbs.
 2. Tag
     - `ingcls`
 3. Examples
@@ -68,9 +65,8 @@ nav_order: 6
 
 # edcls
 
-1. Descriptions
-    - past participle
-    - *(Content to be added)*
+1. Description
+    - Refers to non-finite clauses formed with past participle (*-ed* or irregular forms).
 2. Tag
     - `edcls`
 3. Examples

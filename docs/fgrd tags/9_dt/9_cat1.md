@@ -8,9 +8,8 @@ nav_order: 1
 
 # art
 
-1. Descriptions
-    - article
-    - *(Content to be added)*
+1. Description
+    - Refers to articles.
 2. Tag
     - `art`
 3. Examples
@@ -23,9 +22,8 @@ nav_order: 1
 
 # dt_dem
 
-1. Descriptions
-    - demonstrative
-    - *(Content to be added)*
+1. Description
+    - Refers to demonstrative determiners.
 2. Tag
     - `dt_dem`
 3. Examples
@@ -38,9 +36,8 @@ nav_order: 1
 
 # poss
 
-1. Descriptions
-    - possessive
-    - *(Content to be added)*
+1. Description
+    - Refers to possessive determiners.
 2. Tag
     - `poss`
 3. Examples

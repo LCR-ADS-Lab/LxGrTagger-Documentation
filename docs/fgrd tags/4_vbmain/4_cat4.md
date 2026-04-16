@@ -8,9 +8,8 @@ nav_order: 4
 
 # active
 
-1. Descriptions
-    - active voice
-    - *(Content to be added)*
+1. Description
+    - Refers to clauses in which the subject performs or initiates the action expressed by the verb.
 2. Tag
     - `active`
 3. Examples
@@ -23,9 +22,8 @@ nav_order: 4
 
 # pasv_agls
 
-1. Descriptions
-    - agentless passive
-    - *(Content to be added)*
+1. Description
+    - Refers to passive constructions in which the agent (the doer of the action) is not explicitly expressed.
 2. Tag
     - `pasv_agls`
 3. Examples
@@ -38,14 +36,13 @@ nav_order: 4
 
 # pasv_by
 
-1. Descriptions
-    - by passive
-    - *(Content to be added)*
+1. Description
+    - Refers to passive constructions in which the agent is explicitly expressed.
 2. Tag
     - `pasv_by`
 3. Examples
     - *So it hasn't been <ins>**affected**</ins> by any of these other processes*. (MICASE LES425SU093, Spoken)
     - *This poem is <ins>**structured**</ins> by seven four-line stanzas, with a rhyme scheme*. (MICASE OFC300JJU149, Spoken)
-    - *Mead conceived of the self as existing in two entities, the "I" and the "me", which are both <ins>**infleunced**</ins> by social interactions with others*. (MICUSP SOC.G1.01.1, Written)
+    - *Mead conceived of the self as existing in two entities, the "I" and the "me", which are both <ins>**influenced**</ins> by social interactions with others*. (MICUSP SOC.G1.01.1, Written)
     - *For Hobbes, this power of many over one could only be <ins>**insured**</ins> by the state*. (MICUSP SOC.G1.04.1, Written)
 

@@ -9,7 +9,7 @@ nav_order: 4
 ## noun + *to* relative clause
 
 1. Descriptions
-   - Noun + *to* relative clauses modify the noun phrase and provide infomation as to the direction, destination, intention, or subsequent action.
+   - Noun + *to* relative clauses modify the noun phrase and provide information about the direction, destination, intention, or subsequent action.
    - They are introduced by *to*, followed by a verb in infinitive form.
 2. Tag
    - `tocls+rel` is tagged on the **main verb** of the *to* relative clause.
@@ -25,7 +25,7 @@ nav_order: 4
 
 1. Descriptions
     - Noun + *ing* relative clauses modify the noun phrase and typically describe an ongoing action or activity related to the modified noun.
-    - Introduced by verbs in **present** participle form (e.g *lying*, *watching*, *waiting*)
+    - Introduced by verbs in the **present** participle form (e.g *lying*, *watching*, *waiting*)
     - Most frequent in academic prose but moderately common across registers.
 2. Tag
    - `ingcls+rel` is tagged on the **main verb** of the *ing* relative clause.
@@ -39,7 +39,7 @@ nav_order: 4
 ## noun + *ed* relative clause
 
 1. Descriptions
-   - Noun + *ed* passive relative clauses exist to modify the noun phrase to provide additional information about the noun.
+   - Noun + *ed* passive relative clauses modify the noun phrase to provide additional information about the noun.
    - Introduced by a verb in **past** participle form (e.g *donated*, *created*, *espoused*).
        - Some verbs are irregular, such as see (*seen*), write (*written*), or sing (*sung*).
    - Most frequent in academic prose compared to other registers.

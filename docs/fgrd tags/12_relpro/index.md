@@ -4,8 +4,9 @@ parent: Fine-grained Tags
 nav_order: 12
 ---
 
-# pro
+# relpro
 {: .no_toc }
+Refers to relative pronouns.
 
 1. TOC
 {:toc}

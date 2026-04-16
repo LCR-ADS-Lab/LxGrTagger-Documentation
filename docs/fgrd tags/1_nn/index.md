@@ -5,8 +5,8 @@ nav_order: 1
 ---
 
 # nn
-noun - the default tag (without additional tags) indicates a singular common noun
 {: .no_toc }
+Refers to singular common nouns and serves as the default noun tag when no additional features are specified.
 
 1. TOC
 {:toc}

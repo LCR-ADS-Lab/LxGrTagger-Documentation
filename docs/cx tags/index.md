@@ -70,7 +70,7 @@ The tagging scheme is organized into hierarchical structures:
 
 | Syntactic Function        | Complexity Feature (`Tag`) | Examples                                                        |
 |---------------------------|----------------------------|-----------------------------------------------------------------|
-| Adjective Complement      | [in+jcomp](./3_Dependent%20Phrase/1_Syntactic%20function1/#preposition-phrases-as-adjective-complement)                | *She was thrilled <ins>**with** her completion of the PhD program</ins>.* |
+| Adjective Complement      | [in+jcomp](./3_Dependent%20Phrase/1_Syntactic%20function1/#prepositional-phrases-as-adjective-complement)                | *She was thrilled <ins>**with** her completion of the PhD program</ins>.* |
 | Adjective/Adverb Modifier | [rb+jjrbmod](./3_Dependent%20Phrase/2_Syntactic%20function2/#adverb-phrase-as-adjectiveadverb-modifier)              | *The movie was <ins>**surprisingly**</ins> good.*              |
 | Adverbial Phrase          | [rb+advl](./3_Dependent%20Phrase/3_Syntactic%20function3/#adverb-phrase)                 | *The car entered a curved road <ins>**slowly**</ins>.*          |
 | Adverbial (Prepositional) Phrase      | [in+advl](./3_Dependent%20Phrase/3_Syntactic%20function3/#prepositional-phrase)                 | *He spoke <ins>**with** enthusiasm</ins>.*                     |

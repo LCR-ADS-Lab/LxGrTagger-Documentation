@@ -8,13 +8,12 @@ nav_order: 1
 
 # mod
 
-1. Descriptions
-    - modal
-    - *(Content to be added)*
+1. Description
+    - Refers to modal auxiliary verbs.
 2. Tag
     - `mod`
 3. Examples
-    - *I think the story <ins>**can**</ins> be read in three, separate levels* (MICASE SEM140JG070, Spoken)
+    - *I think the story <ins>**can**</ins> be read in three separate levels* (MICASE SEM140JG070, Spoken)
     - *Sorry we <ins>**could**</ins> only get the old book*. (MICASE SGR175SU123, Spoken)
     - *Nay, and as long as she had any Money ... she <ins>**would**</ins> help me out of her own*. (MICUSP ENG.G0.47.1, Written)
     - *"Astride of a grave and a difficult birth" <ins>**may**</ins> describe man, but at least there is something to do between the two extremes*. (MICUSP ENG.G0.49.1, Written)

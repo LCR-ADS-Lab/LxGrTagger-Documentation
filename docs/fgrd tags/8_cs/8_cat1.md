@@ -8,9 +8,8 @@ nav_order: 1
 
 # cnd
 
-1. Descriptions
-    - conditional
-    - *(Content to be added)*
+1. Description
+    - Refers to subordinating conjunctions that introduce conditional clauses.
 2. Tag
     - `cnd`
 3. Examples
@@ -23,24 +22,22 @@ nav_order: 1
 
 # con
 
-1. Descriptions
-    - concessive
-    - *(Content to be added)*
+1. Description
+    - Refers to subordinating conjunctions that introduce concessive clauses expressing contrast.
 2. Tag
     - `con`
 3. Examples
     - *That sand bar didn't exist last time <ins>**although**</ins> the shallow area was there*. (MICASE LAB175SU032, Spoken)
     - *And plasmin is an active protease...<ins>**while**</ins> plasminogen represents an inactive precursor of that protease*. (MICASE LEL175SU106, Spoken)
-    - *My father tells me that I've acquired some Mid-Atlantic accent <ins>**though**</ins> I doubt it's pure as my daily ineraction with American freinds reminds me*. (MICUSP LIN.G0.02.1, Written)
+    - *My father tells me that I've acquired some Mid-Atlantic accent <ins>**though**</ins> I doubt it's pure as my daily interaction with American friends reminds me*. (MICUSP LIN.G0.02.1, Written)
     - *<ins>**Although**</ins> the undergraduate sample may be a bit too small to offer definite conclusions, one can note some interesting features of this data*. (MICUSP LIN.G0.03.1, Written)
 
 ---
 
 # cos
 
-1. Descriptions
-    - causative
-    - *(Content to be added)*
+1. Description
+    - Refers to subordinating conjunctions that introduce causal clauses.
 2. Tag
     - `cos`
 3. Examples
@@ -53,9 +50,8 @@ nav_order: 1
 
 # cs_othr
 
-1. Descriptions
-    - other
-    - *(Content to be added)*
+1. Description
+    - Refers to subordinating conjunctions that do not clearly fall into specific categories mentioned above.
 2. Tag
     - `cs_othr`
 3. Examples

@@ -8,9 +8,8 @@ nav_order: 5
 
 # compcls
 
-1. Descriptions
-    - complement clause
-    - *(Content to be added)*
+1. Description
+    - Refers to clauses that function as complements to a verb, adjective, or noun.
 2. Tag
     - `compcls`
 3. Examples
@@ -23,9 +22,8 @@ nav_order: 5
 
 # advlcls
 
-1. Descriptions
-    - adverbial clause
-    - *(Content to be added)*
+1. Description
+    - Refers to clauses that function adverbially, modifying a verb or entire clause.
 2. Tag
     - `advlcls`
 3. Examples
@@ -38,14 +36,13 @@ nav_order: 5
 
 # nmod_cls
 
-1. Descriptions
-    - noun modifier clause
-    - *(Content to be added)*
+1. Description
+    - Refers to clauses that modify a noun.
 2. Tag
     - `nmod_cls`
 3. Examples
     - *So every time you <ins>**do**</ins> homework you should do it three times*? (MICASE ADV700JU047, Spoken)
     - *Now I think there're three areas the church should <ins>**work**</ins> in*. (MICASE COL605MX132, Spoken)
-    - *These effects are produced not by the indidivuals who <ins>**inhabit**</ins> different neighborhoods but by institutional and structural features of neighborhoods themselves*. (MICUSP SOC.G1.08.1, Written)
+    - *These effects are produced not by the individuals who <ins>**inhabit**</ins> different neighborhoods but by institutional and structural features of neighborhoods themselves*. (MICUSP SOC.G1.08.1, Written)
     - *In fact, they are quite the opposite - they are active constructs that <ins>**influence**</ins> the very nature of sociological inquiry itself*. (MICUSP SOC.G1.08.2, Written)
 

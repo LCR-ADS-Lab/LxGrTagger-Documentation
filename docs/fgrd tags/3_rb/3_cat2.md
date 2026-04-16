@@ -8,9 +8,8 @@ nav_order: 2
 
 # ly
 
-1. Descriptions
-    - adverb of manner
-    - *(Content to be added)*
+1. Description
+    - Refers to adverbs, typically ending in *-ly*, that modify verbs, adjectives, or clauses, expressing manner, degree, frequency, or speaker stance.
 2. Tag
     - `ly`
 3. Examples

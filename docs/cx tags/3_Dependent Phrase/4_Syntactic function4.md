@@ -27,25 +27,25 @@ nav_order: 4
 ## noun as noun pre-modifier
 1. Descriptions
    - Nouns as noun pre-modifiers (sometimes *noun adjunct*) are nouns that add specific information to the following noun.
-   - These nouns often communicate meaning related the purpose, type, ownership, or material among other qualities of nouns they modify.
+   - These nouns often communicate meaning related to the purpose, type, ownership, or material among other qualities of nouns they modify.
 2. Tag
    - `nn+npremod` is tagged on the pre-modifying **noun**. 
 3. Examples
-   - *The pilot's license needed to be reviewed by the <ins>**avitation**</ins> security committee.*
+   - *The pilot's license needed to be reviewed by the <ins>**aviation**</ins> security committee.*
    - *He barely passed <ins>**fighter**</ins> pilot training.*
    - *She placed her <ins>**coffee**</ins> cup on the table.*
    - *The city council is considering a new <ins>**traffic**</ins> regulation proposal.*
 4. Discussions
    - We tagged instances where proper nouns function as pre-modifiers in a noun phrase.
-      - In such cases, only the last part of the proper noun phrases is tagged (e.g., *the <ins>Second World **War**</ins> decades*).
-   - We did NOT tag numeric modifers (e.g., *eighty four hours*)
+      - In such cases, only the last part of the proper noun phras is tagged (e.g., *the <ins>Second World **War**</ins> decades*).
+   - We did not tag numeric modifiers (e.g., *eighty four hours*)
 
 
 ---
 
 ## *of* phrases as noun
 1. Descriptions
-   - *of* phrases modify nouns and articulate a variety of relationships between nouns, linked by *of*. These phrases follow the noun they modify, serving as a post-modifer. They can indicate relationships including possession (i.e., genitive, part-whole, association, or classification.
+   - *of* phrases modify nouns and express a variety of relationships between nouns, linked by *of*. These phrases follow the noun they modify, serving as a post-modifier. They can indicate relationships including possession (i.e., genitive, part-whole, association, or classification).
    - The *of* phrase comes after the noun it relates to, therefore being considered a post-modifier.
 2. Tag
    - `of+npostmod` is tagged on the **of** of the *of* phrase.
@@ -54,7 +54,7 @@ nav_order: 4
    - *McKenna wrote about the origins <ins>**of** human language.</ins>*
    - *She is the CEO <ins>**of** the company.</ins>*
    - *A group <ins>**of** students</ins> gathered in the hall.*
-   - *The title <ins>**of** the book</ins> is harry potter and the cursed child.*
+   - *The title <ins>**of** the book</ins> is Harry Potter and the Cursed Child.*
    - *... a war <ins>**of** words</ins>*
 4. Discussions
    - Constructions involving a quantifier/number followed by *of* (e.g., *one of the, some of the, three of the*) are categorized with this tag.
@@ -77,11 +77,11 @@ nav_order: 4
 ## appositive noun phrases as noun
 1. Descriptions
    - Noun phrases in apposition (appositive) have equivalent status with the preceding (head) noun phrase.
-       - The order of the head noun phrase and the appositive could (nomally) be reversed to produce an equal grammatical construction with basically the same meaning.
+       - The order of the head noun phrase and the appositive could (normally) be reversed to produce an equal grammatical construction with basically the same meaning.
    - They provide descriptive information about the head noun but are not needed to identify the reference of the head noun.
 2. Tag
    - `appos+npostmod` is tagged on the head **noun** of the appositive phrase.
-   - When there are more than two tokens in the appositive, we tagged on the last word token.
+   - When there are more than two tokens in the appositive, we tag the last word token.
 3. Examples
    - *The capital city, <ins>**Paris**</ins>, is the heart of France.*
        - *Paris, <ins>the capital **city**</ins>, is the heart of France.* 

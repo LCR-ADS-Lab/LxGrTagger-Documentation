@@ -8,9 +8,8 @@ nav_order: 2
 
 # pres
 
-1. Descriptions
-    - present
-    - *(Content to be added)*
+1. Description
+    - Marks verbs in the present tense.
 2. Tag
     - `pres`
 3. Examples
@@ -23,9 +22,8 @@ nav_order: 2
 
 # past
 
-1. Descriptions
-    - past
-    - *(Content to be added)*
+1. Description
+    - Marks verbs in the past tense.
 2. Tag
     - `past`
 3. Examples
@@ -38,9 +36,8 @@ nav_order: 2
 
 # vp_w_modal
 
-1. Descriptions
-    - verb phrase with modal
-    - *(Content to be added)*
+1. Description
+    - Refers to verb phrases that include a modal auxiliary (e.g., *can, will, may, should*) followed by a main verb, expressing modality such as possibility, necessity, or prediction.
 2. Tag
     - `vp_w_modal`
 3. Examples
@@ -53,9 +50,8 @@ nav_order: 2
 
 # nonfinite
 
-1. Descriptions
-    - non-finite verb
-    - *(Content to be added)*
+1. Description
+    - Refers to non-finite verb forms that do not express tense or agreement.
 2. Tag
     - `nonfinite`
 3. Examples
