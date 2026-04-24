@@ -29,7 +29,7 @@ The tagging scheme is organized into hierarchical structures:
 | Adjective Complement   | [thatcls+jcomp](./1_Finite%20Clause/1_Syntactic%20function1/#adjective--that-complement-clause)           | *We’re happy <ins>that the hunger strike has **ended**</ins>.*  |
 | Adjective Complement   | [xtrapos+thatcl+jcomp](./1_Finite%20Clause/1_Syntactic%20function1/#extraposed-adjective--that-complement-clause)   | *It's horrible <ins>that he **put** up with Claire’s nagging</ins>.* |
 | Adjective Complement   | [whcls+jcomp](./1_Finite%20Clause/1_Syntactic%20function1/#adjective--wh-complement-clause)            | *I'm unsure <ins>why he **likes** it.</ins>*  |
-| Adjective Complement   | [xtrapos+whcls+jcomp](./1_Finite%20Clause/1_Syntactic%20function1/#extraposed-adjective--wh-complement-clause)  | *It's great <ins>that he **ended** up working with the team</ins>.* |
+| Adjective Complement   | [xtrapos+whcls+jcomp](./1_Finite%20Clause/1_Syntactic%20function1/#extraposed-adjective--wh-complement-clause)  | *It was incredible <ins>what had **happened** to them</ins>.* |
 | Adverbial              | [finitecls+advl](./1_Finite%20Clause/2_Syntactic%20function2/#finite-adverbial-clause)          | *She finished her work <ins>before the deadline **arrived**</ins>.* |
 | Noun Phrase Complement | [thatcls+ncomp](./1_Finite%20Clause/3_Syntactic%20function3/#noun--that-complement-clause)           | *The conclusion <ins>that global temperatures are **rising**</ins> is alarming.* |
 | Noun Phrase Complement | [xtrapos+thatcls+ncomp](./1_Finite%20Clause/3_Syntactic%20function3/#extraposed-noun--that-complement-clause)     | *It was a surprise <ins>that they would **need** more time.</ins>* |
