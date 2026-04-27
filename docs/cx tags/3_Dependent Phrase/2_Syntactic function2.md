@@ -22,4 +22,4 @@ nav_order: 2
    - *The boy was <ins>**fairly**</ins> certain that it would rain due to the heavy smell in the air.*
 4. Discussions
    - We did not tag the prepositional phrase functioning as adverbial phrases.
-      - *...ran all **over every hill** and **down every valley*
+      - *...ran all **over every hill** and **down every valley**
