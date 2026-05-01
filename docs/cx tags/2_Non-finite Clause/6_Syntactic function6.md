@@ -38,7 +38,6 @@ nav_order: 6
    - *He avoids <ins>**talking** about his problems</ins>.*
 4. Discussions
    - Several of the controlling verbs related to this tag are not transitive (e.g., **come**, **go**, **stand**, and **sit**). In such cases, the *-ing* clause does not function as a direct object but still acts as a complement to the verb and is therefore tagged accordingly.
-      - *He sat <ins>**waiting** for the bus</ins>.* 
       - *She stood <ins>**staring** at the stars</ins>.*
       - *They went <ins>**running** in the park</ins>.* 
-      - *The ship came <ins>**plowing** through the waves</ins>.* 
+      - *Another hour and it would come <ins>**streaming** through the golden gate to shroud the romantic city in white</ins>.* 
