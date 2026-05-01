@@ -40,7 +40,7 @@ We tagged every verb in each clause.
 
 ## Multi-words
 
-We defined several lists of fixed multi‐word sequences that are used during the processing of linking adverbs (pp. 558-559; 875-879), prepositions (p. 75), subordinators (pp. 842-843). 
+We defined several lists of fixed multi‐word sequences that are used during the processing of linking adverbs (pp. 558-559; 875-879), prepositions (p. 75), subordinators (pp. 842-843). In each case, any relevant tags are assigned to the last word of the multi-word sequence.
 
 ### Multi-word linking adverbs
 
