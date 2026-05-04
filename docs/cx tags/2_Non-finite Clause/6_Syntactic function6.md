@@ -36,7 +36,8 @@ nav_order: 6
    - *I enjoy <ins>**running** in the morning</ins>.*
    - *He considers <ins>**moving** to a new city</ins>.*
    - *He avoids <ins>**talking** about his problems</ins>.*
-4. Discussions
+4. Important Notes
+   - Complex prepositions that include a present participle ("according to", "depending on", and "owing to") should not be tagged as `ingcls+vcomp`
    - Several of the controlling verbs related to this tag are not transitive (e.g., **come**, **go**, **stand**, and **sit**). In such cases, the *-ing* clause does not function as a direct object but still acts as a complement to the verb and is therefore tagged accordingly.
       - *She stood <ins>**staring** at the stars</ins>.*
       - *They went <ins>**running** in the park</ins>.* 
