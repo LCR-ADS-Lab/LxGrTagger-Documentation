@@ -9,6 +9,7 @@ nav_order: 2
 
 In contrast to [finite dependent clauses](../1_Finite%20Clause/), non-finite dependent clauses differ from their finite counterparts in that they do not contain a verb phrase marking tense or modality. Therefore, structurally, they are more succinct and implicit compared to finite clauses. They typically omit an explicit subject and often do not require a subordinator, which leads to reduced explicitness and a more compact semantic structure. Interpreting a non-finite clause often requires context from the main clause and sometimes from the broader context of the discourse. There are three primary types of non-finite clauses, each characterized by a different form of verb phrase: *to*-infinitive clauses, *ing*-clauses, and *ed*-clauses.
 
+Non-finite dependent clause types are annotated on the main verb of the clause. In instances where the verb phrase is elided, the clause does not receive an annotation.
 
 1. TOC
 {:toc}
