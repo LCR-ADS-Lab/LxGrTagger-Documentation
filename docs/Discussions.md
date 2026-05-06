@@ -1,9 +1,9 @@
 ---
-title: Discussions
+title: Multiword units and special cases
 nav_order: 5
 ---
 
-# Discussions
+# Multiword units and special cases
 {: .no_toc }
 
 1. TOC
@@ -79,9 +79,9 @@ Phrasal verbs are treated as a single verb form, but unlike other multi-word uni
 Prepositional verbs are treated like any other verb + preposition combination. Note that in some cases, the same form can be treated as a phrasal verb or a prepositional verb, depending on the grammatical context. 
 
 Consider:
-It **came out** that he had committed a crime.
+It **came out** that he had committed a crime. (phrasal verb)
 
-I'm **coming** *out of* my cave and I am doing just fine.
+I'm **coming** *out of* my cave and I am doing just fine. (prepositional verb with a multi-word preposition)
 
 Below is a long table of phrasal verbs found in the 4.5 million Slate subcorpus of the OANC that occur at least five times. The table includes each form's frequency as a phrasal verb and as a prepositional verb (where applicable).
 
