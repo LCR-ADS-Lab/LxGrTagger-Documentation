@@ -70,20 +70,20 @@ as if, as though, so that, in that
 
 ### Phrasal verbs
 
-```markdown
 Phrasal verbs are treated as a single verb form, but unlike other multi-word units, any associated tag is annotated on the verb (not the particle). Phrasal verb designations are based on annotations in the OntoNotes5 database (Weischedel et al., 2014), which consists of ~2.5 million tokens (for the English subset).
-```
+
 
 ### Prepositional verbs
 
-```markdown
+
 Prepositional verbs are treated like any other verb + preposition combination. Note that in some cases, the same form can be treated as a phrasal verb or a prepositional verb, depending on the grammatical context. 
 
 Consider:
 It **came out** that he had committed a crime.
 
 I'm **coming** *out of* my cave and I am doing just fine.
-```
+
+Below is a long table of phrasal verbs found in the 4.5 million Slate subcorpus of the OANC that occur at least five times. The table includes each form's frequency as a phrasal verb and as a prepositional verb (where applicable).
 
 | verbBigram | PhrasalVerbFreq | PrepositionalVerbFreq |
 | ---------- | --------------- | --------------------- |
