@@ -21,6 +21,17 @@ nav_order: 6
    - An infinitive construction may express either the perfect aspect (e.g., *She seems <ins>to have **completed**</ins> the project on time.*) or the progressive aspect (e.g., *He appears <ins>to be **studying**</ins> for his exams.*). 
 
 ---
+## verb + *bare infinitive* complement clause
+1. Description
+   - bare infinitive clauses are a subtype of infinitive clauses that follow two main patterns: *verb + bare infinitive* and *verb + NP + bare infinitive* (see, e.g., pp. 693-694)
+   
+2. Tag
+   - `barecls+vcomp` is tagged on the **main verb** of the complement clause.
+3. Examples
+    - *It could have helped <ins>**clarify** a number of issues</ins>.* (p. 694)
+    - *I'll have Judy <ins>**do** it</ins>.* (p. 694)
+   
+---
 
 ## verb + *ing* complement clause
 
