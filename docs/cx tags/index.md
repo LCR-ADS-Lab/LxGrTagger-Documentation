@@ -60,7 +60,7 @@ The tagging scheme is organized into hierarchical structures:
 | Noun Phrase Modifier   | [edcls+rel](./2_Non-finite%20Clause/4_Syntactic%20function4/#noun--ed-relative-clause)               | *The book <ins>**published** last year</ins> won several awards.* |
 | Preposition Complement | [ingcls+incomp](./2_Non-finite%20Clause/5_Syntactic%20function5/#preposition--ing-complement-clause)           | *The process <ins>for **washing** dishes by hand is attached</ins>.* |
 | Verb Complement        | [tocls+vcomp](./2_Non-finite%20Clause/6_Syntactic%20function6/#verb--to-complement-clause)             | *I want <ins>to **hold** your hand</ins>.*                     |
-| Verb Complement        | [barecls+vcomp](./2_Non-finite%20Clause/6_Syntactic%20function6/#verb--to-complement-clause)             | *They helped <ins>**promote** the concert</ins>.*                     |
+| Verb Complement        | [barecls+vcomp](./2_Non-finite%20Clause/6_Syntactic%20function6/#verb--bare-infinitive-complement-clause)             | *They helped <ins>**promote** the concert</ins>.*                     |
 | Verb Complement        | [ingcls+vcomp](./2_Non-finite%20Clause/6_Syntactic%20function6/#verb--ing-complement-clause)            | *I like <ins>**running** south Amazon running trail</ins>.*     |
 
 
