@@ -18,6 +18,8 @@ nav_order: 5
 3. Examples
    - *I’ll offer a suggestion for <ins>what we should **do**.</ins>*
 4. Discussions
+   - Cases where prepositions clearly elided should still be tagged as `whcls+incomp` as in the example below:
+      - *None of us are really too pleased \[about\]<ins>who's **running** the country</ins>*
    - When *wh*-complement clauses are part of a comparative construction, they are not tagged.
       - e.g., *this is the probability of getting **a score bigger than** <ins>what we calculate</ins>.*
    - Q. Should we include *that*-clauses? (e.g., *He took comfort in <ins>that he was not alone in his struggles</ins>*; *The scientist found satisfaction in <ins>that her research was making a difference</ins>*)
