@@ -19,6 +19,8 @@ nav_order: 3
    - *I raved about it <ins>**afterwards**</ins>.*
    - *He entered the room <ins>**quietly**</ins>.*
 4. Discussions
+   - *sort of* and *kind of* are treated as multi-word adverbs:
+      - *I <ins>**kind of**</ins> like running*
    - We do not tag linking adverbs such as (pp. 558-559; 875-879):
    ```markdown
    first, second, secondly, thirdly, lastly, altogether, overall, namely, ie, therefore, thus, however, alternatively, incidentally, now, next, further, similarly, also, likewise, moreover, i.e., e.g., consequently, so, then, anyway, yet, conversely, instead, anyhow, besides, nevertheless, still

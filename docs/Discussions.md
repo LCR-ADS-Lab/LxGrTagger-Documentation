@@ -38,9 +38,14 @@ In coordinated clauses, we tagged each verb that included an overt subject.
 
 - *He said <ins>he was **tired**</ins> but <ins>he **needed** a break</ins>* (coordinated *that*-complement clauses)
 
-## Multi-words
+## Multi-word sequences
 
 We defined several lists of fixed multi‐word sequences that are used during the processing of linking adverbs (pp. 558-559; 875-879), prepositions (p. 75), subordinators (pp. 842-843). In each case, any relevant tags are assigned to the last word of the multi-word sequence.
+
+### Multi-word adverbs
+```markdown
+kind of, sort of
+```
 
 ### Multi-word linking adverbs
 
