@@ -57,7 +57,7 @@ nav_order: 4
    - *The title <ins>**of** the book</ins> is Harry Potter and the Cursed Child.*
    - *... a war <ins>**of** words</ins>*
 4. Discussions
-   - Constructions involving a quantifier/number followed by *of* (e.g., *one of the, some of the, three of the*) are categorized with this tag.
+   - Constructions involving a quantifier/number followed by *of* (e.g., *one of the, some of the, three of the, none of the, most of the, a lot of the*) are categorized with this tag.
 
 ---
 
