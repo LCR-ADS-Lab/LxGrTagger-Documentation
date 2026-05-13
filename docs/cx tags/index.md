@@ -61,7 +61,9 @@ The tagging scheme is organized into hierarchical structures:
 | Preposition Complement | [ingcls+incomp](./2_Non-finite%20Clause/5_Syntactic%20function5/#preposition--ing-complement-clause)           | *The process <ins>for **washing** dishes by hand is attached</ins>.* |
 | Verb Complement        | [tocls+vcomp](./2_Non-finite%20Clause/6_Syntactic%20function6/#verb--to-complement-clause)             | *I want <ins>to **hold** your hand</ins>.*                     |
 | Verb Complement        | [barecls+vcomp](./2_Non-finite%20Clause/6_Syntactic%20function6/#verb--bare-infinitive-complement-clause)             | *They helped <ins>**promote** the concert</ins>.*                     |
+| Verb Complement        | [tocls+BEcomp](./2_Non-finite%20Clause/6_Syntactic%20function6/#verb--bare-infinitive-complement-clause)             | *a major challenge for any aquatic insect is <ins>to **obtain** sufficient quantities of oxygen</ins>.*                     |
 | Verb Complement        | [ingcls+vcomp](./2_Non-finite%20Clause/6_Syntactic%20function6/#verb--ing-complement-clause)            | *I like <ins>**running** south Amazon running trail</ins>.*     |
+| Verb Complement        | [ingcls+BEcomp](./2_Non-finite%20Clause/6_Syntactic%20function6/#verb--ing-complement-clause)            | *Their favorite activity is <ins>**climbing** desert towers</ins>.*     |
 
 
 ---
