@@ -37,7 +37,7 @@ nav_order: 4
    - *The city council is considering a new <ins>**traffic**</ins> regulation proposal.*
 4. Discussions
    - We tagged instances where proper nouns function as pre-modifiers in a noun phrase.
-      - In such cases, only the last part of the proper noun phras is tagged (e.g., *the <ins>Second World **War**</ins> decades*).
+      - In such cases, only the last part of the proper noun phrase is tagged (e.g., *the <ins>Second World **War**</ins> decades*).
    - We did not tag numeric modifiers (e.g., *eighty four hours*)
 
 
